@@ -1,0 +1,519 @@
+Hello, I believe I would be a good fit for this job,
+I’ve read your project post carefully and understand that you are looking for a full-service solution for your upcoming NFT project.
+
+I am very honest and patient, have good communication skills.
+My goal is time and quality, to best satisfy customer needs. Let's begin the glorious journey of working with you.
+
+I know this is the first time we talk but I would like to give you strategy session.
+Are you open to have a quick chat at your convenience?
+
+Greetings,
+Daniel William
+
+
+Hi
+From getting full points on your job description, I believe I would be a good fit for this job.
+
+I have rich experience on ...
+
+I can work on your timezone flexibly. Also ready to start immediately if you want.
+Due to my rich experience, I am sure that I can provide you the best thing as per your requirement.
+I am looking forward to hearing from you. Thank you for your consideration.
+
+Greetings,
+Daniel William
+
+
+---Blockchain----
+
+Dear Client !
+
+Your job really impressed on my mind.
+I'm posting this proposal after read your job description very carefully.
+It is my job. I can help you.
+
+In advance, please check my former projects.
+
+https://nefty-nft.vercel.app/#/ (Solana NFT marketplace)
+https://www.loom.com/share/b496c58323a9448991224078d41fe3d5(ETH marketplace)
+https://www.dwarfsf.com/ (Polygon mainnet)(frontend:vue.js, smart contract: solidity)
+https://dogedash.com/ (Frontend+Smart Contract+integration with game)
+https://mylottocoin.com/ (DeFi)
+https://app.traverse.money/#/stake (DAO)
+http://pharmswap.finance/ (Farming & Staking on BSC)
+https://validlog.com/ (Hyperledger, IPFS)
+http://growbnb.club/ (staking)
+https://livetoken.co/
+
+
+I have years of experience with NFT, Solana, Avalanche, Pangolin, DAO, DeFi, ICO, solidity, Web3.js, Smart Contract, Opensea,
+Meta Mask, Cryptocurrency, Ethereum, blockchain, Arbitrage bot, web frameworks including both front-end (SPA) and
+back-end (Rest/Soap/GraphQL apis), and have much experience in many related technologies,
+3rd party APIs/libraries integration, Azure/AWS/GCP Devops, and love to work in both of the new and existing projects.
+
+There are my past experiences on Blockchain part.
+- Smart contract development in networks (Ethereum, BSC, Matic/Polygon, Cardano) by using Solidity
+- Solana smart contract development (Unit test, Rust cosmwasm, solana-program-library, Solana-web3, Raydium integration) by using Rust and Anchor framework
+- Front-end development interactive with smart contract by using Web3, truffle, React(Redux / Thunk / Saga), Angular and Vue.
+- ICO, IDO, Defi Swap, Reward system for staking, AOM(Olympus DAO Fork), Hyperledger Fabric
+- NFT minting and NFT marketplace development(Create listing by admin, flat & Crypto payment, Bundle Sale/ Bulk Transfers, Drops, Rating, Bidding & Auction)
+- Minter in Candy machine and 10% royalty moved to burn and other wallets
+- Burn mechanism with kind of sharing rewards back to the holders
+- Minting by user randomly NFTs, Upload the NFT arts and Traits(metadata) to IPFS
+- Bot development for sale monitoring bot OS and Niftygateway
+- Cryto game development with crypto payment gateway
+   
+Due to my rich experience in the Blockchain I am sure that I can provide you the best thing as per your requirement.
+I am looking forward to hearing from you. Thank you for your consideration.
+
+Many Thanks & Regards
+
+---Smart contract----
+
+Dear Client !
+
+Your job really impressed on my mind.
+I'm posting this proposal after read your job description very carefully.
+I have been working on Ethereum, Solana, Binance, Polygon, Avalanche and Cardano Smart Contract development for several years.
+
+Here are my stacks on smart contract development.
+- Contract : Solidity, Rust + Hardhat, Truffle / Remix. (OpenZeppelin)
+- Defi, DEX, Gambling, Token building, Dapps, ICO, DAO, Presale.
+- Token : ERC-20, ERC-721， ERC-721A, ERC-1155, BEP-2, BEP-20, BEP-721, TRC-20
+- Managing Liquidity, Liquidity Pool and Swap
+- Trading Bot(Arbitrage, Trend Following, Market Making, Sniper FrontRunner Bot).
+- Cryptocurrency : Bitcoin, Ethereum, NXT, Vertcoin, NEO, Monero
+
+And I want to share my former projects to you.
+https://sweetswap.finance/
+https://app.sweetswap.finance/
+https://zonoswap.com/#/swap
+https://orangeswap.space/#/
+https://www.xcoins.com/ (Buy BTC)
+https://javvy.com/ (Crypto Wallet)
+https://mylottocoin.com/ (DeFi)
+https://next.exchange/ (Crypto Exchange)
+https://www.ilus-coin.com/home (Token website)
+http://pharmswap.finance/ (Farming & Staking on BSC)
+http://growbnb.club/ (staking)
+https://livetoken.co/
+
+Due to my rich experience in the Smart contract part, I am sure that I can provide you the best thing as per your requirement.
+I am looking forward to hearing from you. Thank you for your consideration.
+
+Many Thanks & Regards
+
+---Blockchain game development--
+
+Dear Client !
+
+Your job really impressed on my mind.
+I'm posting this proposal after read your job description very carefully.
+It is my job. I can help you.
+
+In advance, please check my former projects.
+https://metawarriors.club/
+https://spacemisfits.com/
+https://virtue.poker/
+https://sendgb.com/m0B7t5KZJW9
+https://ares.icicb.com/
+https://www.sandbox.game/en/snoopdogg/(Frontend+Smart Contract+integration with game)
+https://www.medabots.io/ (Frontend+Smart Contract+integration with game)
+https://sollemurs.com (Frontend)
+http://cryptoracing.vip/#(Fronend)
+https://dogedash.com/ (Frontend+Smart Contract+integration with game)
+https://cryptodrop.gg/#/vipplay
+https://cryptocitizen.world/marketplace
+
+Main experience in Game development
+Games (Unity/Unreal/Blockchain):
+- Play-to-earn games
+- Metaverse Games
+- 2D/3D Games
+- VR/AR Games
+- Endless Games
+- Strategy Games
+- Application-based Games
+- PC Games
+- 3D Modeling and Animation
+
+Hope we can work together.
+Have a great day ahead
+
+Best Regards
+
+----NFT marketplace----
+
+Dear Client !
+
+**Proficient in NFT Marketplace Design for auction and Development**
+I'm posting this proposal after read your job description very carefully.
+
+I’ll create the full functional NFT marketplace which including UI Design, Frontend development, NFT token contract,
+Bidding contract, Aggregator contract, Instant Sale, Royalty, Auction contract, Make an offer, IPFS or VPS integration, 
+Admin Dashboard, token minting, Setting on sale, Web3 integration, Server integration.
+
+I have developed some marketplace project.
+Please kindly check my former projects.
+https://lofi-market.com/
+https://nefty-nft.vercel.app/#/(Solana)
+https://app.ebisusbay.com/marketplace
+https://cryptocitizen.world/marketplace
+https://carsandbids.com/
+
+https://nft-market1106.herokuapp.com/ (NFT market place, truffle, Solidity, Ether.js, React.js, Rinkeby Test net)
+https://nft-generator1106.herokuapp.com/ (NFT generator, hardhat, Solidity, Web3.js, Next.js, Rinkeby Test Net)
+https://kitties1106.herokuapp.com/ (NFT generator, hardhat, Solidity, Web3.js, Next.js, BSC Test Net)
+
+Including Features:
+- Design of blockchain protocols
+- Design of consensus protocols and security patterns for the network
+- nft minting website development
+- Mintable token(ERC-721, ERC-20, ERC1155)
+- Smart contract development, testing, and deployment, integration
+- Familiarity with and experience working with OpenZeppelin
+- Creating web-based front ends to interact with smart contracts (React/Typescript, Web3.js, ether.js)
+- Backend development pertaining to Blockchain(Node.js)
+- NFT wallet development
+- Design of the network architecture
+- Supervision of the entire network
+
+
+
+Due to my rich experience in the marketplace, I am sure that I can provide you the best thing as per your requirement.
+I am looking forward to hearing from you. Thank you for your consideration.
+
+Many Thanks & Regards
+
+---backend-blockchain--
+
+Dear Client !
+
+Your job really impressed on my mind.
+I'm posting this proposal after read your job description very carefully.
+I think it's interesting and matching with my skills.
+
+I've been working on Blockchain-related projects since 2015.
+Besides that, I've been doing back-end / embedded / system software development since 2011.
+I designed and develop many back-end applications for Windows and Linux Platform.
+Major programming languages I've used are C++/GoLang/NodeJS, plus few popular scripting languages.
+I've also experienced Design patterns, STL, Boost, multithreading, IPC, Socket Programming, etc
+Projects Developed in GoLang:
+- MultiWallet Blockchain Development
+- Added features in open source Go RockDB
+- Binance Triangle Arbitrage
+My areas of expertise in Blockchain based open sources:
+- Bitcoin - Dash - Bitshares - PeerPlays - Monero - EOS - EOS Smart Contract - Steem - PIVX - Blockbook - Trustwallet Contributor
+Databases I have experience with MySQL, Oracle, Hadoop ecosystems.
+Version Control Systems I have used: Git, SVN, CVS, IBM ClearCase.
+
+Due to my rich experience in the Blockchain I am sure that I can provide you the best thing as per your requirement.
+I am looking forward to hearing from you. Thank you for your consideration.
+
+Many Thanks & Regards
+---web---
+Dear Client!
+
+I have 8 years experience using React & React native.
+Usint these technologies I completed and deployed 23 web projects.
+Some of them are
+https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf
+https://mightymongooses.com
+https://wagmimark.io
+https://undeadpastelclub.io
+https://www.creepz.co
+I've completed these website and apps myself.
+Please concentrate on the website mightymongooses.
+I feel that it's very wonderful. You can find me as  Hiro as a full stack developer in their team members. It's NFT mint service so I've completed both of its Dapp and service.
+Sorry but I can't share all of my previous projects because I've already signed NDA with my clients. I hope you will understand my mind.
+
+Using hook we can make the source shorter and clener as same functions than traditional react compoent class with function component and compinated lifecycle methods such as useEffect.
+
+So I'd like to explain about it in my words. are you okay?
+I don't like to explain in following any other's technical articles or directions. I always understand technical points as my style and try to explain about it in my words.
+
+React hook has some advantage features than traditional react. Of course over 16.8 versions of react is called react hook.
+In react hook we can make the projects shorter and cleaner than lower versions using function components and combined life-cycle methods such as useEffect.
+For example useEffect is combined some previous life-cycle methods such as compoentWillMount and componentWillRecvProps.
+
+Many thanks and Regards
+
+
+-full stack---
+Dear client!
+
+I am passionate Full-stack developer with expertise in Jamstack | Gatsby | NextJS | NetlifyCMS | Strapi | Sanity.io | DatoCMS | Ghost | Tailwind | Frontity | Remix | React-native | ReactJS | Graphql | HeadlessCMS | Gulp | Typescript | Html5 | CSS3 | Wordpress | Shopify | Woocommerce | any open source projects. With a keen interest in apps and a sharp eye for the latest trends, I does not let pass an opportunity to help the developer community with articles and tips on honing the craft.
+
+Over 12+ years of IT experience which includes 3+ years of Experience as a UI/UX Designer and 9+ years of Experience as Front End Developer.
+
+Over the last 3 years, I help agencies and companies with modern web development (JAMstack) tools. This includes web development using Static Site Generators, Headless CMS, Mobile Development.
+
+My first priority to provide a 100% satisfaction to my client and good quality work.
+
+✔ WHY CHOOSE ME?
+
+→ Good Communication Skills.
+→ I Believe in Long term Business Relationships Only.
+→ Continued support after the delivery of the final product
+→ 100% Satisfaction guaranteed
+
+Love to work on JAMstack 🔥
+
+✔ Front-end
+- React, NextJs, Gatsby( My Favorite ), Remix, Hugo, Ghost, Jekyll, Nuxt, Frontity, Redux, MobX, Typescript, Hooks, Webpack, GraphQL, Gulp.
+
+✔ HeadlessCMS
+- Sanity, Prismic, Craft, Strapi, Agility, DatoCMS, Sanity.io, Contentful, NetlifyCMS, Headless Wordpress, Headless Shopify.
+
+✔ BackEnd
+- NodeJs, PHP/Laravel.
+
+✔ CSS
+- Tailwind, Bootstrap, Bulma, MaterialUI, Foundation, pure css/saas.
+
+✔ Databases
+- MySQL, postgres, mongo, dynamoDB.
+
+✔ Deploy and CDN
+- Vercel, Netlify, Gatsby Cloud, Heroku, Firebase, AWS, Jenkin, Gradle.
+
+✔ Other tools and skills
+- Git, Jira, AWS, Linux, Web Scraping, Python.
+
+✔ UI/UX Design
+- Figma, Apple Sketch, Adobe PS, XD, Zeplin.
+
+✔ Mobile App
+- React Native, flutter
+
+
+Looking to add additional services to for your business ? Let's Talk!
+
+
+CONTACT ME TODAY
+Thank you!
+
+-----
+
+---Smart contract Audit---
+Dear client!
+
+I have rich experience with smart contract audit on ETH, BSC and Avalanche Erolnd, etc.
+There are my regular processes to audit smart contract.
+
+1. Source Code Lock-down
+2. Project Familiarization Phase
+3. Preliminary Code Review
+4. Static Code Analysis
+5. Code Quality Analysis
+6. Known Vulnerability Analysis
+7. Functionality Analysis
+8. Live Testing
+9. Gas Usage
+10. First Round Audit Report
+11. Review of Round One Fixes
+12. Final Audit Report
+
+I want to discuss more detail. As a smart contract audit expert, i will guarantee your smart contract to the end. And I will also take responsibility for your smart contract!
+
+Warm Regards
+
+---P2Egame development
+
+Dear client
+
+I've been developing software for 7+ years, and have a wide range of experience in the area. I'm available for blockchain as well as web development.
+
+High Quality, High Security, and Fast Delivery are my first rules during development.
+
+I have good experience in Blockchain P2E games with unity3D and 2D.
+- Super Mario, Meta man, Racing, Poker, Pong, Roulette, Shooting, Casino, Chess, Checker, Scrabble, Ludo...
+
+Please kindly check my recent project
+https://racewayx.com/
+https://poker-nft.geeksolutions.consulting/
+https://cryptoholdemnft.com/
+https://game-hounds.geeksolutions.consulting/
+
+Specialize in:
+- Smart contract development, testing, and deployment
+- Developing De-Fi apps like pancakeswap and uniswap
+- Developing NFT marketplace
+- Tokenization of real assets, media, and social management
+- Creating web-based front ends to interact with smart contracts
+- React, Nextjs, Nodejs, Shopify, Laravel, Django, Golang, Rust, Solidity
+- Typescript, Scss, Aws, CI/CD, Mysql, Postgresql, MongoDB
+
+I can work full time and I am looking for a good client who can work with me long term.
+If you are interested in my proposal, please contact me.
+
+Warm regards
+
+
+-Crypto job sites Bids-----
+Dear client!
+
+Professional Full Stack Web and Blockchain Engineer
+
+I am a senior Full stack Web and Blockchain developer who has more than 5 years of experience.
+I worked in :
+https://sweetswap.finance/
+https://app.sweetswap.finance/
+https://zonoswap.com/#/swap
+https://orangeswap.space/#/
+https://www.xcoins.com/ (Buy BTC)
+https://javvy.com/ (Crypto Wallet)
+https://mylottocoin.com/ (DeFi)
+https://next.exchange/ (Crypto Exchange)
+https://www.ilus-coin.com/home (Token website)
+http://pharmswap.finance/ (Farming & Staking on BSC)
+http://growbnb.club/ (staking)
+https://livetoken.co/
+
+ 1. Blockchain
+- Solidity
+- Smart Contract, ERC20, BEP20, TRC20, ERC721/ERC721A, ERC1155
+- Web3.js, Ether.js, Web3.py
+- NFT marketplace, NFT mint site, NFT transfer site, NFT gambling site
+- Merkle Tree WL, Opensea API, IPFS, HashLip
+
+2. Frontend
+- React.js, Redux, Redux-Saga, Redux-thunk
+- TypeScript, Styled-component,
+- Tailwindcss, Material UI, Ant Design, BootStrap, HTML, CSS, Canvas
+
+3. Backend
+- JavaScript - Node.js, Express.js
+- PHP - Laravel, WordPress
+- Python
+- Django, Flask
+- Ruby on Rails
+- ASP.NET 
+
+4. Project Management
+- Github, Gitlab, Bitbucket
+- Jira, Trello, Microsoft Team
+
+I think communication and global team spirit is key for the project success.
+I can work in your time zone as a full time and I am just ready to start work now.
+
+Thank you.
+
+---------
+---BLockchain---
+Dear client.
+As a self-professed fanatic about blockchain technology, I have more than 6 years of experience in many different areas of computer programming.
+I have deep knowledge about Ethereum and am very familiar with BSC, Solana and Elrond.
+I can develop NFT marketplace from scratch according to your reqirements.
+I'm also very familiar with Metaplex and Cany Machine V2.
+So far I have built more than 30 projects in cluding
+I take credit as the most important principle.
+If you hire me, success will always be your turn.
+
+- Main Skills
+◊ Ethereum
+ Smart contract
+ NFT minting, selling, buying and staking
+ Token swapping
+ ERC20/ERC721/ERC1155
+ NFT marketplace development
+◊ Solana
+ Creating smart contract using Rust
+ Metaplex and Candy Machine V2
+ Creating Spl-token
+ NFT marketplace(minting, selling and buying)
+ NFT breeding
+◊ Elrond
+ Creating smart contract using Rust
+ NFT minting
+
+- Other Skills
+ front-end: React, Redux, Vue, angular, SCSS, Bootstrap
+ back-end: Express, Php, Laravel, Django
+
+- My work experience
+ Solana NFT breeding site:
+    https://solanimals.com/
+    https://www.ehecatldragon.com/
+ NFT minting site
+    https://www.solkitties.net/
+    https://hip-frontend.vercel.app/
+ E-commerce site
+    https://www.one-immortl.com/
+
+Best Regards
+
+----Blockchain-Normal--
+Dear client!,
+
+My name is Daniel William and I am a Senior Software Engineer and Programmer with over 5 years of experience. I'm highly experienced in software architecture and engineering, B2B/B2C and SaaS/BaaS solutions, web and app development, and more!
+
+My primary strengths include:
+DeFi, DApps, NFT
+Smart Contract: Erc20, 721, 1155, BEP-20, Solana, Matic
+Solidity, C++, Rust, Web3.js, Ether.js
+Metamask, Walletconnect, Trustwallet...
+
+I take pride in having clean and efficient code that offers elegant solutions to challenging problems. Thanks to the 5+ years of experience I have working with some of the most recognizable brands in the world, I am more than confident that if given the opportunity, I will exceed your expectations. I look forward to hearing from you and potentially working together.
+
+Regards
+
+
+--Marketplace2--
+Dear,
+We have developed Blockchain/NFT marketplace and so many other marketplace Platforms. Please review some of them at bottom.
+=@ https://async.art/
+=@ https://www.nftically.com/
+=@ https://designs.nyusoft.in/NovBee/index-02.html (Website is under development)
+=@ https://www.blockchainalmanac.com/
+=@ https://www.merqary.com/
+=@ https://spaceloud.com/
+=@ https://teachersaustralia.com.au/ (Web and Mobile Applications)
+=@ https://yokker.co/
+=@ https://www.wafiapps.com/
+=@ https://oddsbeater.nl/
+
+=> I have reviewed your JOB Opening and having few questions around it so what will be the good time for discussion? so I can be back with exact timeline/cost and detailed proposal. Also, I have signed NDA, so I can't share the Github profile link. For details about our agency, please refer to our site: https://www.nyusoft.com/
+
+=> I have expert team of Front End/Back End Developers/Designers(UI/UX)/Team Leader/Project Manager/QA (10+ years experienced team) having in-depth technical and practical expertise on Marketplace.
+
+- Here are services which we will provide you.
+=> We will provide you UNLIMITED revisions for site Design to make sure you will get the Best.
+=> Your website will be Unique, attractive, user-friendly, fully responsive based on LATEST
+technologies.
+=> Site will be RESPONSIVE(site will be compatible with Mobile Devices, iPads and Tablets etc.).
+=> Site will be w3c compatible, SEO Optimized( Like Optimization of the entire site with images, Meta tags, Meta descriptions, SEO friendly URL, Anchor tags etc..), Speed Optimized and Google Test passed.
+=> We also can provide you 6 months of support absolutely FREE.
+=> Reference: Provide you as many references required throughout the World.
+
+We look forward to hearing from you. Thank you for your consideration.
+
+-Many Thanks & Regards,
+
+
+-Blockchain---
+Hello
+I am a passionate Blockchain Developer with over 5 years of relevant experience in blockchain.
+I have many years of technology in Solidity/Truffle/Hardhat, , react,js Web3.js/Ether.js, Rust, Open Zeppelin, GraphQL, several blockchain APIs and completed several project providing client-satisfied result.
+
+The following skills are my power skills.
+- NFT minting, NFT marketplace.
+- New crypto wallet, Auditing
+- Trading bot, Snipping bot, Front running bot, Arbitrage bot
+- Staking, Farming, Swap, DEX Building, DEFI platform, Lending & Borrowing system, Crypto Game based on Ethereum, Binance, Casino, Polygon, Solana.
+- Web3 integration with any smart contract.
+- Frontend development.
+
+In addition,,,,,
+*** Full time and hard work
+*** Power team management
+*** Flexible communication
+
+My time zone is very flexible.
+I can start work immediately and also I can work full time in your time zone.
+I 'm confident enough that I can finish the projects without any problem within your time rate and budget.
+Please contact me if you want to hire reliable and honest dev and see perfect result.
+Thanks for your attention.
+All the Best!!!
+
+---

@@ -1,0 +1,710 @@
+===================Overview==============================
+Hello Clients!
+Full Stack Software Engineer | Webflow, Bubble, Chrome extension, Three.js | Vue.js, React, Node.js, Angular| AWS, GCP, Firebase. I am also familiar with Asp.Net.
+I have done several complex projects, and provided continuous maintenance support. My goal has always been to provide reliable and efficient to my clients and so far I have been quite successful. I won't delay your project and will keep you updated with constant feedback and status of the work.
+
+A highly analytical and quality-oriented Software Engineer and Developer with a demonstrated history in product development, software solutions, programming, system implementation, and database solution and deployment, combined with a track record of delivering outstanding information technology and services industry projects. Leverage technical knowledge to build applications from problem statements to well-documented designs, resulting in improved efficiency, accuracy, and reliability. Proficient in understanding and transforming client requirements to exceptional engineering ideas and well-researched responsive solutions. An innovative individual who possesses strong communication skills and the ability to present solutions to both technical and non-technical audiences.
+
+My Full Stack Development Skills
+1. Frontend: Front-End HTML5, CSS/CSS 3, JavaScript, jQuery, Tailwind CSS with figma, XD file.
+2. Frameworks: Angular Js, React JS, Vue.js, Next.js, Node.js, Nuxt.js, ExpressJS
+3.  Metaverse: three.js, web3.js
+4. No code: webflow, bubble.io
+5. Chrome extensions
+6. Databases: MongoDB, Mysql, Oracle, PostgreSQL, MS SQL, SQLite
+7. Testing: Manual & Automation testing.
+
+Type of projects we have delivered to our global clients:
+a. Enterprise Software Development,
+b. SAAS Product Development
+c. Web/Mobile Based Application development.
+d. HRMS Software
+e.  Multi-level Marketing (MLM) with crypto payment gateway
+f. E-commerce installation and customization g. Crypto Exchange Development
+
+I will do my best on your project and want to have a long-term relationship with you from your project. Your project will be finished in high quality and as you expected.
+I am an innovative and strategic thinking professional with a proven track record of consistently going above and beyond in meeting customer needs and providing more value to the product than what the customer is paying for.
+For this reason, they always get back to us again and again with promising ideas and projects.
+Thanks for your attention.
+Best regards.
+
+==================== Normal =============================
+Greetings! 
+I am experienced with react, react with typescript , Nodejs(Graphql or Rest API) with typescript , MongoDB, TDD, Graphql or Rest api integration, AWS, devops work. 
+And I would be really fit for this project becuase I am passionate with javascript/typescript coding.
+
+https://www.wehaveanyspace.com/en/ (AirBnB-like platform for commercial real estate)
+Stack: React.js, TypeScript, Node.js, MongoDB, Redis, Ngnix, Git
+Functionalities: Building the catalog of real estate, Responsive UI, Google Map integration and geolocation recognition, Integration with CRM leads, Autocomplete search by street, city, region, Mailchimp newsletter, multi-language, Continuous performance improvements, identify the location on 8 countries, User's selected items shortlist, CI/CD
+
+https://www.ruuster.com/ (Real estate - manage homebuying processes
+Stack: React, Next.js, Node, MongoDB, Ngnix, AWS
+The first challenge I faced was the problem with authorization. I quickly managed to eliminate it and ensure high quality. And the next challenge was the issue with analytics. Since analytics is as important as the performance of a solution, I did everything possible to make sure that my clients get all the data and can analyze it effectively.
+
+
+I use react functional component with hooks, write clean code, use comment for coding, code immutable and functional way, use lodash , make reusable code, make custom hooks if needed, optimise code etc. I would be really good fit for this project as I can develop high performance MERN app.
+
+ 
+
+ -Normal full stack-
+Hello, I am full stack mobile and web application developer with over 8+ years experience
+I am quick, always use clean, tested and responsible code.
+My goal is to create products that clients and users will love to use.
+I can speak English fluently so we can discuss on voice call. My Expertise are in thefollowing skills
+⭐Android(java, kotlin), iPhone(Swift, Objective C)
+⭐BLE, Raspberry pi, Arduino, jmDNS, NFC.
+⭐Hybrid app(React Native, Cordova, ionic, Flutter.io)
+⭐OCR( Tesseract 4.0, Google OCR sdk)
+⭐Video streaming and Image processing(OpenCV, XMPP, WebRTC)
+⭐Third Party API manipulation.
+⭐Front End (React.js/Redux, vue.js , Angular, HTML5, CSS3, SCSS, Bootstrap)
+⭐Back End (Python/Flask/Django, Ruby on Rails, Yii, Node.js, Laravel)
+We're ready to be hired by you. I will be more than excited to provide you a quality solution and earn your respect, confidence and trust
+
+Regards
+
+
+====================bid1 (jobsite full stack)=============================
+
+Hello,
+ReactJS/ NextJS / NodeJS / Web3.JS / Smart Contract/ Blockchain / GraphQL / Redux / Redux Saga Expert / GraphQL ( Apollo Client ) / Algolia Search / Elastic Search / MaterialUI / Ant Design / Tailwind CSS / SemanticUI / Bootstrap ( 5+ Years of experience ).
+
+Unit Testing : Jest/Jasmin
+UI/UX Tools : Figma/Zeplin
+Languages : HTML/CSS/JavaScript/TypeScript/SCSS/LESS/Flex Box/PHP
+Source Control : Github, Bitbucket
+Development. : Agile development lifecycle ( Jira , ClickUp )
+
+Please review my some of the previous projects.
+Clients are very much happy with my Quality / Deliveries / technical Support.
+
+1. Project: Quality Works ( Domain : Call Quality Analyzer)
+live : https://dev.servicepack.ai
+
+Features:
+- Complete Dashboard for Customer code quality analysis using machine learning APIS.
+
+Technologies :
+- Front-end : ReactJS / Redux / hook / MUI / HighCharts.
+
+
+2. Project: Bitcoin mining tool.
+live site: https://braiins.com/
+
+Feature:
+- Complete platform for bitcoin mining, provides different calculators for
+Calculating COST TO MINE BITCOIN etc.
+
+Technologies :
+- Front-end : ReactJS / Redux / hook / Material-UI / Chart.JS
+
+3. Project : Swapaholic Market place.
+Live Sites ( Website ) : https://swapaholic-marketplace.web.app/
+Live Sites ( Admin Panel) : https://swap-mkt-dashboard.web.app/
+
+Features : Swapaholic provides platform for buying and selling your old cloths. We can create our own shop to sell and
+can also buy cloths. It provides main user faced website + user dashboard to track orders and accept/decline orders.
+
+Technologies :
+- Front-end : ReactJS / Next.JS / Redux / Hook / Bootstrap / Material-UI
+
+
+4. Project: Digital pass management system
+Live Sites( Dashboard ) : https://vms.s-onedigital.com/
+
+Features : AccessOne provides complete solution for managing resident's visitors. Residents can create passes for their
+visitor to monitor check-in / check-out activity. Security Agents can scan the QR code generated by residents.
+
+Technologies :
+- Front-end : ReactJS / Redux / AdminLTE 3 ( Admin Dashboard Theme)
+
+Others :
+5. NFT MarketPlace - https://unxd.com/
+
+Let's have more discussion. I can start right now.
+
+Thanks,
+Waiting for your response.
+Have a nice day!
+Cheers!
+
+================ full stack developer COOL Jon interview========================
+
+Hello, I am full stack mobile and web application developer with over 8+ years experience
+I am quick, always use clean, tested and responsible code.
+My goal is to create products that clients and users will love to use.
+I can speak English fluently so we can discuss on voice call. My Expertise are in thefollowing skills
+
+Please kindly check my certifications.
+Certification.
+Javascript
+https://www.hackerrank.com/certificates/8cfb2f92738d
+Node.js
+https://www.hackerrank.com/certificates/96d33d981626
+Angular
+https://www.hackerrank.com/certificates/43705dc55e06
+Python
+https://www.hackerrank.com/certificates/03cca12defba
+
+My Full Stack Development Skills
+1. Frontend: Front-End HTML5, CSS/CSS 3, JavaScript, jQuery, Tailwind CSS with figma, XD file.
+2. Server Administration: Amazon Web Services, Digital Ocean, LAMP, Cloud, Apache, Apache Tomcat, NGINX.
+3. Backend: PHP, GoLang, Ruby, Python, Laravel, CI, CakePHP.
+4. Databases: Mysql, Oracle, PostgreSQL, MS SQL, SQLite, MongoDB.
+5. Testing: Manual & Automation testing.
+6. Frameworks: Angular Js, React JS, Symfony2, Laravel, Silex, Spring MVC, Rails, Django, Pyramid, Protractor, Selenium, Vuejs
+7. UI/UX: Photoshop, Sketch, Zeplin, Invision, Moqups.
+
+Type of projects we have delivered to our global clients:
+a. Enterprise Software Development,
+b. CRM Development,
+c. SAAS Product Development
+c. Web/Mobile Based Application development.
+d. All CMS website: Wordpress, Magento, Joomla,
+e. HRMS Software
+f. Multi-level Marketing (MLM) with crypto payment gateway
+f. E-commerce installation and customization g. Crypto Exchange Development
+
+Please chat to discuss more regarding this project.
+
+=========================== Node js Cool===========================
+
+Hi
+As a full stack developer, I have rich experience in Node.js, React, Next.js, Graphql, MongoDB.
+
+Please kindly check my certifications.
+Certification.
+Javascript
+https://www.hackerrank.com/certificates/8cfb2f92738d
+Node.js
+https://www.hackerrank.com/certificates/96d33d981626
+Angular
+https://www.hackerrank.com/certificates/43705dc55e06
+
+Please kindly check my former projects
+1-https://apple.co/3jSeMYE : I have build backend using nodejs, express, mongodb for this app. Frontend with react native.
+2-https://visnesarrafiye.com: Nodejs, express,mongodb, heroku
+
+- Experience with JavaScript (ES6+), TypeScript;
+- Experience with React, Angular, Vue.js ;
+- At least 4+ years of work experience with NodeJS;
+- Experience with GIT;
+- Experience with SQL(postgresql);
+- Experience with NestJS/ ExpressJS / KoaJS / Fastify;
+- Experience building and debugging complex systems
+It is advantageous if you have experience using any of the following:
+- Experience with Kafka, Docker;
+- Experience with K8s;
+- Experience with Redis;
+- Experience with ElasticSearch;
+- Experience with CI (Jenkins, etc...);
+- Experience with Microservices;
+- Experience with TypeORM;
+Responsibilities:
+- Feature development
+- Participating in feature grooming
+- Communication with other team layers: BE, FE, QA, designers.
+
+I will do my best on your project and want to have a long-term relationship with you from this project. Your project will be finished in high quality and as you expected.
+I am an innovative and strategic thinking professional with a proven track record of consistently going above and beyond in meeting customer needs and providing more value to the product than what the customer is paying for.
+For this reason, they always get back to us again and again with promising ideas and projects.
+Thanks for your attention.
+Best regards.
+
+
+------------------------------HTML, CSS------------------
+Hi
+Thanks for your job posting
+I have carefully read your job description and confidence in this project.
+I converted 236 designs to live websites using React, Vue.js or HTML, CSS, and JavaScript so far.
+Especially, I am familiar with React so I can provide perfect results to you.
+Don't worry about my result.
+I can start right now and work full-time in your time zone.
+
+Please kindly check my certifications
+Javascript
+https://www.hackerrank.com/certificates/8cfb2f92738d
+Node.js
+https://www.hackerrank.com/certificates/96d33d981626
+Angular
+https://www.hackerrank.com/certificates/43705dc55e06
+Python
+https://www.hackerrank.com/certificates/03cca12defba
+
+I have great communication skills in English, both written and verbal, and I understand how important communication and alignment is to succeed together.
+After finishing this project, I am open to offering FREE AS SERVICE including beta features without not require extra payment.
+I will do my best on your project and want to have a long-term relationship with you from this project. Your project will be finished in high quality and as you expected.
+I am an innovative and strategic thinking professional with a proven track record of consistently going above and beyond in meeting customer needs and providing more value to the product than what the customer is paying for.
+For this reason, they always get back to us again and again with promising ideas and projects.
+Thanks for your attention.
+
+Best regards.
+Daniel William
+
+--------------------------
+==================== React expert bid =========================
+
+Hello
+
+I have been working as a React engineer for over 5 years, and during that time I specialized in React Hooks, Redux for state management, and its related libraries & packages.
+I'm also proficient in integrating REST APIs and writing unit & e2e tests.
+When it comes to UI libraries, I'm well-versed in Material-UI, AntD, and so forth.
+While having a strong knowledge of React.js, I also have extensive experience with NodeJS frameworks especially Express.js.
+
+Would you mind looking at my React(TypeScript) projects?
+https://app.coinswap.space/
+CoinSwap Space is a decentralized exchange or DEX created for swapping BEP20 tokens on the Binance Smart Chain.
+The main challenge was making updates to an existing legacy platform that was difficult to maintain, support and improve due to its architecture, underlying technology and design.
+Most of the original code was refactored to make it more modular & reusable, and wrote form-based pages to dynamically change as data was entered and REST API was queried.
+Also, working as a front-end engineer, my goal was to implement interactive pages and functionalities to enhance platform stability and security.
+
+https://nexusnotes.com - An online notes upload website , Backend architecture designed by me
+
+https://www.architecturaldigest.in/ - An Editorial application built on React.js. Frontend is architect-ed by me including UI/UX
+
+https://delightiq.com/- An online booking portal for a client in Mauritius. (Backend Architect-ed by me)..
+
+https://www.aurumfit.com/ - An online fitness platform ..I was involved i FE (Built from Scratch)
+
+ My Main skills are the rapid development and precision to the details that really makes me different from others.
+
+Communication is one of the most important things in remote working, and I always keep daily updates to during the project & test upon completion.
+
+I can start working right now with more than 40 hours of availability in your time zone, so feel free to contact me anytime.
+Looking forward to talk with you.. 
+
+Best regards
+
+========================== blid 2(jobsite)=================
+
+    Hello,
+    I am a "Full stack developer” with more than 7 years of experience in web application development.
+
+    My skill set includes javascript frameworks like  React.js, Vue.js, Vuex/Redux, material UI/Vuetify, Angular and so on.
+
+    Also I have deep knowledge of laravel, Codeigniter, Symfony, Durupal, Wordpress with Mysql, Sqlite, PostgreSQL.
+
+    I use project management tools like Jira, Trello, BaseCamp, Pivotal Tracker, etc. 
+
+    For code management, I use Git, SVN etc.
+
+    I am familiar with firebase, AWS EC2, S3, Amplify, Lamda, Docker, Azure, Google Cloud Platform services etc
+    
+    I have successfully completed many projects with great feedback as well. 
+
+    please review the jobs hooked below that are directly related to your job details
+
+    ***Check out the Websites below which I have built using the React.js and node js***
+
+    • Educative
+    https://www.educative.io
+    [A course builder app, Code Editor to level up your coding skills, Test your progress as you go and Free online courses for Java, Java Script and all languages and Make your own course to teach others and get paid]
+
+    • Unibuddy
+    https://unibuddy.co
+    ( implements solutions that allow prospects, applicants and offer holders to interact with current student ambassadors at their targeted courses.)
+
+    • OnGraph [my company website - good example of React.js]
+    https://www.ongraph.com/
+
+    • Mall 91 (Market place, our own product million of user)
+    https://www.mall91.com/#/
+    It is a vernacular responsive social commerce platform that combines live videos-based shopping, local language voice recognition-based catalog, chat-based checkouts etc. and integrate social media sites into sales.
+    _____________________________________________
+
+
+    • Vettimes
+    https://www.vettimes.co.uk/
+
+    • House of Wallace
+    https://houseofwallace1985.com/
+
+    • Journey Mexico
+    https://www.journeymexico.com/
+
+    • SimmerNote
+    https://www.simmernote.com
+
+    let's jump on call or chat so that we can discuss your project in detail and identify how my skill set will work best for you, and provide immense value to your organization.
+
+    Regards
+
+================================ bid 3(job interview)=========================
+Hi, Greetings!
+
+I am a versatile, committed, and self-motivated Full Stack Developer. I have over 7 years of development experience in teams and companies.
+
+I am excited about your ideas after reviewing this job description. I am very confident to develop with Javascript frameworks like Node, React, etc.
+
+My main expertise:
+- Html, CSS, Javascript, TypeScript
+- Node, Nest, Express, React, Redux, etc
+- MongoDB, PostgreSQL, Firebase, REST API, GraphQL, Apollo, Mapbox, etc
+- Docker, microservices, Kubernetes, CI/CD
+- AWS EC2, S3, Amplify, Lamda, etc
+- Azure, Google Cloud Platform services
+
+My recent Example:
+https://www.peerlinc.com/ - Node, Typescript,
+https://www.ahoramoney.org/
+This is a telemedicine management system.
+Clients goal:
+Create a solution for providing and receiving healthcare services online, including telemedicine consultations
+Design a system that can be easily submitted for certification by the UK local authorities
+Provide an appointments management convenient for all parties: Patients, Doctors, and System Admins
+Solutions :
+Development of the turnkey system ready to use by the Provider and its Patients. The flexible solution can be scaled and customized for new goals and users
+Creation of the system’s architecture and functionality considering the requirements of GDPR and UK healthcare regulators such as CQC and MHRA
+-Building of the SaaS allowing 24/7 online access to general practitioners and clinicians, video and audio consultations, and easy appointment booking
+
+Technical stack:
+Front-end - React, Redux
+Back end - Node, Express, Mysql, Redis
+Other integration - Twilio, Stripe, AWS, Firebase, Amazon S3,
+
+On the project, we’ve passed through the steps from delivery to release and support, achieving all goals set.
+
+As a senior developer, I will
+- Write the reusable and clean code
+- Follow Agile methodology to quickly develop new features
+- Look for ways to make the team more productive and improve code quality
+
+
+I'm 45+ hours available at the moment and looking forward to discussing the project during the interview.
+Thank you for your time, and I am looking forward to hearing from you.
+
+Best regards
+
+=======================bid 4(job interview)======================
+
+Greetings!
+
+I have gone through your job post and would like to talk to you more. I've expertise in developing web apps and websites using Reactjs and Nodejs. Have very good experience in the JS platform and the tech stack you have mentioned in your job post.
+I'm Daniel William, a full-stack Developer with extensive experience of more than 4 years working in IT industry. Most of my experiences include Frontend and Backend development for different web apps.
+Below are my key skills which I think will be helpful for the project-
+
+1. Frontend Development- Reactjs, AngularJS, JavaScript, TypeScript, jQuery, HTML5, CSS3
+2. Backend Development- Nodejs, Expressjs
+3. Database- MYSQL, MongoDB, GraphQL
+4. Have worked on AWS server, Firebase, GitHub, Bitbucket.
+
+Related Successful Projects-
+
+➡Gidimo:
+✓ Social learning app
+✓ Video calling with tutors
+✓ Earn coins & buy gifts with the coins
+✓ E-commerce integration
+
+https://gidimo.com/
+https://play.google.com/store/apps/details?id=com.gidimo
+
+
+➡Coupon to pay
+✓ Categorized coupons and Rewards
+✓ Special Offers
+✓ Payment integration
+✓ Perfect UX for Mobile and Web
+
+https://www.coupontopay.com/
+
+
+➡ igp.com (E-commerce Platform)
+This app includes an option for vendor panels like Product management, Order management, Delivery management, and Offers management
+✓ User Profile
+✓ Personalized gifts
+✓ Cart and saving
+✓ Categories and Payment
+
+https://www.igp.com/
+
+
+➡ Aesthetic record: EMR & Practice Management Software Solution (SAAS)
+✓ HIPAA compliant
+✓ Dashboards - For Patients & Clinics
+✓ Appointment Scheduling
+✓ Create high-quality before and after photos,
+✓ Inventory management
+✓ Reports - For Admin & User
+
+https://www.aestheticrecord.com/
+
+
+Kindly go through the above links to ascertain my competency. Looking forward to talk to you soon.
+
+Regards
+
+==============================Bid 5 MERN=============================
+
+Hello,
+
+I am a senior MERN stack developer with hands-on experience in React.js, Node.js and their ecosystem.
+Working as a full-stack developer, I have worked on many successful bug-free web app development projects using React.js, Node.js and etc for eCommerce, data visualization and etc.
+
+Here are some technologies I often use:
+- State management of UI components individually or globally using: Redux, Mobx, Flux
+- RESTful API integration using: Redux-Thunk, Redux-Saga
+- Responsive UI development using: Styled components, Material UI, Antd design
+- Shared components development using: Storybook
+- Unit test for UI side using: Jest & Enzyme
+- Back-end API development using: Node.js, Express.js, Koa.js
+- Database development using: Mongoose.js, Sequelize.js, Knex.js
+- Unit test for Node.js modules, services, endpoints and etc using: Mocha & Chai
+
+Here are some examples of my works:
+https://www.wehaveanyspace.com/en/ (AirBnB-like platform for commercial real estate)
+Stack: React.js, TypeScript, Node.js, MongoDB, Redis, Ngnix, Git
+Functionalities: Building the catalog of real estate, Responsive UI, Google Map integration and geolocation recognition, Integration with CRM leads, Autocomplete search by street, city, region, Mailchimp newsletter, multi-language, Continuous performance improvements, identify the location on 8 countries, User's selected items shortlist, CI/CD
+
+https://www.ruuster.com/ (Real estate - manage homebuying processes
+Stack: React, Next.js, Node, MongoDB, Ngnix, AWS
+The first challenge I faced was the problem with authorization. I quickly managed to eliminate it and ensure high quality. And the next challenge was the issue with analytics. Since analytics is as important as the performance of a solution, I did everything possible to make sure that my clients get all the data and can analyze it effectively.
+
+https://homely.com.au
+https://www.home2market.com
+https://auctionlane.com
+
+In these projects, as a full-stack developer, I worked on:
+- Building basic components using React Hook API, Storybook, Material UI and etc
+- Building responsive pages using basic components and state management using Redux, Mobx
+- Routing using react-router
+- RESTful API development using Express.js
+- qase query and mutations using GraphQL, Apollo
+...
+
+Now I have full-time availability and I can dedicate full-time to this project.
+Looking forward to hearing from you soon.
+
+Regards.
+
+========================= bid 21 =============================
+
+My name is Daniel William.
+I confirm the developer meets the listed skills and is currently available for 40+ hours a week. Ready to pass the technical interview and/or accomplish an evaluation task.
+
+Live examples (all are React/Node.js except the last one):
+https://vtutor.com/ – e-learning marketplace with several roles and multiple user flows.
+https://www.ecdevstudio.com/ – our corporate website.
+https://idna-science.tech/ – healthcare product website.
+https://camworld.ecdevstudio.com/ - custom e-commerce prototype optimized for speed, built on MERN stack.
+https://mortgage-demo.ecdevstudio.com/ - demo landing page for the Mortgage industry.
+https://mortgage-demo.ecdevstudio.com/calculator - demo Mortgage calculator.
+https://picupmedia.com/ - a B2B service offering high-quality photo/video solutions for jewelry stores. It has built-in SaaS and e-commerce.
+
+The application is private so I can't provide access to the account.
+
+In our projects, we widely use React, GraphQL, Redux, Node.js, Express, NestJS, Apollo, TypeScript, AWS cloud, OAuth 2.0, ECS/Docker, Copilot, Strapi. Our primary focus is achieving the highest speed indicators, resistance to high traffic and system stability during its continuous development, thus we follow coding standards and best practices, actively use AWS cloud, CI/CD, and testing automation in our development. Our major qualities are thinking out of the box and passion for deep analysis, which often helps to make great decisions together.
+
+You can work with us in the same way you would do with the individual developer (having direct contact). We are available online from 7 am to 4 pm EST. For collaboration, we use the Redmine (or can be another) issue tracker, messengers, emails, and video calls. On most of our projects, we follow agile methodology with 2-week sprints and status updates at least 2 times a week. With your consent, our QA tester and PM can be involved in the project. Testing hours are not billed at all. You'll work with an autonomous and proactive team. We value client's time and keep a fair balance between an autonomous working process and proactive communication in the relevant cases.
+
+To know more details about developer's experience please check the CV attached.
+
+Our availability will not be affected by military activities in our country.
+
+Please feel free to contact me, I will be glad to help and bring value.
+
+Regards
+
+=========================== bid 6 Full stack===========================
+
+Hi There, I am an Expert **Full-stack MERN developer** having expertise in **Frontend, Backend, web services, and API development.** Available to collaborate with you and dedicate my full-time 40+ hours per week. Ready to kickstart:
+
+I have developed specialized e-Commerce sites, SaaS applications, white-label concepts, marketplaces, project management tools, social networking sites, and more. **Please review my relevant work samples**
+
+SaaS-Based Cybersecurity: https://cybersmart.co.uk/
+SaaS-Based Building/Office Security Solutions: https://www.eaglei.com.sg/
+SAAS, HealthCare CRM: https://www.opustime.com/
+SAAS, Retail & Distributor Business: https://www.blaze.me/
+Multistate Lottery Analysis Result Prediction: https://www.thelotterylab.com/
+Game Lottery System: http://mnglotto.com/
+SaaS, based Real estate Product: https://www.kondominia.com/
+
+**Let's jump on a quick call to discuss and create a project plan for your Existing Product and Road map for completing it.**
+
+My Expertise Includes:
+
+**- 7 years experience as a Front-End Developer**
+**- 5+ years of experience in React (React-Redux, Redux, Hooks, Mobx, Redux-Saga, Redux-Persist, React Navigation)**
+**- Experience creating SOAP and RESTful APIs using React**
+- Great proficiency in SCRUM & Agile Methodology
+- Advance Knowledge of the MERN & MEAN Stack
+- Excellent proficiency in DB: MySQL, MongoDB, PostgreSQL
+- Excellent Experience with Unit and Jest Testing
+- A Fluent English communicator with Time Managing skills
+
+I always conduct research on the basis of the Client's requirements and create websites & applications that are ideal for today’s marketing trends.
+
+I bring all my knowledge to deliver high-performance services. I always take care of my code and offer project maintenance, kindly provide me this opportunity to show my skills in front of you.
+
+Kind Regards & Looking forward to discussing this project.
+
+======================== bid7 Javascript full stack ==========================
+
+Hello!
+
+I am a certified JavaScript developer and I've been working with React and Node for over 5 years. I am quite skilled with React, Redux, Node, Express, ES6, Material UI, Jenkins CD/CI, Docker, TDD using Jest, Mocha, AWS and this job is exactly the kind of job I'm looking for.
+
+Please take a look at the B2C e-commerce platform I've worked on.
+https://burrow.com/ (React, Redux, Webpack, Express, GraphQL)
+Burrow is the B2C e-commerce company that produces and distributes bespoke easy to build uncompromising furniture.
+I've contributed to the biggest update of the application consisting of product listing & details pages design updates, releasing a new product, new modifiers options, and many more.
+
+https://www.wehaveanyspace.com/en/ (AirBnB-like platform for commercial real estate)
+Stack: React.js, TypeScript, Node.js, MongoDB, Redis, Ngnix, Git
+Functionalities: Building the catalog of real estate, Responsive UI, Google Map integration and geolocation recognition, Integration with CRM leads, Autocomplete search by street, city, region, Mailchimp newsletter, multi-language, Continuous performance improvements, identify the location on 8 countries, User's selected items shortlist, CI/CD
+
+https://www.ruuster.com/ (Real estate - manage homebuying processes
+Stack: React, Next.js, Node, MongoDB, Ngnix, AWS
+The first challenge I faced was the problem with authorization. I quickly managed to eliminate it and ensure high quality. And the next challenge was the issue with analytics. Since analytics is as important as the performance of a solution, I did everything possible to make sure that my clients get all the data and can analyze it effectively.
+
+
+I have
+- Strong MERN stack experience
+- Expert knowledge of ES6/React/Redux/Next/Webpack/Babel and assorted technologies
+- Strong proficiency with Node.Js/Sails.js + Express.Js
+- MaterialUI / Reactstrap for building UI
+- Experience with GraphQL
+- Strong understanding of browser compatibility issues (including mobile)
+- Strong experience with synchronous and asynchronous interfaces and microservice API development
+- Serverless Environments (Azure Functions, AWS lambda)
+- Expertise in writing unit, component and integration tests for a React codebase using Mocha/Chai/Jest/enzyme/react-testing-library
+- Expertise in administering Linux server systems
+- Expert knowledge of HTML/CSS/Tailwind, responsive design and the Web ecosystem
+- Experience in implementing OAuth integrations
+- Experience with RESTful services
+- In depth knowledge of git and git workflows
+
+I'd love to have a conversation to hear more about what you need and how I can help.
+
+=============================== bid  26 =======================
+
+Hello. I think to go up from the number of applicants I should go straight and show you my code examples that can tell you more than a basic introduction. Please take look at React: https://github.com/roonyx-tech/react-example
+And here is a link to JavaScript: https://github.com/roonyx-tech/ruby-developer-roadmap
+
+I have been developing apps since early 2012 and reached the senior level leading complex projects with my team. Now I'm a part of the Roonyx team of developers, and we can guarantee code quality and a structured approach in the development and overall business management. Scrum and Jira are the tools that we work with, as we focus on productivity in all aspects.
+
+Here is a couple of examples that I wanted to share, based on the stack you require:
+- Tys - a web-based app for booking appointments in salons, it scrapes data from a number of salons so the users can filter the result based on time, location, and a type of service
+https://www.experiencetys.com
+
+- SponsorOne - a MarTech app for promoting brands through social media.
+https://sponsorsone.com/
+
+I'd be happy to listen to your scope of tasks and get more details regarding the project you guys work on. Can we arrange a quick meeting for a discussion? When are you available this week?
+
+===================================  bid 7 full stack broad bids=======================
+
+
+
+My services(but not limited to):
+- HTML5/HTML, CSS/CSS3, SCSS, JavaScript, jQuery, Bootstrap, Tailwind
+- Angular, Express.js, Vue.js, React.js, TypeScript, Nuxt.js, Next.js, Three.js, Web3.js, D3.js, Gatsby.js
+- NodeJS, Wordpress, Magento, Shopify, Woocommerce, Laravel, PHP, Go, Perl, Codeigniter
+- REST API Development and Documentation with Swagger
+- GraphQL/Apollo
+- MongoDB, NoSQL, MySQL, PostgreSQL, Algolia
+- Python, Django, Flask
+- AWS Lambda, Redis, S3, SES, SNS, SQS, EC2, ECS
+- Azure
+- Microservice Architecture
+- ASP.NET, C#
+- Java
+- React Native, Swift, Ionic
+- Firebase
+- Docker
+- Github, Gitlab, Bitbucket
+- Jira, Trello, Asana, Monday
+- CI/CD and UnitTest integration
+
+https://www.hrc.org/
+The Human Rights Campaign is the go-to information resource for LGBTQ people and allies worldwide.
+Technologies: 𝙈𝙀𝙍𝙉(𝙈𝙤𝙣𝙜𝙤𝘿𝘽/𝙀𝙭𝙥𝙧𝙚𝙨𝙨.𝙟𝙨/𝙍𝙚𝙖𝙘𝙩.𝙟𝙨/𝙉𝙤𝙙𝙚.𝙟𝙨) 𝙨𝙩𝙖𝙘𝙠, 𝙈𝙖𝙩𝙚𝙧𝙞𝙖𝙡-𝙐𝙄, 𝙏𝙖𝙞𝙡𝙬𝙞𝙣𝙙 𝘾𝙎𝙎
+Solution: I worked with the design team, and they provided me with unified design files they produced for HRC. Based on it, I built the website for them using 𝙈𝙀𝙍𝙉(𝙈𝙤𝙣𝙜𝙤𝘿𝘽/𝙀𝙭𝙥𝙧𝙚𝙨𝙨.𝙟𝙨/𝙍𝙚𝙖𝙘𝙩.𝙟𝙨/𝙉𝙤𝙙𝙚.𝙟𝙨) 𝙨𝙩𝙖𝙘𝙠 and 𝙈𝙖𝙩𝙚𝙧𝙞𝙖𝙡-𝙐𝙄. In final step of this project, my role also involved front end side modification using 𝙏𝙖𝙞𝙡𝙬𝙞𝙣𝙙 𝘾𝙎𝙎.
+
+Building state-of-the-art, easy-to-use, user-friendly websites and applications is truly a passion of mine. I actively seek out new technologies and stay up-to-date on industry trends and advancements. I can provide a clean code and a professional approach to work.
+
+I focus on making my code scalable and always stick to the rules and language syntax. At the same time, I'm an out-of-the-box thinker and capable of finding a solution for a non-typical task.
+
+=-========================= bid 28 =================================
+
+Hello 👋👋👋
+I’m SUPER TALENTED Fulls-tack Dev you’re looking for!"👋
+I’m a Skilled senior Lead Front-end developer with years and years of commercial experience. I feel I can help you successfully complete your project. ✔️
+My skills matching with all of your requirements✔️✔️✔️
+
+🎨Please check my experience
+➡️https://my.visualcv.com/kulyk/
+
+Please also check recent React.js cases:
+➡️https://skyward360tours.com/ VR tours with 360 Theta V camera integration.
+Tech stack: Unity, React.js, Firebase.
+
+➡️https://solve.care/ Blockchain healthcare startup which automates processes in the healthcare industry.
+Tech stack: React Native, Java, React.js
+
+➡️https://qumata.com/ (HealthyHealth) Provide an app for corporate employees that measure and prevents health risks for the employees based on health trackers data
+Tech stack: React Native, Python, React.js, Node.js
+
+➡️https://litslink.com/case-studies/ private-stock-exchange High-Load Private Stock Exchange "A private stock exchange with integration to HKEX aimed for buying and selling shares of investment company clients.
+Tech stack: React.js, Java.
+
+I would like to know more about this project.
+1. Do you have a spec or brief?
+3. What are the key functionality/features?
+
+How soon are you available for a call? It would be great to speak with you and learn more about how we can achieve your goal.
+Thank you for your time, and I look forward to hearing from you soon.
+
+
+- profile 
+Dear clients!
+
+I am a full-stack professional developer who is comfortable with architecting and implementing scalable and maintainable web apps.
+
+I can develop all kinds of server-side logic, definition, and maintenance of the central database, ensuring high performance and responsiveness to requests from the front-end.
+
+I have strong knowledge and experience in the following:
+o Fluent in Javascript with 5+ years of experience coding in this language
+o Familiarity with DOM, JQuery, JSP, HTML5/CSS3/LESS, Bootstrap
+o Strong knowledge with MERN, MEVN, and MEAN.
+o 100% mastery in React/Redux/Angular/Vue.JS/Next.js/Nuxt.js/NestJS/Node.js
+o Practical experience with Web3.js and three.js
+o Rich experience in PHP/Laravel/Shopify/Wordpress/Magento
+o Talent skills in Python/Django/Flask
+o Strong Knowledge of Designing and Implementing Restful APIs and GraphQL
+o Fluency using Git and GitHub in the team environment
+o Strong Database Management Skills (PostgreSQL, MongoDB)
+o Deploying up the application on various clouds/web servers like AWS/Digital Ocean
+
+o Bonus skills in Blockchain technology(Solidity, Rust, Haskell, Smart contract audit etc.)
+
+My work ethic:
+o Writing reusable, testable and efficient code all the time
+o Hard-working, fast-learning and highly competent
+
+Additionally, I have strong analytical skills, problem-solving aptitude, and attention to details. I am always up for learning new technologies, so feel free to contact me about stuff not mentioned on my profile. Most importantly though, I value my clients and work towards building long-lasting relationships by understanding your needs, keeping an open channel of communication and delivering your products on time.
+
+I want to work with you long-term. 
+
+Warm Regards
+============================== urls =======================
+
+
+1) https://www.myintellirent.com - Rails, PostgreSQL, AWS, React
+2) https://www.saplinghr.com - SOC2, Rails, Angular, AWS
+3) https://www.zooppa.com - Rails, React, Firebase
+4) https://www.patientIQ.io - HIPAA, Rails, React
+5) http://www.eduleaf.com - Coffeescript, Rails, C++, Postgresql
+6) https://pop.in - Rails, ReactJS and React Native
+7) http://www.marketforms.com - Rails, Edgar APIs
+8) https://brainbase.com - Angular7, Laravel
+9) https://plexuss.com - Laravel, React JS, React Native
+
+
+
+
+Well, I’m a Senior Full Stack Ruby on Rails Developer having experience of 10 years.
+
+I have technically rich hands-on developing applications in Ruby on Rails, Python, WordPress, Jekyll and develop the APIs as well for Mobile Applications Development.
+
+I am also having experience in developing ruby gems that are really needed and helpful for the ROR developers.

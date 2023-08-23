@@ -1,0 +1,275 @@
+----------------
+-version control, unit testing, continuous integration, 
+-code quality tools 
+ like Prettier, ESLint / jshint.
+-using file versioning tools such as Gitlab, Github.
+-Has experience using authentication processes such as JWT and the oAuth2 protocol
+-----------------
+Hi
+I am very pleased to your project. 
+I have just done very similar project to yours
+-PHP project
+http://www.meutimenarede.com.br/
+-Wordpress sample project
+ https://www.buddyboss.com/online-community-software/
+ https://yousician.com/bass-tuner
+-React sample projects
+ https://app.www.calm.com/meditate
+ https://www.wannapanda.com
+ https://www.aha.io/develop/overview
+https://www.browse.ai/  (react)
+https://www.cryptaurs.com/
+https://www.ibuildnew.com.au/
+(react)
+https://pppandas.com/
+-react sample project 
+Zendesk is a software development firm providing a SaaS suite that offers help desk ticketing, issue tracking, and customer service support.
+They Went Public on May 16, 2014 / NYSE:ZEN. only in 6 months
+https://www.crunchbase.com/ipo/zendesk-ipo--2c81d87a
+
+https://www.khanacademy.org/
+https://postmates.com/
+https://www.salesforce.com/
+https://www.scribd.com/
+
+https://www.scribd.com/
+https://www.salesforce.com/
+
+-vue.js sample project
+www.neltify.com   https://app.nextearth.io/buy-land(react)
+
+https://ethereum.org/en/nft/
+///react-native
+Podio
+https://apps.apple.com/us/app/podio/id404183617
+https://play.google.com/store/apps/details?id=com.podio&hl=en
+
+
+-Node.js sample projects
+ https://www.thesports.com/widgets/cs:go/1   vue, nuxt.js
+-laravel
+https://akaunting.com/
+As an Expert React developer, I am very confident with your project.
+Please let me know if you are interested in.
+Best Regards
+
+
+------art overvie
+Hello,
+
+I am an independent Creative digital artist and I would love to climb on board as a freelancer. I am skilled in Sketching, Illustration, Storyboarding, Animation, on all the subjects of 2D. And in 3D ( Modelling & Texturing) I love to work on both the topics as its very close to my heart. I've been remote working for years, and if you would like any project to be handled on a freelance basis or on Contract, I'd love to be a part of that.
+
+Please find my work at the following domains:
+--------------------------------------------------------------------------
+- Software: Adobe ( AI | PS | AE ) Clip Studio | Maya, Zbrush
+--------------------------------------------------------------------------
+
+I have over 5 years of experience as an illustrator, artist, and graphic designer. I enjoy getting my hands dirty as much as I enjoy digital rendering, so my spectrum of work stretches from fine arts, right up to packaging and social media campaigns.
+
+I have been working incessantly providing services to clients globally, and have always been great at handling high-stress situations. Aside from what I can produce creatively, my strengths include good communication skills, rational thinking, and a nascent inclination towards hard work.
+
+As a talent fullstack blockchain developer, mastered in Solidity
+I specialized in Ethereum, Solana smart contracts for minting with special features 
+such as presale, burn, white/black listing & royalties. 
+
+
+Major skills are following
+-deploying the contracts on Ethereum and launch the NFT collection on Opensea.
+-generating images & metadata for NFTs, and help integrate your website with wallet (Metamask) and the smart contract for minting.
+-Additionally, I'm skilled with the backend technologies like Vue.js, React, Node.js, Web3.js, Laravel, MongoDB, Express JS, etc. I do Backend, Frontend, DevOps, and Deployment.
+I want to interview about your project in more detail.
+Hoping to hear back from you!
+
+Thank you!
+Regards,
+I will always update from your feedback and report daily task.
+---------overview-------------
+
+I'm a Blockchain solution architect and developer for Ethereum and HyperLedger including integrating with web and mobile applications. 
+Additionally, I'm skilled with the backend technologies Node.JS, MongoDB, and, Express JS.
+I have developed many projects and applications on top of Ethereum, Hyperledger, and Node JS which are;
+
+- Certificate Management System
+- ICO Application
+- Token on standards- ERC 20 and ERC 721
+- Job portal on Ethereum Blockchain
+- Property/Land Management System on Blockchain
+- Payment Platform providing services to top up mobile and gift card(Purely on Node Js)
+- Fuel Delivery Application(Purely on Node Js)
+- Travel History on Hyperledger
+- Supply Chain Management on Hyperledger
+- Private Ethereum blockchain deployment including customization of the geth client
+
+Skill sets include;
+- Solidity, Rust, Haskell Dapp Development
+- Blockchain- Ethereum, Solana, Cardano and Hyperledger
+- Node Js
+- React Js/ React Native/ Angular Js
+- Mongo DB/ MySql
+- Devops Process
+
+especially I have experience with building front-end for solana market place.
+-----------------------
+ development
+2007-2011
+Associated with
+PanPaliya & Sons
+95% Job Success
+Creadigol Solution
+Creadigol Solution
+6,058 hours
+95% Job Success
+TOP RATED
+Talent Clouds
+Mobile Developers (Premium)
+Private Talent Cloud
+Private Talent Cloud
+NFT , Blockchain , Smart contract, Defi , Ethereum, Solana & Cordano
+$55.00/hr
+7 year ago on 3rd Oct, have got to know first time what smart contract is and from it have been exploring and working on same. Being a Computer engineer, have started my career as an MNC Server developer but left after 2 years as it didn't excite me much, so I went for another exciting thing, i.e. freelancing in Mobile app, which was good and lucrative but still had fewer challenges. Now while searching something new came across to the crypto world; this was new and exciting. First did the understanding, then paid and then developed.
+i.e
+
+First, read and learned about the same, then participated in coin transaction, currently world-first crypto Mutual fund managed with total holding on $500K user money to invest and then started developing. Have played a key role in some ICO launches, token launches and getting the same register on big exchanges.
+
+
+However, in the last 3 years, the NFT world and marketplace have changed the whole view of games, learned the smart contract in more detail, working with the crypto world, open sea SDK and then made own marketplace.
+
+Currently having experience in developing own market place with fewer gas fees setup, royalty setup, random image generation and another similar setup in same. Below are a set of expertise, holding now and working on same as per the need of the project.
+
+https://cex.coinxpad.io/ (Cex/Dex Multi-chain IDO Launchpad)
+
+https://nobrainersnft.com/ (2500 brain-augmented 3D humanoids on the Ethereum blockchain, algorithmically generated from over 250+ unique traits. DAO, mental health advocacy, brain buddies, private mind access, and more!)
+
+https://united-metaverse-nation.org/
+
+https://www.moontrust.net/ (MoonTrust is a DeFi token built on BSC (Binance). It is a community driven coin, with multiple features aimed for steady growth and to decrease the impact of major sell offs)
+
+The crypto exchanges, blockchain forks, tokens creation (ERC-20, ERC-721, ERC-1155 NFT), smart contracts, Defi and Ethereum mass payment tools with low gas consumption, NFT Platform, Defi/Dapp Development.
+
+Have also worked on Solana & Cordano Blockchain setup and have created a smart contract with Lazy minting, Royalty, and other relevant setups.
+
+- NFT marketplace Development
+- Defi/Dapp Development, Smart contract, Ethereum ERC721, ERC1155
+- Cryptocurrencies API: all kinds of BCT and ETH, LTH ...
+- Wallets API: Trezor, Ledger Nano S (ETH) ...
+- Exchanges: Cexio, BitMex, Bittrex ...
+- Integrated with BSC, Ethereum and another network setup
+- Defi Consulting (swaps, liquidity pools, borrowing and lending, yield farming, impermanent loss, governance tokens)
+- AMM DEXs (Liquidity, PancakeSwap, Uniswap, Curve, Balancer, SushiSwap, etc.)
+- NFTs (ERC-721, ERC-1155, Flow, BSC, Polygon, Raible, Opensea, Nifty, etc.)
+- SSI and identity solutions, attestation and verification
+- Exchanges, mining
+- Marketplaces and ecosystems
+- Token standards (ERC, BEP)
+
+
+
+
+The segment have worked and developed.
+
+1) Worked with Mobile app development where integrated with different Blockchain Network
+2) Integrated with BSC, Ethereum and another network setup
+3) Wallet creation and crypto coin Management
+4) NFT management on the mobile app
+5) Blockchain transaction management
+6) Fin-tech Management and trading apps
+
+
+Holding Expertise in Below mention setup.
+
+- Defi Consulting (swaps, liquidity pools, borrowing and lending, yield farming, impermanent loss, governance tokens)
+- AMM DEXs (Liquidity, PancakeSwap, Uniswap, Curve, Balancer, SushiSwap, etc.)
+- NFTs (ERC-721, ERC-1155, Flow, BSC, Polygon, Raible, Opensea, Nifty, etc.)
+- SSI and identity solutions, attestation and verification
+- Exchanges, mining
+- Marketplaces and ecosystems
+- Token standards (ERC, BEP)
+
+1-401-363-6164
+
+Below is are cord set up with work and develop
+- NFT Market Place
+- Royalty Setup
+- Least gas fee Practises
+- Random Mining setup
+- NFT airdrop setup
+- Whitelist Wallet address
+- Worked with Ethereum, Solano and Cordano blockchain.
+
+
+
+
+
+---TASK------
+ok here you go, I really hope this makes sense to you!? (and is possible for you to do!)
+
+Please note: I am not a developer/programmer so I will try to explain what I want to the best of my ability (but sometimes I may use the incorrect terms).
+
+Currently:
+- We have a basic website built on Wordpress: https://metaracers.net
+- We have a basic single-player racing game that is a Wordpress plugin (php & javascript): https://metaracers.net/wildkats-arcade-racing/ 
+Users can log in and play the racing game, their score for each level is stored in a MySQL database (Wordpress), and we have a leaderboard that displays the highest scores.
+- Finally, we have 10,000 WildKats NFTs that are currently being minted here: https://talis.art/collection/61d7103cfa67286afa4c6088
+
+Next steps:
+I want to move away from Wordpress, so the first thing would be to create a React app as the new front end where we will host the tournaments. I am hoping we can connect the React app with the game and/or Wordpress DB (I am open to your ideas on how best to make this work, REST API maybe?).
+Assuming we can connect the React App with the Wordpress game, I want to build the below tournament infrastructure:
+
+1. web3 connect
+- User connects to the App with Terra wallet.
+- User plays the game and their score is stored in the db (maybe a new db?). Importantly it needs to store the score for the user's wallet that is connected.
+
+2. tournament smart contract infrastructure
+Create tournament logic that has the following parameters:
+-- tournament type (we will have 2 types of tournament = leaderboard or knockout)
+-- entry price
+-- prize pool split 
+-- payout structure 
+-- start time
+-- end time
+-- number of rounds
+-- maximum players
+-- minimum players
+
+An example "leaderboard tournament" would work like this:
+
+Admin-user creates a new tournament and sets the below parameters:
+-- tournament type = leaderboard
+-- entry price = $10 UST
+-- prize pool split = 80% to player prize pool, 10% to NFT owners, 10% to MetaRacers
+-- payout structure = 30% to winner, 15% to 2nd place, 10% to 3rd place etc. etc. (we will set up a payout structure table based on number of entrants)
+-- start time = 12pm UTC-- end time = 2pm UTC
+-- number of rounds = 4 (with each round lasting 30 minutes i.e. ((end time - start time) / number of rounds).)
+-- maximum players = unlimited
+-- minimum players = 8
+
+- Players connect their wallets and pay $10 UST to enter the tournament.
+- The smart contract distributes the $10 UST as per the prize pool split (80% to player prize pool, 10% to NFT owner pool, 10% to MetaRacers pool).
+- Players are registered to the tournament
+- Players are randomly assigned a WildKat NFT for the tournament
+- Tournament starts at the start time with Round 1. The Player has 30 minutes to play the game and register scores into the database.
+- After the end of Round 1, the top 50% of Players (top scores) will advance to Round 2. The remaining Players (bottom 50% of scores) are eliminated from the tournament.
+- The same process repeats for Round 2 and Round 3. In the final round, Round 4, the winners are decided and the prize pool $UST is distributed to the winning players as per the payout structure percentages.
+- The NFT owner prize pool is distributed to the NFT owners
+
+An example "knockout tournament" would work like this:
+
+Admin-user creates a new tournament and sets the below parameters:
+-- tournament type = knockout
+-- entry price = $10 UST
+-- prize pool split = 80% to player prize pool, 10% to NFT owners, 10% to MetaRacers
+-- payout structure = 30% to winner, 15% to 2nd place, 10% to 3rd place etc. etc. (we will set up a payout structure table based on number of entrants)
+-- start time = 12pm UTC
+-- end time = 2pm UTC
+-- number of rounds = 4 (with each round lasting 30 minutes i.e. ((end time - start time) / number of rounds).)
+-- maximum players = unlimited-- minimum players = 8
+
+- Players connect their wallets and pay $10 UST to enter the tournament.
+- The smart contract distributes the $10 UST as per the prize pool split (80% to player prize pool, 10% to NFT owner pool, 10% to MetaRacers pool).
+- Players are registered to the tournament
+- Players are randomly assigned a WildKat NFT for the tournament
+- Players are randomly paired against each other in head-to-head battles
+- Tournament starts at the start time with Round 1. The Player has 30 minutes to play the game and register scores into the database.
+- After the end of Round 1, the winning player in each head-to-head battle progresses to the next round. The losing player from each battle is eliminated from the tournament.
+- The same process repeats for Round 2 and Round 3. In the final round, Round 4, the winners are decided via the leaderboard method and the prize pool $UST is distributed to the winning players as per the payout structure percentages.
+- The NFT owner prize pool is distributed to the NFT owners

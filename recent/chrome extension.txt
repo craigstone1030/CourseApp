@@ -1,0 +1,33 @@
+Dear sir,
+I am posting the proposal now after fully getting your scope understood. Now saying 100% sure, I can do it, no problem technically.
+
+Last week, I finished some Chrome extensions by implementing the following requirements.
+**Browser Extensions that
+-Has API accessibility,
+-Can interact with HTML and CSS elements,
+-Auto fill forms on the web pages,
+-Automate the web pages,
+-Scrape data from web pages.
+In this project, I migrated it to MV3 from MV2.
+
+This is also my google chrome extension experience.
+-Automate form submission
+-Automate button click on a web page
+-Filter listings on websites
+-Show periodic notifications to the user
+-Custom keyboard shortcut
+-Take screenshots
+-API access
+-Block certain URLs
+-Redirect certain web URLs
+-Replace ads on websites (only in Custom Offer)
+
+https://chrome.google.com/webstore/detail/tailwind-cheat-sheet-exte/jmggagicdeomaenmjjlphbamdaeojcol
+https://chrome.google.com/webstore/detail/xdefi-wallet/hmeobnfnfcmdkdcmlblgagmfpfboieaf
+https://chrome.google.com/webstore/detail/gmail-conversation-revers/iiapkjmnejmiokfbngfhdlijmcacphbe
+
+I will do my best on your project and want to have a long-term relationship with you from this project. Your project will be finished in high quality and as you expected.
+I am an innovative and strategic thinking professional with a proven track record of consistently going above and beyond in meeting customer needs and providing more value to the product than what the customer is paying for.
+For this reason, they always get back to us again and again with promising ideas and projects.
+Thanks for your attention.
+Best regards.

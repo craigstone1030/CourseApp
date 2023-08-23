@@ -1,0 +1,66 @@
+Dear Client !
+
+I am a senior Blockchain/NFT full stack developer with full experience and expertise in crypto web and mobile Blockchain/NFT development.
+
+I have years of experience with NFT, Solana, Avalanche, Pangolin, DAO, DeFi, ICO, solidity, Web3.js, Smart Contract, Opensea,
+Meta Mask, Cryptocurrency, Ethereum, blockchain, Arbitrage bot, web frameworks including both front-end (SPA) and
+back-end (Rest/Soap/GraphQL apis), and have much experience in many related technologies,
+3rd party APIs/libraries integration, Azure/AWS/GCP Devops, and love to work in both of the new and existing projects.
+
+
+Here are my sample Projects
+https://raydium.io/swap/(Swap)
+https://dex.knightswap.financial/(swap)
+https://synchrobit.io/ (Crypto Exchange)
+https://coinmarketcap.com/currencies/beyond-finance/ (ERC20 Token) 
+https://beyondfinance.io/ (Token Information Site) 
+https://www.beyondtrade.io/ (DeFi) 
+
+Stack of blockchain
+- Ethereum, Solana, Binance Smart Chain.
+- Defi, DEX, Gambling, Token building, Dapps, ICO, DAO, Presale.
+- ERC20, ERC721, ERC1155, BEP20.
+- Web3, Solidity, Rust.
+- Good at Presale Integration
+- NFT minting and marketplace site development
+- Create NFT conllection.
+- Handling IPFS images
+- Excellent at Web3 transaction, digital wallet integration
+- Connecting to opensea or rarible
+- Managing Liquidity, Liquidity Pool and Swap
+- Trading Bot(Arbitrage, Trend Following, Market Making, Sniper FrontRunner Bot).
+-Frontend development (React.js, Node.js, C++, Vue.js, HTML, CSS, JavaScript)
+
+Warm Regards
+---------------------------------------------------------------------------------------
+
+Dear clients!
+
+My Services: Full-Stack, Full-Time, High-Quality, Fast-Delivery, Fast-Response
+
+- NFT/Blockchain Development: Wax, Ethereum/Solidity, Solana/Rust, Web3, Binance Smart Chain(BSC), Smart Contract, Decentralised Finance (DeFi), Decentralised Applications (DApps), Token building, ICO, DAO, Presale, IPFS, ERC20, ERC721, ERC1155, BEP20, NFT marketplace(OpenSea, Rarible, Wax), NFT Mint, BTC, CryptoCurrency
+
+- SPA Web Frontend Development: Wordpress,React.js(redux, antd, material-ui, next), Vue.js(vuex, vuetify, nuxt), Angular(js, 9+), Laravel/Symfony/Typo3, JavaScript(jQuery), TypeScript, Html(html5), CSS(bootstrap, tailwind), Three.js/WebGL
+
+- Backend API Development: C#, ASP.NET, Cesium.js, Node.js(express), Java, PHP, Ajax, Json(JWT), MySQL, MSSQL, MongoDB, DynamoDB, PostgresDB, Python, Elixir / Phoenix , 3rd party API integration
+
+- Mobile Application Development: Swift, Java(Kotlin), React Native(CLI, EXPO), Flutter(Dart), Xamarin(Forms, Native)
+
+- Smart TV Application Development: RokuTV, Amazon FireTV, AppleTV, AndroidTV, BrightScript, Java, OTT, SVOD, TVOD, AVOD
+
+- FileMaker Application Development: FileMaker Pro/Advanced/Go, FileMaker Server 11~19, Database Management, WebDirect/PHP
+
+Here are my former projects
+https://next.exchange/ (Crypto Exchange)
+https://www.ilus-coin.com/home (Token website)
+http://pharmswap.finance/ (Farming & Staking on BSC)
+https://www.xcoins.com/ (Buy BTC)
+https://javvy.com/ (Crypto Wallet)
+https://mylottocoin.com/ (DeFi)
+https://unilayer.app/ (DeFi)
+https://validlog.com/ (Hyperledger, IPFS)
+https://repocoin.io/ (Stellar)
+Please kindly check them. 
+I am available over 8 hours daily for development.
+
+Warm Regards

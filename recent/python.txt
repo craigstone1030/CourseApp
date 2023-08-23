@@ -1,0 +1,237 @@
+================= Overview ==================
+Dear clients!
+
+If you're looking for a programmer who's an expert in python programming, I am glad you've come to the right place.
+
+I have experience of working with nearly everything inside and outside of his field. 
+All of my external ventures have had the pleasant effect of allowing me to make connections 
+where most people don't even think to look, and make use of all of my skills to the best of my abilities.
+
+Expertise:
+- Python (2, 3x), FastAPI, Flask, Celery, asyncio, Django, multithreading/multiprocessing, pytest, unittest;
+- Databases: PostgreSQL, MongoDB, Redis, ORMs (SQLAlchemy/Alembic, Django ORM
+- Web: WebSockets, gunicorn, Nginx, a bit of JavaScript/CoffeeScript/Angular, HTML/CSS;
+- DevOps: Terraforms, Kubernetes, Docker/docker-compose, Linux, deployed things to AWS, DigitalOcean and Heroku;
+- Machine learning related: Pandas, NumPy, did an API around a TensorFlow model.
+- Bots
+- Selenium Tasks
+- Web Scraping
+- RESTful APIs
+- Object-Oriented Programming (OOP) tasks
+
+I tend to be extremely straight forward about what I can do and how long it might take me to do it. I know my limits, 
+and I try to break past them every single day.
+Definitely won't be disappointed if given a chance to work together.
+
+Best regards
+
+If you're looking for a programmer who's an expert in python programming, I am glad you've come to the right place.
+
+I can do Python programming very efficiently and effectively.
+
+I can provide:
+
+
+
+
+I have experience in python programming, because I've worked for many clients outside Fiverr, and I am sure that I will deliver good human-readable and clean code.
+
+
+
+Waiting for your order
+
+
+================= bid1 ==================
+
+Hi, 
+I am skilled Python programmer with skills including Docker Compose, Docker, Django, Redis and FastAPI.
+Over 6+ years of experience, having built many websites for the clients and delivered to them on time, I completed a few projects related to web scraping and data mining. 
+With good knowledge of AWS services like AWS Lambda, AWS API gateway, AWS S3 bucket, I have worked on AWS cloudwatch events. I am very familiar with the integration
+for the 3rd party APIs from Google, Facebook and other social networking sites.
+
+This is my Python Certification.
+https://www.hackerrank.com/certificates/03cca12defba
+
+Also I have strong knowledge of data science, deep learning, computer vision, machine learning, pandas, NumPy, SKlearn, etc
+I have worked on OpenCV, object detection, computer vision, NLP, automation, data analysis, Machine learning, deep learning.
+
+Please kindly check my former projects
+1. https://fannel.app [Python, Django, Agora platform, Codepipeline, AWS Elastic Beanstalk, SNS, SQS, Kinesis, Lambda functions, CloudWatch, Athena, API gateway, Getstream.io, GMO payment gateway, Angular]
+2. https://outsized.com [Python, Django, React JS, NextJS, MongoDB, AWS]
+
+-Major Expertise
+✔ Python3
+✔ Back-End design/development (Flask, Django, FastAPI)
+✔ ML libraries: Tensorflow/Scikit-Learn, OpenCV, PyTorch
+✔ Data Science: Labeling, Data Mining, Correlation Checking
+✔ Scraping - (Requests, BS4, Selenium,...)
+✔ Front End development - (JS, HTML5, CSS, Bootstrap, Jquery)
+✔ ML, ( Neural networks, Modeling, Cleaning, Data Analysis, supervised and unsupervised learning)
+✔ Computer Vision (image processing, template matching, face recognition, OCR, object detection, Open Pose, etc)
+✔ Database (Postgres, Firebase, Mysql, MongoDB, Redis)
+✔ AWS- (S3, EC2, Boto3, Sagemaker, ElasticBeanstalk, Lambda, ...)
+✔ Heroku
+
+Hoping good collaboration in your business.
+Regards
+
+========bid2==================
+Hi, 
+I am skilled Python programmer with skills including Docker Compose, Docker, Python, Redis and FastAPI.
+
+Passionate C++ and Python Engineer with 10+ years of professional experience in full-cycle product development.
+
+All my clients know me as a person who can solve any technical problem.
+
+I’m always proud to invent new features and open new opportunities for software products to help businesses grow at tremendous speed.
+
+No matter if you have only an idea or ready product that you want to improve - our development cooperation will be the most incredible thing that happened in your life.
+
+My main professional skills you can rely on:
+
+Web Development:
+
+- Python / Django / Flask / asyncio / Redis
+- ML/DL/AI
+- NativeScript / Angular/ Ruby on Rails/Golang
+- MongoDB, MySQL
+
+
+1. https://fannel.app [Python, Django, Agora platform, Codepipeline, AWS Elastic Beanstalk, SNS, SQS, Kinesis, Lambda functions, CloudWatch, Athena, API gateway, Getstream.io, GMO payment gateway, Angular]
+2. https://outsized.com [Python, Django, React JS, NextJS, MongoDB, AWS]
+
+Cross-platform Development for Mac OS X / Windows / Linux:
+
+- C++ / Python / Qt / .NET Core
+- GUI applications
+- High-load, fault-tolerant client-server software
+- Powerful scrape applications for any web-services
+- Artificial Neural Networks / Deep Learning
+- Blockchain / Smart Contracts
+- Smart IoT hardware and software
+
+Desktop Development:
+
+- Objective-C with deep knowledge of Mac OS X / AppleScript
+- UWP applications for Windows
+
+Cross-platform Development for iOS / Android / Web:
+
+- NativeScript applications / Angular / Vue.js
+
+API:
+* Stripe/PayPal/Mailgun/Twitter/Facebook/Google API/Twilio/Apple News Publisher
+
+Extra:
+* CI: GitLab, Jenkins, Travis CI, Circle CI, Heroku CI/CD
+* Cloud integrations: AWS, Google Cloud, Alibaba Cloud
+
+Please contact me to discuss more regarding the project.
+Thank you
+
+
+=============bid3====================
+Hi, are you looking for a python django and react js websites as an expert full stack developer?
+You're in the right place. I have 5+ years of expertise python django and react js websites as an expert full stack developer. I have been working with python django and react js websites as an expert full stack developer for last five-plus years and being an expert in python django and react js websites as an expert full stack developer I have developed many large multiscale software and web apps. I prefer to work in the latest web technologies (React JS, Django, Phoenix) because of their advantages like scalability(Django), Fault tolerance (Phoenix), and sleek design(React JS). That's why for the front-end, we work in React, Redux, etc and for the back-end, we use Django, DjangoRestFramework, Phoenix, and RESTful APIs
+
+Languages we deal in:
+- Python
+- Elixir
+- JavaScript
+
+Our Services for front-end:
+-Responsive Design
+-CSS3, HTML5, Bootstrap, Material UI
+-Redux, React
+
+Our Services for back-end:
+-DjangoRestFramework
+-RESTful APIs
+-PostgreSQL
+-Python
+-Django, Flask
+-MySQL
+
+API:
+* Stripe/PayPal/Mailgun/Twitter/Facebook/Google API/Twilio/Apple News Publisher
+
+Extra:
+* CI: GitLab, Jenkins, Travis CI, Circle CI, Heroku CI/CD
+* Cloud integrations: AWS, Google Cloud, Alibaba Cloud
+
+Please contact me to discuss more regarding the project.
+Thank you
+
+=======================overview============================
+Dear clients,welcome to my work profile! Appreciate your considering me and my team for your project realization.
+Here is some useful info on what my knowledge and skillset embrace:
+
+1.Project types:
+- Chatbots
+- Assistants
+- AI-powered software
+- Tracking systems
+- Forecasting software
+- Recognition solutions
+
+2.Expertise:
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- Computer Vision
+- NLP
+- OCR
+- CNN
+- Deep Learning
+- Neural Networks
+- Biometric Authentication
+
+3.Technologies:
+- Python
+- PyTorch
+- SQL
+- Airflow
+- Scikit-learn
+- Pandas
+- Docker
+- AWS
+- Microsoft Azure
+- Cloud Environments
+
+4.Domains:
+- Finances
+- Internet of Things
+- HoReCa
+- Retail
+- Healthcare
+- Fitness, Wellness, and Lifestyle
+- Social Media
+- Education
+- eCommerce
+- Transport & Logistics
+- Marketing & Advertising
+- Manufacturing
+- Heavy Machinery
+
+What I like:
+- Discovering interesting projects
+
+What I dislike:
+- Small amount of input data
+
+Soft skills:
+- Easy-going
+- Friendly
+- Open-minded
+- Patient
+
+I’m open to both consultancy and development opportunities. Feel free to get in touch with me and my team if you want to discuss an AI concept, I am sure I will have valuable and interesting ideas to share with you!
+
+====================================
+AI projects
+https://www.synthesia.io/
+https://www.autofunnel.ai/
+
+
+
+

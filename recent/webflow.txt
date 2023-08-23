@@ -1,0 +1,91 @@
+Dear sir,
+I am posting the proposal now after fully getting your scope understood. Now, saying 100% surely, I can do it, no problem technically.
+I have been designing/developing Webflow websites for more than 5 years.  
+I will convert your provided design or prototypes or mockup into Webflow which will be clean, responsive, 
+and pixel-perfect.
+
+Webflow is a drag and drops site builder without design limitations. 
+Besides that, there are so many 3rd party jQuery plugins or custom javascript that can be integrated to extend 
+the features your website needs. 
+Webflow allows creating custom attributes for HTML elements that can be necessary if you want to add custom javascript 
+or jQuery plugins. I have vast knowledge in extending features and integrating custom plugins.
+
+Webflow also allows creating CMS for any listing content like blogs. It also allows the creation an e-commerce website.
+
+Please check my previous projects made by web flow.
+https://www.zunocarbon.com/
+https://www.figma.com/file/3dWZUJOP5qThLeTDadq08W/Zuno-Carbon---Nafees?t=RmWWIeYwwHrsrItL-1
+https://logos.moovstudio.co/
+https://www.figma.com/file/dTvYjYgkc2cAJ2jrR6Qgz9/Moov-_-Nafees 
+https://aam-service.webflow.io/
+https://www.figma.com/file/NCg54q1nvwPmUjRyitImSK/AAM-Service-Landing-Page?node-id=2-3&t=oN7Zs0zUDvGApq0W-0
+https://calctree.io/
+https://www.cansweep.co.nz/
+https://jobtale.co/
+
+Main expertise
+- Fully Responsive Website as per your requirements
+- Converting, Figma, PSD, Adobe XD, and Sketch design into Webflow.
+- Membership Website (Webflow+ Member Stack + Airtable + Zapier)
+- Best design and layout revisions until 100% Satisfaction
+- Webflow E-commerce setup
+- 100% Search Engine Optimized
+- Speed Optimized for Google Page Speed - Speed Upto 90 on both Mobile and Desktop
+- Fully functional Webflow CMS.
+- API integrations.
+- Custom JS implementation for(Dynamic CMS filtering, On-page Search, and Load More button on CMS Collection items).
+- CMS for Slider, blog, FAQ, Testimonial with dynamic filtering etc.
+- Webflow Animation/Interaction
+- Custom HTML/CSS/Javascript
+- 3rd party plugins integration
+- Custom interactions and animations
+- FREE Google tag manager integration with custom tags/triggers/variables
+
+I will provide you best results by following proper HTML structure, CSS classes, and Webflow rules, and with the proper usage of Webflow CMS collections, you will get the pixel-perfect and fully responsive product on all media devices, upon final delivery will provide you fully tested work on the Android as well as on iOS devices.
+
+Note: I will use the latest framework of the web flow styling system (Client First Styling System)
+
+I can start right now and work full-time in your time zone.
+After finishing this project, I am open to offering FREE AS SERVICE including beta features.
+
+I am an innovative and strategic thinking professional with a proven track record of consistently going above and beyond in meeting customer needs and providing more value to the product than what the customer is paying for.
+For this reason, they always get back to us again and again with promising ideas and projects.
+Thanks for your attention.
+Best regards.
+
+
+Please kindly check my portfolio.
+https://daniel-webflow.vercel.app/
+
+Steps I will follow
+Commonly I followed these steps
+1. Complete Desktop version (with proper HTML structure & CSS classes naming scheme)
+2. Make it responsive on all media devices
+3. On-Site SEO
+4. Page speed optimization
+5. On-page-Load and On-Page-Scroll animations
+6. Testing on different screen sizes (1920px, 1440px, Laptop display, Tablet, Mobile Landscape, and Portrait) using Blisk or Browser Stack
+7. Website speed test using different tools like GTmetrix or Browser Stack
+8. Provide the first version to the client to check and add his/her comments
+9. Working on client's feedback and fixings
+10. Final delivery
+
+
+----coverletter-----
+Hi
+I  have huge experience in webflow development.
+Webflow is a no code web design tool invented for visual web design. It can be used for designing responsive websites, landing pages, eCommerce sites, blogs, and more. Beyond a web design tool, it also has CMS (content management system), and it's also a hosting platform.
+
+I have been extensively working with Bubble.io for the last 4 years and also have created more than 30 web projects with Bubble.io.
+
+As a full stack developer, I have huge experience in Chrome extension development
+
+I am familiar with Web3.js and Three.js for creating metaverse.
+
+I can start right now and work full time in your time zone.
+After finishing this project, I am open to offer FREE AS SERVICE including beta features.
+
+I am an innovative and strategic thinking professional with a proven track record of consistently going above and beyond in meeting customer needs and providing more value to the product than what the customer is paying for.
+For this reason, they always get back to us again and again with promising ideas and projects.
+Thanks for your attention.
+Best regards.

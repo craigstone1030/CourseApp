@@ -1,0 +1,578 @@
+===========API integration===============
+Dear client!
+Please kindly check my former projects for API integrations
+https://shippromo.com/ (API integration for various shipment companies/ shipping partners )
+https://www.edison-hill.co.uk/ ( Bullhorn and Matador API integration)
+https://novalets.co.uk/ ( Property APIs integration )
+https://zipanalyser.com/pricing/ (report generation)
+
+1. Learnreel: short-form learning
+Learnreel is a social video app for short-form learning. Get real-world, actionable insights from top tech professionals.
+Learn product and development skills from industry leaders who work at the world's best companies - Amazon, Microsoft, Nike, PayPal, and more.
+App: https://play.google.com/store/apps/details?id=com.learnreel
+2. Construction Management
+Building Saas product from scratch, this product helped construction company to manage their assets, projects, supplier, documents and users. This product also supports subscription model where company can add their resources based on plans.
+
+Wireframe Link (Admin) - https://www.figma.com/proto/DoFvIMGEXbthHVWLFKEik1/Apex-Informatics-Gis-(main)?node-id=335%3A16419&scaling=min-zoom&page-id=289%3A20416&starting-point-node-id=301%3A9188
+Wireframe Link (User) - https://www.figma.com/proto/DoFvIMGEXbthHVWLFKEik1/Apex-Informatics-Gis-(main)?node-id=15%3A182&starting-point-node-id=15%3A23&scaling=min-zoom&hide-ui=1
+
+3. Nightingales home healthcare
+
+- Designed and developed microservice to capture Staff travels for route analysis and optimization; real-time data pushed to Customer app and Operations portal, increased accuracy using Google Road API. Tech used: Nodejs, WebSocket, google map, google Road API
+- Implemented Service availability and Staff assignment algorithm that reduced Operational overhead. Worked closely with Operations to continuously track performance, fix issues, and increase staff productivity by 30%. Tech used: Nodejs, MongoDB, Python, PostgreSQL.
+
+App Link - https://play.google.com/store/apps/details?id=com.nightingales.app
+Web Link - https://www.nightingales.in/
+
+4. Tripeur Travel Project
+
+- Worked on the flight search engine to improve response time using Redis cache. Able to reduce latency approximate from 2s to 300ms. Tech used: NodeJS, Redis
+- Implemented algorithm to show unique hotels from different providers(MMT, Yatra, Oyo ) which improved hotel selection by 22%. Tech used: NodeJS, MongoDB, Typescript
+- Developed GSTRecon product to parse, compare, analyze invoices of 35+ airlines. In a 30 sec service was able to parse 2000 invoices. Tech used: NodeJS, MongoDB, Typescript, SQS, pdfutils, Puppeteer
+
+Mobile web link - https://mqa.tripeur.in/login
+Wireframe link - https://marvelapp.com/prototype/5962bc0/screen/78359703
+
+I am ready to discuss more detail with you.
+Thank you
+====================QA==================
+Use test automation, Integrate testing into the development process, 
+Conduct code reviews, Perform load testing, Continuously monitor and analyze
+
+
+===========================================
+
+==================Ruby=================
+Hi, For Over 8 years, I have been involved in Ruby on Rails.
+I am posting the proposal now after fully getting your scope understood. I am 100% sure, I can do it, no problem technically.
+
+Please kindly check my former projects
+1) EZRentOut https://ezrentout.com
+EZRentOut is a rental business management solution that helps to provide you with an end-to-end solution for Rental Business management.
+There, I took part in developing the backend using Ruby on Rails.
+
+2) Experfy (Harvard Innovation Lab) https://www.experfy.com/
+The Experfy platform enables the pipelining and hiring of external talent at unprecedented speed, while career pathing, upskilling, and mentorship of your internal talent. License our self-service platform or hire SME-vetted talent from our TalentClouds.
+Full Stack RoR project. Database: PostgreSQL
+I developed Frontend and Backend using Ruby on Rails.
+
+I am very flexible on 40hrs/week.
+Ready to discuss more details
+
+Thanks
+==================wix=====================
+Dear Sir
+From checking your job description carefully, I am 100% sure, I can do it, technically it is not a big deal for me.
+I have been extensively working with wix for the last 4 years 
+
+With Wix, It provides an absolutely great platform for your business to have an online presence.
+It will be nice know if you are Planning to build your webslte with the worlds most intuitive website builder that helps you create better 
+websites with high-quality, innovative, and mobile-responsive templates?
+
+WIX REDESIGN | WIX DESIGN | WIX E-COMMERCE | WIX WEBSITE | WIX EDITOR X
+
+I will build and create a professional wix webslte for you and you'll be able to use the built-in professional business packages to advertise 
+and manage your business . Also, I'll make the most of Wix ecommerce capabilities  and built-in features to help give your business the right 
+online presence it deserves while also enabling seamless transactions, conversions, and interactions.
+
+Whether you need a new Wix website design or you want your current website redesigned/revamped
+
+https://www.londontravelpartners.com
+https://www.sonjavanduelmen.com/
+https://www.sharonradisch.com/
+https://www.rafaelvarona.com/
+
+Main expertise
+- Wix design and redesign
+- Responsive Wix design
+- Wix SEO setup
+- Wix Landing page
+- Wix Ecommerce store
+- Wix Mobile Optimization
+- Payment integration
+- Wix Automations
+
+I Look Forward to Work with you
+Thanks
+
+==================Chat GPT API==========
+Dear sir
+I am very much familiar with Chat GPT API. Technically I am very confident in your scope.
+
+OpenAI API: https://beta.openai.com/docs/api-reference/introduction
+Hugging Face Transformers API: https://huggingface.co/transformers/main_classes/pipelines.html
+InferKit API: https://inferkit.com/docs/api/
+DeepAI API: https://deepai.org/machine-learning-model/text-generator-api
+
+https://www.loom.com/share/dfda9d42d83f450b8dbd5e08a5cf3ebf
+https://www.loom.com/share/dfda9d42d83f450b8dbd5e08a5cf3ebf
+https://www.loom.com/share/fb2d834b4ca649f190ec7fb6ee8be931
+https://www.loom.com/share/349f8f96ad3d4418a200e01db92834fe
+https://www.loom.com/share/cbc8dc395e504de4aea1fa5f95964968
+https://www.loom.com/share/dfc72fde10414d1e8177ef45bb986c39
+
+Commonly using the following APIs, I integrate Chat GPT into several websites.
+Please kindly check my former projects.
+https://remix.polymath.chat/
+https://houston.astro.build/
+
+
+Technically I am 100% sure, I can easily handle your project.
+Let's discuss this more in detail.
+Thank you.
+
+
+
+---Linkedin----
+Dear Sir
+Hope your business is going great now.
+As a certified full stack developer, I am willing to boost your business.
+Would you mind sharing any kind of project on your side, please?
+I am looking forward to getting a great chance from you.
+Ready for any technical task.
+Sincerely
+Daniel William
+
+-------------------------
+Adalo sample
+app.truthnetwork.com
+https://casavicentebeta.cheerfy.com/
+https://app.covenantchristian.org/
+----------------
+-Stable coin
+https://un1cred.com/
+
+---------------chat gpt----
+https://remix.polymath.chat/
+https://houston.astro.build/
+
+
+- Engine site
+	https://www.cryptobullsociety.com/
+	https://doodles.app/
+	https://guttercatgang.com/
+
+- Token
+	https://shibatoken.com/
+	https://dogelonmars.com/
+
+-bubble.io
+https://learkn.com/
+- crypto wallet 
+
+	https://apps.apple.com/us/app/bitcoin-libre/id1590680702
+	https://play.google.com/store/apps/details?id=xyz.bitcoinlibre.app
+
+- Defi:
+	https://github.com/dydxprotocol/solo(doc:https://github.com/dydxprotocol/solo#documentation)
+	https://app.shiryoinu.com/dashboard
+	https://www.beyondtrade.io/
+	https://rising.nemesisdao.finance/
+	https://Sundaeswap.finance(cardano)
+	https://bloqball.com/
+	https://raydium.io/(Solana)
+	https://thephoenix.finance/(Avalanche)
+	https://app.cook.finance/farm(Avalanche)
+	https://bscpad.com/(launchpad)
+	https://ico.melodity.org(launchpad)
+	https://www.pinksale.finance(launchpad)
+	https://cafeswap.finance/
+	https://bone.polypup.finance/
+	https://exchange.vikingswap.finance/#/swap
+	https://polylime.finance/
+	https://ryoshitoken.com/
+	http://gainpool.io/
+	www.plexus.money/
+	https://spectratoken.finance/(BSC)
+	https://dex.leonicornswap.com/(BSC)
+
+
+	https://rvl.finance/
+	https://miamiswap.finance/
+	https://lovepot.finance
+	https://notchswap.com/
+
+- ICO
+	http://ebbicoin.com/
+	rouge.network/
+	www.delivererspowertoken.com/
+
+- Polkadot Blockchain
+	play.google.com/store/apps/details?id=io.ark.wallet.mobile
+	apps.apple.com/us/app/mobile-ark/id1324625967
+	
+- Hyperledger Fabric
+	mxdiamonds.com/
+	play.google.com/store/apps/details?id=com.mxdiamonds
+	apps.apple.com/us/app/mx-diamonds/id1480669986
+
+- Walletconnect
+	https://www.theopendao.com/
+	https://app.moo-monster.com/xmas/
+
+- Dex
+	https://dex.pantherswap.com/#/
+	https://dex.knightswap.financial/
+	https://app.bogged.finance/
+	https://www.louverture.finance/
+	https://www.pinksale.finance/#/
+	https://coincraftx.com/
+	https://app.dexyswap.com/
+- DAO
+	https://metaversedao.app/
+	https://dapp.paladindao.com/#/stake
+	http://sqds.io/(solana)
+
+- Metaverse
+	https://metahero.io/
+	https://metaversedao.app/
+	https://cryptogogos.com/
+	https://funkypunks.net/
+	https://www.aradena.io/ (metaverse game)
+
+
+- NFT minting sites(Ethereum)
+	https://www.metasaurspunks.com/
+	https://dwayne-template.webflow.io/
+	https://www.fancybearsmetaverse.com/
+	https://incognitonft.com/
+	https://www.pudgypenguins.io/
+	https://www.moodyapeclub.com/
+	https://beardbears.club/
+	https://www.metabillionaire.com/
+	https://www.thehustlersofwallst.com/
+	https://www.cyborg86.io/
+	https://sodativity.net/
+	https://babypunks.com/
+	https://tokenpuss.com/
+	https://thejuniorpunks.com/
+    https://doadelz.xyz (Ethereum Mainnet)
+    https://troverse.io/(ERC721A)
+    https://etherscan.io/address/0x762bc5880f128dcac29cffdde1cf7ddf4cfc39ee#code
+    https://etherscan.io/address/0xed5af388653567af2f388e6224dc7c4b3241c544#code
+    https://etherscan.io/address/0xd4299e6df45a393dc3104d02bb92dcd984f0f40f#code
+   
+  - ERC721A
+  https://etherscan.io/address/0x9ca8887d13bc4591ae36972702fdf9de2c97957f
+https://etherscan.io/address/0x9911347277a79fC4a00050DFc16afe65f2bFF852
+https://bscscan.com/address/0xaDFEe5a85218C9743b284779513Ad4BDB2d8BA4C
+https://bscscan.com/address/0xe77310c403576C7a21afa7Bd3b4AE4BCFC16bdc8
+https://bscscan.com/address/0x6a2e100bb4e6b9a12386483ef717ff388151c0c8
+https://bscscan.com/address/0xaba968c09eb0873a3a21172a14925a15b684263a
+https://polygonscan.com/address/0xcbAe2a4625c5CB99391D8F1a0F5121B3E5A176bb
+https://ftmscan.com/address/0xcc0a87f7e7c693042a9cc703661f5060c80acb43
+https://polygonscan.com/address/0x810Db637985e061DEFbCcb24A87c7cC9bD8071D2#code
+
+- ICY token
+	https://icymoneyfi.gitbook.io/docs/links/official-links
+
+- Avalanch Exploer
+	https://snowtrace.io/address/0x344b2732a76af5bf0cf9e5ec6f0891065d4f9156#code
+	https://snowtrace.io/address/0xe18950c8f3b01f549cfc79dc44c3944fbd43fb76#code
+
+-AR&&VR
+https://nft.blvck.com/
+https://city.ultiverse.io/
+
+- Game
+	Wolf game
+		https://bit.ly/3oYDlHc
+		https://bit.ly/3q1Shn7
+		https://etherscan.io/address/0xeE231dca742BcD784dc07BA5eC935aBB98E468d7(Game contract)
+		https://etherscan.io/address/0xeea43b892d4593e7c44530db1f75b0519db0bd50(staking contract)
+	https://risecity.io/
+	https://www.renpy.org/
+	https://tinydragon.games/
+	https://www.cropbytes.com/nfts
+
+- Cardano
+	https://www.claynation.io/
+	https://www.degencryptoclub.com/
+	https://spacebudz.io/
+	https://www.cardanocube.io/collections/exchanges-dex
+
+- Three.js
+	https://bruno-simon.com/
+	https://clonex.rtfkt.com.
+	https://findingctrl.nesta.org.uk/
+	https://animal.cc/
+	https://rainforest.arkivert.no/#kart
+	https://mav.farm/
+	https://lebronjamesinnovationcenter.nike.com/
+	https://lusion.co/
+	https://www.kodeclubs.com/
+	https://hki.paris/xp/
+
+- Marketplace
+	https://blockbar.com/(ETH)
+	https://artz.ai/(solana)
+	https://www.safebitcoin.io/
+	https://superrare.co
+	https://solshop.io/
+	https://solsea.io/
+	https://digitaleyes.market/
+	https://opencanvas.quecko.com/(mine)
+	http://staging.lofi-market.com/
+	https://www.squishiverse.com/marketplace
+
+- Crypto Job Sites
+	https://cryptocurrencyjobs.co/
+	https://cryptojobslist.com/
+	https://crypto.jobs/
+	https://www.crypto-careers.com/
+	https://pompcryptojobs.com/
+
+- Avalanche Network
+	https://staking.illuvium.io
+	https://avax.dexyswap.com/
+
+- Staking platform
+	https://agromaticstaking.farm/
+	https://staking.opencanvas.app/
+	https://maticstaker.io/(matic)
+	https://mintyswap.com/
+	https://gorillagalaxy.io/(NFT staking on Solana)
+
+- Generative NFT projects:
+	1. 8bit Universe
+	https://8bituniverse.io/
+	2. Sovereign Sphynx Council
+	https://sovereignsphynxcouncil.co/
+	3. Spooky Shroomies
+	https://go.spookyshroomies.io/
+	4. Donald Trump Collection (DJT)
+	https://opencanvas.app/
+
+- Play to Earn Game
+	Mobile Apps:
+	App Store link:
+	https://apps.apple.com/gb/app/legion-network/id1602921528
+	Play Store link:
+	https://play.google.com/store/apps/details?id=com.legion.production
+	This is play to earn game 
+
+	Actually it’s a wallet with swapping feature, staking NFTS features, and also having games 
+
+	People can play game on it and earn rewards 
+
+	Rewards are given in native tokens of wallets
+
+
+- Solana raffle 
+	https://store.degods.com/raffles
+	https://www.premint.xyz/skaterbirbs/
+
+
+	http://nearnauts.io/#/
+	https://wnd.game/guard
+	https://101010.art/
+
+	chain name: ICICB
+	native token symbol: ICICB
+	chain id: 26
+
+	explorer
+	http://explorer.icicbchain.com
+
+	public rpc:
+	http://rpc.icicbchain.com
+
+	graphql api
+	http://graphql.icicbchain.com
+
+	git - blockchain:
+	https://github.com/galaxy-foundation/go-icicb
+
+
+	Examples of Dashboards we are looking for:
+	https://dashboard.altswitch.io/
+	https://stake.lido.fi/rewards
+	https://www.v2.tools.gemit.app/#/wallet
+
+- cryptocurrency invoice
+	https://nootropicsource.com/
+	https://grumpygillsfungi.com/
+
+-node website 
+	https://strongblock.com/index.html
+	https://www.thor.financial/
+	https://app.vapornodes.finance/
+	https://redlightnodes.app/nodes
+
+- Near
+	https://github.com/near-examples
+	https://primelab.io/
+	https://near.org
+
+- Shopify
+	Heatcoolwarehouse.com
+	https://zapietdemo.myshopify.com/cart
+	https://apps.shopify.com/click-and-collect
+
+
+- Test BNB get
+	https://testnet.binance.org/faucet-smart
+
+	http://grinsteindavid.github.io/
+
+	https://chrome.google.com/webstore/detail/supersea/fahpmemkhpdgoodnooghaokmjehjokmd
+	https://chrome.google.com/webstore/detail/traitsniper/acaonckckmmakfgjfkgbfeepdhmajkeg
+	https://chrome.google.com/webstore/detail/freshdrops/ihhpfeiebambghiicmacdaidmmknoiko
+	https://chrome.google.com/webstore/detail/whalesniper/ldpnglhpjggmlbjljaocbgfnnfoicale
+
+- QA
+	- Unit and e2e tests
+	- Manual testing based on existed and new test cases
+	- Support and update test plan
+
+	I usually test in multiple steps:
+	1. using chai package to write unit tests and using mainnet fork with ganache to test all scenarios
+	2. testing on testnets like ropsten, rinkeby etc.
+
+
+
+
+- figma
+
+	https://www.figma.com/file/4BkBaaivIMV73NblTJaRBD/DBX-Swap?node-id=0%3A1
+	https://www.figma.com/file/fvHzvpp505gbMu11DpUBjB/Stay?node-id=1127%3A106938
+
+	avancia
+	https://cutt.ly/sJd0mn4
+	https://cutt.ly/JJd0UKr
+	https://cutt.ly/nJd0D1D
+	https://cutt.ly/OJd0LGy
+
+	shopify
+	https://www.figma.com/file/8kRas9l6t9lJSh9c9wCBrg/HerStroll-Final-Design?node-id=0%3A1
+
+	google map
+	https://www.figma.com/file/4PaZ8bXiRoLyGEv7MNPigQ/Tour-Record-%5BGPX-MP3%5D?node-id=0%3A1
+
+	Mobile 
+	https://www.figma.com/proto/5UtdigALSatdUiwi1QcYbl/Obvious-Fibra?page-id=0%3A1&node-id=358%3A629&viewport=13253%2C612%2C0.72&scaling=scale-down&starting-point-node-id=358%3A629
+
+- xd file
+
+	https://xd.adobe.com/view/962213ce-59c2-48cd-aab3-56aa17c4340a-c371/screen/c23f19bd-2698-469d-a4a9-12d6e297ee8b
+	https://xd.adobe.com/view/9dcd5150-357e-4412-a2dd-7eb31cb28220-c89e/
+	https://xd.adobe.com/view/c59ce866-8ac6-4122-8020-0c25e45923fd-90cf/
+	
+- web3
+	https://app.traitsniper.com/
+
+- Sniper bot
+	https://nftpirates.io/product/sniper-bot/
+	https://app.traitsniper.com/
+ 
+- trading website
+	https://www.tradingview.com/
+	https://www.koyfin.com/
+	dextools.io
+
+- book a taxk
+	https://bluebubbletaxi.co.nz/
+
+- new blockchain
+
+	https://mgbscan.com/
+	https://wyzthscan.org/
+
+- Near 
+	
+	flipping-coin.com
+	www.flippingcoin-mint.xyz 
+
+- Betting dapp
+	https://nickit.io/
+	https://polymarket.com/
+	https://kalshi.com/
+
+- Magento
+	https://dhcasters.com/
+	https://www.beanieboosaustralia.com/
+
+- Symfony
+
+	https://yuna.axre.fr/login
+	https://app.atmentis.de/
+	https://campus.atm.de/
+	https://plt-app.de/
+	http://www.tagheuer.co.jp/
+	http://www.axs.com/
+	http://www.bored.com/
+	
+- Travel reservation  platform
+
+ 	Rezdy.com
+
+----Booking
+https://www.monktoncombeschool.com/
+https://www.ris.ae/
+https://www.godstowe.org/
+
+ - CEX
+
+	https://www.xt.com/
+	https://gate.io/
+	http://www.bybit.com/
+
+- Casino
+https://www.africabet365.net/home
+
+- real estate -
+
+https://www.realtor.com/
+
+-custom sign-
+	https://www.neonsignslights.com/products/custom-neon?
+	https://getcustomneonsigns.com/products/custom-your-neon-sign-1
+	https://customneon.com/create-neon-sign/
+
+
+	WordPress :
+https://news.sap.com/ 
+https://platformlondon.org/ 
+http://www.deusperformance.com/ 
+https://ceremonycoffee.com/
+
+ My Django/ Python work:
+https://wintersport.com/ (Django, Python)
+ https://www.attitudehindishayari.in/ 
+
+(Python) 
+https://www.max7p.com/ 
+https://www.soleotogether.com/
+
+Laravel:
+http://timetation.ch/ 
+http://turn2me.org 
+https://www.homecuts.ch/
+https://www.todaytourism.com/ 
+
+Angular:
+https://aukro.cz (angular 5) 
+https://www.mdhearingaid.com (angular 5) 
+https://www.classicspecs.com/ (angular4) 
+https://voovit.com/home (angular 4) NodeJS:
+https://www.learnboost.com/ 
+https://storify.com/ 
+https://www.proassetz.com/
+
+Reactjs:
+https://fitly.co/
+https://bedbrowse.com/ 
+https://www.youthpastordiet.com/
+http://www.primento.com/
+
+Finalrentals:
+https://play.google.com/store/apps/details?id=com.finalrentals.app&hl=en https://itunes.apple.com/us/app/finalrentals-rent-a-car-in-dubai-and-abu-dhabi/id1273716113?mt=8 
+
+Fitness app:
+https://primalthenics.com/home 
+https://play.google.com/store/apps/details?id=com.primalthenics&hl=en_IN https://apps.apple.com/vn/app/primalthenics/id1468446506 
+
+
+
+
+

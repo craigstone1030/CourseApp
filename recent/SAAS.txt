@@ -1,0 +1,85 @@
+=======================SAAS PHP============================
+Hi there!
+I am an **Expert Full Stack Developer** having expertise in Frontend, Backend, web services, and API development.
+**I have developed specialized e-Commerce sites, SaaS applications, CRM, HRM, ERP solutions, white-label concepts, marketplaces, project management tools, social networking sites, and more.**
+
+I have 7+ years of experience in PHP and have expertise in (Laravel, CodeIgniter, CakePHP frameworks, and for the frontend technologies I have experience with react, angular, vue, HTML, CSS, bootstrap.
+
+Cloud-Based Data storage Software: https://www.buurst.com/ -- php-Laravel, react js
+P2P Loans Lending Platform: https://lendingally.cognerium.com/ -- php laravel
+Community Building Application: https://equiliberty.web.app/ --- angular 10
+B2B Catering and Snacks Service Platform: https://zerocater.com/ --- backend - node
+Social Community and online Events: https://www.citysocializer.com/ -- backbonejs, reactjs
+Online Video to audio converter Tool: https://getaudiofromvideo.com/ -- react node
+SAAS, School Management Tool: https://www.schooltry.com/ --php wordpress
+Multistate Lottery Analysis Result Prediction: https://www.thelotterylab.com/ -php laravel
+Online Consultant and therapist Platform: https://mymind.org/ -php laravel
+Game Lottery System: http://mnglotto.com/ -php laravel
+
+- https://stytch.com/ (user management)
+- https://www.chargebee.com/ (subscription management)
+
+**My Expertise Includes:**
+
+-> 7+ years with PHP
+-> 7+ years with JavaScript(javascript, Typescript)
+-> 8 years with HTML & CSS(tailwind css, bootstrap)
+-> Great understanding of Framework ecosystem (Laravel, CodeIgniter, CakePHP, Mysql, MongoDB etc)
+-> Great knowledge of Jest testing & always provide clean, Re-useable & Bug-free code
+-> Extensive experience in implementing pixel-perfect according to designs
+-> Great understanding to work in a collaborative team environment using tools like JIRA and Git
+-> Huge experience of 5+ years with SCRUM & AGILE methodologies
+-> A Fluent English communicator having excellent troubleshooting & organizational skills
+-> Ready for an immediate start, available Full-Time (40+ hours/week)
+
+My Experience Includes:
+
+=> Worked across multiple domains, including Health Care, Telecom, Energy.
+=> Worked in understanding and capturing business requirements through forwarding Engineering and Reverse Engineering.
+=> Participated in business war rooms to understand requirements, Designed processes around the business proposition, and suggested processes to suit their needs
+=> Interact with the business owner to come up with processes for the successful execution of the proposition
+=> Provide process inputs for high-level design to the designer
+=> Worked extensively on Business Process Flows, Context Diagrams, Domain Models, Landscape Diagrams, Use-case Modeling,
+=> Use-case Specification document, User Scenarios etc.
+=> Experience in developing User Scenarios and System
+=> Integration Test Scripts for Testing phase.
+
+I am very much familiar with AWS, API Integration, CI/CD, Github, Bitbucket, and GitLab, Unit Testing, and I have excellent knowledge of project management tools like JIRA, Trello, Basecamp.
+
+**I'm confident about the job and have all the right skills, and I believe my experience & knowledge can come off to your best use for the project.**
+
+I look forward to having a conversation with you.
+
+Regards
+
+=======================SAAS JS========================
+Hi There, I am an Expert **Full-stack MERN developer** having expertise in **Frontend, Backend, web services, and API development.** Available to collaborate with you and dedicate my full-time 40+ hours per week. Ready to kickstart:
+
+I have developed specialized e-Commerce sites, SaaS applications, white-label concepts, marketplaces, project management tools, social networking sites, and more. **Please review my relevant work samples**
+
+SaaS-Based Cybersecurity: https://cybersmart.co.uk/
+SaaS-Based Building/Office Security Solutions: https://www.eaglei.com.sg/
+SAAS, HealthCare CRM: https://www.opustime.com/
+SAAS, Retail & Distributor Business: https://www.blaze.me/
+Multistate Lottery Analysis Result Prediction: https://www.thelotterylab.com/
+Game Lottery System: http://mnglotto.com/
+SaaS, based Real estate Product: https://www.kondominia.com/
+
+**Let's jump on a quick call to discuss and create a project plan for your Existing Product and Road map for completing it.**
+
+My Expertise Includes:
+
+**- 7 years experience as a Front-End Developer**
+**- 5+ years of experience in React (React-Redux, Redux, Hooks, Mobx, Redux-Saga, Redux-Persist, React Navigation)**
+**- Experience creating SOAP and RESTful APIs using React**
+- Great proficiency in SCRUM & Agile Methodology
+- Advance Knowledge of the MERN & MEAN Stack
+- Excellent proficiency in DB: MySQL, MongoDB, PostgreSQL
+- Excellent Experience with Unit and Jest Testing
+- A Fluent English communicator with Time Managing skills
+
+I always conduct research on the basis of the Client's requirements and create websites & applications that are ideal for today’s marketing trends.
+
+I bring all my knowledge to deliver high-performance services. I always take care of my code and offer project maintenance, kindly provide me this opportunity to show my skills in front of you.
+
+Kind Regards & Looking forward to discussing this project.

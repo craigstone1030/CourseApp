@@ -1,0 +1,50 @@
+
+
+
+Dear Client !
+
+---I am ready to your technical interview---
+Your job really caught my eyes.
+I'm posting this proposal after read your job description very carefully.
+
+I have blockchain NFT game development with 2 years and unity with 1 year.
+
+I am a Full-stack Blockchain developer with 5+ years of development experience. 
+Including the crypto exchanges (P2P, CEX & DEX), blockchain forks, tokens creation (ERC-20, ERC-721 NFT), 
+smart contracts, web3.js, ICO, Defi, and Ethereum, Solana and Cardano.
+I specialized in smart contracts for minting with special features 
+such as presale, burn, white/black listing & royalties. 
+
+https://www.sandbox.game/en/snoopdogg/(Frontend+Smart Contract+integration with game)
+https://www.medabots.io/ (Frontend+Smart Contract+integration with game)
+https://sollemurs.com (Frontend)
+http://cryptoracing.vip/#(Fronend)
+https://dogedash.com/ (Frontend+Smart Contract+integration with game)
+
+Over the years I have also created many custom NFT projects for different clients in different Blockchain networks, Ethereum BSC. 
+I have extensive experience working with high-speed, efficient logic. Due to my extensive knowledge in this area, I could complete the job quickly, easily and bug-free.
+
+Main experience in blockchain
+- Ethereum, Solana, Binance Smart Chain.
+- Defi, DEX, Gambling, Token building, ICO, DAO, Presale.
+- ERC20, ERC721, ERC1155, BEP20.
+- Web3, Solidity, Rust.
+- NFT marketplace.
+- Trading Bot(Arbitrage, Trend Following, Market Making, Sniper FrontRunner Bot).
+-Frontend development (React.js, Vue.js, HTML, CSS, JavaScript)
+
+Main experience in Game development
+Games (Unity/Unreal/Blockchain):
+- Play-to-earn games
+- 2D/3D Games
+- VR/AR Games
+- Endless Games
+- Strategy Games
+- Application-based Games
+- PC Games
+- 3D Modeling and Animation
+
+Hope we can work together.
+Have a great day ahead
+
+Best Regards

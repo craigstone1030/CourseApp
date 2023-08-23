@@ -1,0 +1,19 @@
+I have been working as a full stack web developer since 2012. 
+
+During this time, I've been developing websites and web applications of various complexity for industries including education, real estate, 
+finance, e-commerce and others. 
+
+I am a self-motivated and self-taught professional who likes to solve problems, suggest smart architectural solutions and build advanced 
+visually appealing user interfaces.
+
+I worked at Apico company at the Senior Full Stack JavaScript Developer position. My responsibility is to write well maintainable and 
+organized code, perform research activities, resolve technical problems and provide assistance to other developers in our team. 
+I am well experienced in building high-performing web apps with an emphasis on system scalability, speed and high load resistance.
+
+I have huge experience in JavaScript frameworks such as Vue.js, React, Next.js, Nuxt.js.
+
+Especially, I am familiar with Vue.js than others because it  combined the top-level features of React and Angular, 
+but its main feature is the perfect user experience. Also, it leveraged the capacity of the virtual DOM and optimized the code structure.
+
+I prefer using the PostgreSQL database, however in specific cases (for
+example blogs, personal pages, etc.), I use the NoSQL alternatives (MongoDB, DynamoDB).

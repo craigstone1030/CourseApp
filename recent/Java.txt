@@ -1,0 +1,22 @@
+
+Hi
+
+After coming across your senior full stack Java developer job description on Upwork, I was immediately sure I wanted to apply. 
+With my master’s degree in computer science, more than 7 years of software development expertise, and recent experience with Java in the fintech industry, 
+
+I believe I could make a great fit!
+
+Over the past six years, I’ve amassed extensive experience in Java development while building building full stack web applications 
+with foundations in Java 8+ with Spring Boot, Angular, and DB2. I have in-depth, hands-on knowledge of Hibernate, RDBMS, SQL, object oriented programming concepts, 
+event-driven systems (Kafka), and containerized applications (Docker/Kubernetes). 
+
+On a day-to-day basis, I currently have senior-level responsibilities, including leading design workshops, performing code reviews, supporting production, 
+and liaising with product owners and other stakeholders. Given how well my background and skill set match what you're looking for, 
+I think I am a strong possible candidate. 
+
+I’d truly appreciate the chance to speak with you further on the senior full stack Java developer role. Thanks in advance for considering my application, 
+and I look forward to hearing from you! 
+
+Regards
+
+

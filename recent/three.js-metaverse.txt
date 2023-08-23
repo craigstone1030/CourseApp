@@ -1,0 +1,28 @@
+Hi, there.
+I am familiar with Web3.js and Three.js for creating metaverse.
+I have full experience in metaverse development like oncyber.io.
+perhaps, it is second 3D NFT marketplace.
+I think, solsea.io is first 3D NFT marketplace,
+I am sure I can implement your project like oncyber.io.
+
+MY main skills are bellow:
+- WebGL & 3D
+* 3D visualization and engaging 3D animation using WebGL/Three.js/Babylon.js.
+* 3d product configurator in eCommerce shop, interactive 3d simulator for education, medical, etc.
+* Fantastic and unreal animation using Fragment Shader and shader integration to the web environment.
+
+- Frontend skills
+* Frontend frameworks: React.js/React Native, Angular/Ionic, Vue.js
+* Data visualization and Graphic : D3.js, Pixi.js, P5.js, Chart.js, Highcharts, Canvas, SVG
+
+- Backend skills
+* Backend frameworks: PHP, Java, Spring, Laravel, Python/Django, Node.js, Express, Go, GoLang
+* DB: Oracle, MongoDB, PostgreSQL, MySQL
+
+
+My previoues working result.
+https://metahero.io/
+https://cryptogogos.com/
+
+I would like to discuss with you.
+Thanks.

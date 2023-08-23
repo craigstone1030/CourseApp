@@ -1,0 +1,79 @@
+Dear Client !
+
+Your job really caught my eyes.
+I'm posting this proposal after read your job description very carefully.
+
+I am a full stack blockchain developer with 4+ years experience.
+Particularly, I am talented at Solana and pretty familiar with several Blockchains such as 
+Terra, Ethereum, BSC, Polygon and so on.
+I am also quite proficient in Rust, Solana-web3.js, Web3.js 
+Web3.py and etc. Moreover, as a dedicated Blockchain developer, I have full stack 
+knowledge & experience in DeFi, Dapps, Staking, NFT Marcket place, NFT minting sites, various 
+trading bots, smart contracts using Solana Rust programs, custom wallets, 
+Website integration. I can also cover Frontend successfully as well using React, Vue.js 
+and Angular.js.
+
+The following solana Dapp projects is that I have just done
+https://thebullherd.com/
+https://www.thugbirdz.com/
+https://solanamonkey.business/
+https://solpups.com
+https://solpets.netlify.app/
+
+
+please check it.
+
+I am a GIT expert with good collaboration experience and working styles.
+The best quality, accurate timeline and polite after-service are what I guarantee to 
+my clients.
+I want to assist your project, I hope your project will be going well.
+Sincerely
+
+Warm Regards
+
+
+Dear Client !
+
+---I am ready to your technical verification---
+Your job really caught my eyes.
+I'm posting this proposal after read your job description very carefully.
+
+I have rich experiences in solana chain
+I have experiences in spl-token creation, FTX exchange platform for Dex, Metaplex candy machine for nft-minting site and nft marketplace on solana chain.
+I am familiar with anchor-web3 and rust program for smart contract, and i'm ready to be tested from you.
+https://luckylemurs.com/
+As a full stack blockchain dev, I developed project with C#,Vue.js and React/Next.js
+This is a NFT minting site with total supply, 7777 NFTs developed by me on solana chain
+Actually i have completed this project within 10 days and sold 3333 nfts for 2 days.
+The cost to complete this project is as follows:
+1. For creating CM --> 13 sol
+2. For uploading 7777 images on arweave --> 17.5 sol
+3. For completing total project --> 31-32 sol
+This minting site has many functions such as a NFT art generator(deciding rarity, generating arts randomnessly), setting minting price per a NFT item.
+============ My Skills ============
+Frontend: React
+Backend: Node.js or Next.js
+Blockchain: Solidity
+============ My experience for NFT marketplace ==============
+1. Create an environment, Ubuntu 20.04
+2. Install solana and metaplex binaries
+3. Use an NFT generator to create metadata and jpegs
+4. upload metadata and jpegs to storage (arweave in this guide)
+5. Create CANDY MACHINE with the metadata you generated
+At this point, the admin can mint
+6. Set start time for candy machine to allow users to start minting
+At this point, users may mint
+7. If you have a UI, users may then click “mint” and they get the token
+
+I can complete frontend+backend+smart contracts 100% successfully within a short period.
+I also developed NFT-Art-Generator.
+Let's discuss more details in chat.
+I will look forward for your reply.
+Thanks.
+
+
+
+
+
+re-sale mint price, pre-mint MAX supply, MAX_MINT_AMOUNT, public mint price, public total supply
+MAX_MINT_AMOUNT = 10

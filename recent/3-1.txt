@@ -1,0 +1,81 @@
+Hi Dear.
+Let me introduce myself.
+Professional Full Stack developer(individual) with 6+ years great experience in blockchain space.
+Familiar with both frontend and backend developments using various kinds of frameworks and libraries, especially for blockchain based applications(Metaverse, DEFI, NFT projects, staking project, Play to Earn Game, DAO, launchpad, crypto wallet).
+Have contributed to building decentralized ecosystems with writing bug free smart contracts for building tokens and implementation of different features like staking, farming and many more.
+Built great communication skills and had a deep knowledge about CI/CD and DevOps theory.
+Am a passionate, self motivated and customer oriented individual developer.
+
+
+My skills:
+	- Chain : Ethereum, Solona, BSC, Polygon, Avalanche, Tron, Elrond, Cosmos, Algorand
+	- Contract : Solidity, Rust, Hardhat, Truffle, Remix. (OpenZeppelin)
+	- Token : ERC-20, ERC-721， ERC-721A, ERC-1155, BEP-2, BEP-20, BEP-721, TRC-20
+	- Wallet Connect : MetaMask, TrustWallet, CoinbaseWallet and more using Web3.js/ethere.js
+	- Cryptocurrency : Bitcoin, Ethereum, NXT, Vertcoin, NEO, Monero
+	- Trading, Lending Bot, Front running bot, Snipper bot
+	- Javascript, React, Vue, Angular, Ruby on Rails, Next.js, Node.js, Typescript, three.js,WebGL
+	- Work 40+ hours per week
+
+
+Please check my past project on these URLs:
+	- NFT minting sites
+		amritpaldesign.com
+		www.boredbunny.io
+		demotoothlesswizards.tilda.ws
+		app.cooperplanet.io
+
+	- Marketplace
+		staging.lofi-market.com/
+		marketplace-mcyos118.vercel.app/
+		blockbar.com/(ETH)
+		artz.ai/(solana)
+
+	- DEX
+		dex.leonicornswap.com(BSC network)
+		thephoenix.finance/(Avalanche network)
+
+	- Node 
+		app.vapornodes.finance
+		redlightnodes.app/nodes
+
+	- Staking project
+		https://staking.opencanvas.app/
+		https://maticstaker.io/(matic)
+
+
+I will do my best on your project and want to have a long-term relationship with you from this project. Your project will be finished in high quality and as you expected.
+I am an innovative and strategic thinking professional with a proven track record of consistently going above and beyond in meeting customer needs and providing more value to the product than what the customer is paying for.
+For this reason, they always get back to us again and again with promising ideas and projects.
+Thanks for your attention.
+Best regards.
+
+================================== Sample full stack bid ===================
+
+I am interested in applying for the Java Developer position. This role is an exciting opportunity and a challenge that I am eager to take on!
+
+I believe that my experience in the field would be a useful addition to your team. I would love to work with you and help you reach new heights.
+Apart from my strong motivation and work ethic, I can offer your company my proven expertise and experience in the field.
+
+For example, during my employment at Crown Tech ApS, I successfully:
+
+Promoted from Junior Java Developer to Mid-Level Java Developer within 3 months of employment
+Utilized GIT to manage collaboration with other departments and developers
+
+What's more, I am experienced in Java, Scala, and Node.js.
+
+I am certain my skills and qualifications will be of great use to your team.
+Should you decide to move forward with an interview, please reach out to me! I would be happy to answer any questions you may have and discuss how I can help you.
+I am open to relocating for the right job. However, I would appreciate the chance to discuss my experience and qualifications over the phone and prove that I am suitable for this role.
+Thank you for your time.
+
+
+=============================== Sample full stack bid =======================
+
+After coming across your senior full stack Java developer job description on Upwork, I was immediately sure I wanted to apply. With my master’s degree in computer science, more than 7 years of software development expertise, and recent experience with Java in the fintech industry, I believe I could make a great fit!
+
+Over the past six years, I’ve amassed extensive experience in Java development while building building full stack web applications with foundations in Java 8+ with Spring Boot, Angular, and DB2. I have in-depth, hands-on knowledge of Hibernate, RDBMS, SQL, object oriented programming concepts, event-driven systems (Kafka), and containerized applications (Docker/Kubernetes). 
+
+On a day-to-day basis, I currently have senior-level responsibilities, including leading design workshops, performing code reviews, supporting production, and liaising with product owners and other stakeholders. Given how well my background and skill set match what you're looking for, I think I am a strong possible candidate. 
+
+I’d truly appreciate the chance to speak with you further on the senior full stack Java developer role. Thanks in advance for considering my application, and I look forward to hearing from you! 

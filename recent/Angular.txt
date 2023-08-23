@@ -1,0 +1,171 @@
+
+ ============================== Bid 1 ========================
+
+Hi
+I am an experienced Front-end developer specializing in Angular
+Also an expert in turning business requirements into software solutions. I can take on a wide variety of projects: MVPs, micro-services, database design, API integration, etc
+
+This is my Angular certification.
+https://www.hackerrank.com/certificates/43705dc55e06
+
+My expertise:
+- Javascript, Typescript, C#
+- HTML, CSS, Jquery, Bootstrap 3/4, Ajax, Angular, React, Node.js, Next, Knockout.js, Material UI, Kendo UI
+- .NET, Razor, Entity Framework(EFCore 5.0)
+- 3rd Party APIs, Window Services, WCF, Rest API, GraphQL, SOAP
+- Git, Trello, Jira, etc
+- DevExpress, Telerik
+- Azure, AWS services
+
+My recent projects:
+https://tyfoster.fyi/pricechopper
+
+Hope to discuss your project. I can start right away.
+Thank you
+
+===================== Bid 2 ==================================
+
+Describe your recent experience with similar projects
+
+Hi, I read the job posting and I think I am a right person for this job because I have 7+ years of full stack development experience - Front end and Back end as well as deployment
+
+I've worked as a senior full stack engineer for several companies:
+✅ Contrimo: Senior Full Stack Engineer - Lead Role
+✅ TangledHub (linkedin.com/company/tangledhub, tangledhub.com) : Senior Full Stack Developer
+✅ DCLOUD (linkedin.com/company/dcloud.rs/, dcloud.rs) : Senior Software Developer
+✅ VTUUR OÜ: Senior Full Stack Developer
+✅ YoungCulture (linkedin.com/company/youngculture, youngculture.ro) : Software Engineer Internship
+
+Python and JavaScript/TypeScript Skill Test on Codility
+- Issued April 2021
+- I've taken the Python and JavaScript/TypeScript Skill Test on Codility.com according to my client request and got high marks
+
+
+
+Latest projects that I've worked on;
+
+VR/AR Platform - VTUUR
+- http://vtuur.com
+- VTUUR is revolutionizing and combining the VR and AR world with its on demand mobile streaming app and platform. Saved VR Streams are stored on IPFS, rendering the system decentralized.
+- I worked as a Senior FullStack Engineer/Software Architect: http://prntscr.com/v6prj8
+- Technology used: Python, Node.js, React, Redux, JavaScript, AR/VR, AI/ML, NLP, PostgreSQL
+
+Trading platform - bitboo
+- https://www.bitboo.co
+- Bitboo® Trading Platform is built under the latest technologies in the field of cryptocurrency trading, with the purpose to provide users with the absolute possibility of choice and interaction with the platform.
+- I worked as a senior Full Stack Engineer/Software Architect
+- Technology used: Python, React, Redux, Payment processing, Cryptocurrency, Blockchain
+
+GAMECHANGERSF
+- https://gamechangersf.com
+- Gamechanger, a data-driven performance marketing to mobile advertising and the fastest growing startup.
+- I have worked on Frontend written in Angular and on Backend written in Python/Postgres/Docker
+
+Social Network Platform - Homerr
+- https://homerr.com
+- Homerr is the independent social network of individuals and stores that are ready to receive packages. It is very popular in Netherland.
+- I have worked on Web/Mobile Develpment & Maintenance.
+I have created Mobile App in React Native and Homerr API in Python/PHP.
+
+eCommerce Platform - MenConcept
+- https://menconcept.rs/
+- menconcept is e-commerce platform for selling clothes and shoes.
+- I have worked on database programming, and on scaling and optimizing the entire platform
+- Technology used: Python, Node.js, PHP, Vue.js, BigData/Database Handling/MySQL programming
+
+My CV: https://bit.ly/39oUJiJ
+Github: https://github.com/zdravko89le
+
+=============
+
+Describe your recent experience with similar projects
+
+- I have experience of all mentioned points from your requirements.
+✅ Experienced UI engineer - hands on experience with Angular, HTML 5, CSS 3, JavaScript
+✅ have an experience with UI development using TypeScript, Angular and RxJS / NgRx, NgBootstrap
+✅ Advanced level knowledge of JavaScript, Angular 13, complex JSON, AJAX and Rest APIs
+✅ Solid understanding in developing responsive sites which are cross-browser and device compatible
+✅ Experience with CSS pre-processors (SASS)
+✅ Knowledge of the performance and scalability considerations for web applications
+✅ Experience integrating with RESTful APIs in front-end
+✅ Experience working with source code control systems (Git)
+
+- I have also experience of managing team of 12+ members and handling 3 projects simultaneously.
+- I have experience of new application architecture.
+- I have experience of working on big enterprise level applications. I have worked on dashboards, charts, pdf generation and many functionalities.
+
+    Hello Sir/Madam, Greetings..!
+
+    I have total 7+ years of experience in technologies like AngularJS, Angular(2-13), Ionic Framework, Phonegap, Node.js, Firebase, Java, Spring, Android, Progressive Web App(PWA).
+
+    I have hands on working experience in Javascript libraries like Angular Material, Bootstrap(3-5), KendoUI, PrimeNg, High Charts, Chartjs, d3js Charts, Moment JS, Google Places Services, Angular Google Map(agm), Agm Direction, DevExtreme, PDFMake, Socket IO, Fabric Crashlytics, JQuery, ngx-excel-export, json2csv and many more.
+
+    I have also experience of code versioning tools like Tortoise SVN, Git.
+
+    Till now I have worked on 18+ projects. Mostly I have worked on financial applications so I have good knowledge in financial portals. I have very good knowledge and experience of API integrations with different backend technologies. I have started my career as an AngularJs developer then I am working as a full stack developer. I have also experience of handling team of 12+ developers of different technologies. I always do code review for coding standard and also check weather there is no redundant or unused code in any project.
+
+    I am good in understanding project needs, managing timelines, providing status and assessing technology restrictions. I will also help you to see what is possible from the developer's perspective and also make recommendations to better meet your goals. I will also helping to by giving suggestions for UI/UX point of view.
+
+    Please refer to some of the links form my past projects
+    1. https://www.exchangeconnect.in (admin panel also there and its seperate website)
+    2. https://capitalconnect.hk
+    3. https://designlab.exchangeconnect.in
+    4. https://ws.mytrademartstore.com (Developed in Angular 1.6)
+    5. https://www.mytrademartstore.com (Migrated above application to latest Angular 9)
+    6. https://www.khwabonkarakshakaran.in (Using Angular9, Developed whole application from scratch with design)
+    7. https://live.etwomensforum.com/(Using Angular9, Developed whole application from scratch with design)
+
+
+    I can assure you that I will do my job with responsibility and deliver you quality work on or before time. I will be waiting for your positive response 😊
+
+================
+
+Cover letter
+Describe your recent experience with similar projects
+
+Please check the following Angular projects I have worked on.
+https://mxlocker.com
+https://ipp.domusscs.com
+
+Hi! I have a thing for Angular. Why? I realized it's really something while I have been tackling Angular for last 6 years, not to mention a dozen projects I have built with it. AngularJS/Angular is a big daddy of all SPA frameworks, but this is NOT the reason why I adore it. What I like most about Angular is, it's mature and all-in-one. Angular is practically everything you may need, no matter whatever you are going to build.
+
+You know, whoever says that Angular is slower and has larger bundles than React or Vue is merely a beginner and does not understand that React or Vue is not mature and need other dependencies to do something Angular can do alone. It's not that React and Vue are not good, but Angular has more cool stuffs.
+
+So, I have every concept of Angular under my belt - not only built-in ones such as module/module lazyload, routing, component, directive, service, resolver, guard, interceptor, template driven form & reactive form but also advanced techs such as rxjs, ngrx, Angular universal & prerender, and Angular PWA & service worker configuration & offline mode support. And I have worked with quite a few UI frameworks that are based on Angular or that are compliant with Angular such as Angular material, ngx-bootstrap, Prime NG and TailwindCSS.
+
+I can start immediately and strictly adhere to the deadlines and guidelines. I would like to speak with you about my role in more detail.
+Looking forward to hearing from you regarding next steps.
+
+
+==================
+
+Describe your recent experience with similar projects
+
+https://www.wehaveanyspace.com/en/ (AirBnB-like platform for commercial real estate)
+Stack: Angular, Node.js, MongoDB, Redis, Ngnix, Git
+Functionalities: Building the catalog of real estate, Responsive UI, Google Map integration and geolocation recognition, Integration with CRM leads, Autocomplete search by street, city, region, Mailchimp newsletter, multi-language, Continuous performance improvements, identify the location on 8 countries, User's selected items shortlist, CI/CD
+
+https://www.ruuster.com/ (Real estate - manage homebuying processes
+Stack: Angular, Next.js, Node, MongoDB, Ngnix, AWS
+The first challenge I faced was the problem with authorization. I quickly managed to eliminate it and ensure high quality. And the next challenge was the issue with analytics. Since analytics is as important as the performance of a solution, I did everything possible to make sure that my clients get all the data and can analyze it effectively.
+
+Hello,
+It's Sam, a creative thinker, collaborative team player, strong work ethic with excellent communications skills, and enough experience in web development providing both exceptional customer satisfaction and technical issue resolutions.
+
+My Github - https://github.com/samityo
+
+https://www.wehaveanyspace.com/en/ (AirBnB-like platform for commercial real estate)
+Stack: Angular, Node.js, MongoDB, Redis, Ngnix, Git
+Functionalities: Building the catalog of real estate, Responsive UI, Google Map integration and geolocation recognition, Integration with CRM leads, Autocomplete search by street, city, region, Mailchimp newsletter, multi-language, Continuous performance improvements, identify the location on 8 countries, User's selected items shortlist, CI/CD
+
+https://www.ruuster.com/ (Real estate - manage homebuying processes
+Stack: Angular, Next.js, Node, MongoDB, Ngnix, AWS
+The first challenge I faced was the problem with authorization. I quickly managed to eliminate it and ensure high quality. And the next challenge was the issue with analytics. Since analytics is as important as the performance of a solution, I did everything possible to make sure that my clients get all the data and can analyze it effectively.
+
+I am consistently trying to improve my skillset and to learn and experiment with new and existing web technologies. My professional philosophy is that I might now know everything, but more importantly, I know how to find an answer.
+
+I look forward to talking with you.
+
+
+================
+

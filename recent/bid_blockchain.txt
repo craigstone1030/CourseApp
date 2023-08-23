@@ -1,0 +1,655 @@
+Nothing is too much trouble =  I am always ready to help!
+
+=============Overview======================
+Hello.
+I am a software engineer and I have been working as a developer for 9 years.
+I have knowledge of Full Stack Web Development but I prefer to Specialize in Blockchain and Smart Contracts Development Technologies.
+
+I have great experience working on N.F.T.s Projects and Platforms. If I accept to work in your Project Full-Time, 
+I will work exclusively on it. I always prefer to establish long-term business relationships with Clients when possible.
+
+I can help you with the Development and Modification on Ethereum/Polygon/B.S.C. of Smart Contracts in Solidity like Ethereum ERC-20/B.S.C. BEP-20 Tokens. N.F.T.s (ERC-721/ERC-1155) either Single or a whole Collection with its own Generative ArtWork and MetaData, Minting, Selling, Pre-Sale, I.C.O. Smart Contracts and more!!!
+
+My Skills Include:
+✅ Blockchain: Solidity, Truffle Suite, Hardhat, Web3.js, Ethers.js, Open Zeppelin Library, Unit Testing(with Mocha & Chai) and IPFS Client
+✅ Web: Net Core, C#, Node.js, React.js, HTML5, CSS3, Bootstrap, JavaScript
+✅ Frameworks: Nhibernate, WCF, ADO.Net, Entity framework, Nunit, Telerik, Redux, Typescript
+✅ Database: SQL Server, MySql
+✅ Tools: Jira, Trello, Slack, Confluence
+✅ Methodologies: Scrum, Kanban
+
+Last year I took several courses to improve my knowledge in blockchain, such as: Dapp University, Crypto Zombies, Eat The Blocks, HashLips NFT, and Ethereum Blockchain Developer Bootcamp With Solidity (Udemy).
+
+I feel very comfortable teaching things to others and could even lead teams in the future. 
+I am very ambitious and curious and I am continually learning new things.
+
+Let's discuss
+Thanks
+
+===============BOT development================
+
+
+
+3-INSTA BOT
+https://drive.google.com/file/d/1YEuzLfXt7Vdo_G4bn2m2EOYFc6tLjoVV/view INSTA Emulator MASS DM:
+https://drive.google.com/file/d/13-sEmAXKD3PHAJuwhdd9Y-RhBPb59XHU/view?usp=sharing
+___________________________________________________________________
+4- COMBINED BOTs: ----
+https://drive.google.com/file/d/18HLmZH7a-w2vy_9cCdAZVRi2CvWrBuD4/view
+___________________________________________________________________
+5-Ebay Automation BOT using Python: -------
+https://drive.google.com/open?id=1LGTIXqYBPwKegfOYytugtoy3Tk3Q1uva
+___________________________________________________________________
+6-Facebook Auto Message, Likes, Post, BOT: -----
+https://drive.google.com/open?id=1sc-btL476NhswEuEcunIE65OZ3ptBxJW
+___________________________________________________________________
+7-LinkedIn Auto Invitation BOT using Python:
+https://drive.google.com/open?id=1payteJDlIfaJaUMOEOaRjc3KAECsMTM0
+https://drive.google.com/open?id=1sc-btL476NhswEuEcunIE65OZ3ptBxJW
+___________________________________________________________________
+8- TWITTER BOT:
+https://drive.google.com/file/d/1w2pFU4pQ5hTAMZxSqkI5FZBkqcIFMYwv/view
+___________________________________________________________________
+9-Telegram BOT :
+https://www.loom.com/share/1c28da5ef0d1444fb4763ed11e0e285c
+___________________________________________________________________
+10-Discord bot :
+1-https://watch.screencastify.com/v/DFa3OOelHUNsYWKr8iqK
+2-https://watch.screencastify.com/v/V18GDbPVXO137RJbaKmf
+___________________________________________________________________
+11-Whatsap, PDF , BOT :
+https://www.loom.com/share/6c4d379886824c1fbe155bb44c09cca6
+
+=============== audit bid ==================
+
+A few weeks ago, I reviewed one smart contract.
+https://etherscan.io/address/0xd4299e6df45a393dc3104d02bb92dcd984f0f40f#code
+This is smart contract with biconomy gasless transaction .
+I reviewed this smart contract for 3 days.
+I checked folllowing aspects:
+
+1. if anti-snipping solution is implemented and implemented correctly
+2. if there are so backdoors for hacking by the developer who made this contract
+3. if this smart contract is secure using the best practices
+
+=================Token=======================
+- https://www.coingecko.com/en/coins/astra-guild-ventures
+- https://bscscan.com/address/0xe94Bf12a96623997A33Aaacb433a51BB4E105533
+- https://etherscan.io/address/0x4BFB0258Af013E6376E8Ad5192598136d9713Ce9
+- https://bscscan.com/address/0xce6882d44f2e0D98Ee19498DC22A3e4EAa0Ab7Af
+- https://etherscan.io/token/0x8e8a592a7d8f6a2c9a8b10b7a74b49895523b3f8
+- https://bscscan.com/token/0xf4f618eff5ef36cde2fca4fbd86554c62fb1382
+- https://etherscan.io/token/0xf4F618Eff5eF36Cde2FCa4FBD86554c62Fb1382B
+- https://bscscan.com/address/0xdc806d1Bc61932D5159B1465cB1EB5a873B9cfCb
+- https://etherscan.io/address/0xF5a56BcBfb73a90eaCDf9FDd7256AeF094b984D6
+
+==============SAMPLE==========================
+Hello Sir :)
+
+My name is Ankur. I am a "TOP RATED PLUS" Blockchain developer.
+
+I have reviewed your job post. I am ready to discuss your project asap.
+
+Also, I have developed smart contracts on BSC, ETH, TRON & DAPP, and EXCHANGES.
+
+Please check the following contracts developed on BSC.
+
+1. https://bscscan.com/token/0x679d5b2d94f454c950d683d159b87aa8eae37c9e
+
+(This contract has 47,901 holders)
+
+2. https://bscscan.com/token/0x1a1c6f9F6B4E535130E9b1de46bBc76130b61Feb
+
+(This contract has 26,565 holders)
+
+3. https://bscscan.com/token/0x6500197a2488610aca288fd8e2dfe88ec99e596c
+
+(This contract has 10,947 holders)
+
+4. https://bscscan.com/token/0x741f72bc9e29f662f2eb41c5ab450a2ca33be57d
+
+(This contract has 7,287 holders)
+
+5. https://bscscan.com/token/0x8592fb0e6724a90ce45f05f31b85bddd45931560
+
+(This contract has 4,514 holders)
+
+6. https://bscscan.com/token/0xab14952d2902343fde7c65d7dc095e5c8be86920
+
+( Holders: 16,811 )
+
+Please check the following smart contracts developed by me on ETH.
+
+1. https://etherscan.io/address/0xa51c5e7f5ab0699a4cc801651225ca33f30406f5#code
+
+2. https://etherscan.io/address/0x9dfa77671c5ac5dd964b4baf799dc4c44c4d02d0#code
+
+3. https://bscscan.com/address/0x897fd4ce6dbcbf31039754fdc8f77ce4c3521ee0#code
+
+4. https://rinkeby.etherscan.io/address/0x2c0de02e0364a0288086e5577222eefff33fba52#code
+
+5.https://etherscan.io/address/0xca808163a4d0c5d0960d2a604b598db70fd84b80#code
+
+6. https://mumbai.polygonscan.com/address/0x6eeb7dbe45412aaf1cb1e4f728124422a4441244#code
+
+7. https://bscscan.com/address/0x57dbbade5bb6955db9182fce981c2350e6abd76a#code
+
+Please check the following DAPP developed by me.
+
+1. https://yourprojecttest.com/bnb-defi/
+
+2. https://yourprojecttest.com/bnb-finance/
+
+3. https://yourprojecttest.com/bnbengine/
+
+4. https://yourprojecttest.com/bnbmint_v1/
+
+5. https://yourprojecttest.com/niros/
+
+6. https://yourprojecttest.com/webyour/bnbmint/
+
+7. https://yourprojecttest.com/webyour/chubbydoge/
+
+8. https://torii.fi
+
+I have also developed two running exchanges. Please check below.
+
+1. https://btrlexchange.com/
+
+2. https://fivestarexchange.in/
+
+Also, do not forget to check my profile for other works related to BLOCKCHAIN.
+
+I am looking forward to working with you.
+
+Thank you :)
+
+===========DEX Experience =====================
+
+babylonswap.finance.        
+This is my recent project-DEX
+I deployed this project to BSC network.
+This project is similar to Pancakeswap but farm and pools are different from ones of Pancakeswap.
+In this project, I wrote the smart contract and integrated it with the frontend with web.js.
+We finished this project for 3 weeks.
+
+
+=========== Minting site milestone =============================
+
+1. Develop landing page of your web page design 
+2. Develop smart contract for your requirements.
+3. Web integration with wallet and smart contracts
+4. upload arts(metadata) to IPFS 
+5. Deploy to devnet for testing and fix problems 
+6. Deploy to mainnet, connect with Opensea and start service on your host serve
+
+============== Certificates =============
+
+Certifications
+- Blockchain Development Certification(CBCP)
+- Full-Stack Web Development with React Certification
+- Front End Web Development Certificate
+- Back End Web Development Certificate
+- AWS Certified DevOps Engineer — Professional
+- Free Code Camp Full Stack Development Certification
+
+============== Marketplace Milestone =============
+
+1. Mint NFT, Sell, buy NFT :  5 days $1000
+2. Place bid for acutions : 3 days $500
+3. Profile and Homepage : 4 days $600
+4. Collection page: 5 days $800
+5. Top NFT page : 5 days : $700
+
+================================ Basic bid ======================
+
+Hi Dear.
+I have carefully read your job posting and understood what you want in this project.
+I'm very interested in your project as a blockchain developer with experience in  smart contract development.
+I'm very familiar with creating ethereum blockchain, smart contract, Cryptocoin, wallet, whitepaper marketing, ICO promotion, the exchange, Initial coin offer, Smartoken system mining & fundraising of coin .
+
+My skills:
+- Chain : Ethereum, Solona, BSC, Polygon, Avalanche, Tron, Elrond, Cosmos, Algorand
+- Contract : Solidity, Rust + Hardhat, Truffle / Remix. (OpenZeppelin)
+- Token : ERC-20, ERC-721， ERC-721A, ERC-1155, BEP-2, BEP-20, BEP-721, TRC-20
+- Wallet Connect : MetaMask, TrustWallet, CoinbaseWallet and more using Web3.js
+- Cryptocurrency Exchange Site
+- Cryptocurrency : Bitcoin, Ethereum, NXT, Vertcoin, NEO, Monero
+- Trading, Lending Bot, Front running bot, Snipper bot
+- Javascript, React, Vue.js, Node.js, typescript
+
+
+I want to have a long-term relationship with you from this project so I will do my best on your project, your project will be finished in high quality and as you expected.
+I am an innovative and strategic thinking professional with a proven track record of consistently going above and beyond in meeting customer needs and providing more value to the product than what the customer is paying for.
+For this reason, they always get back to us again and again with promising ideas and projects.
+Thanks for your attention.
+Best regards.
+
+================================= Full Stack dveleopment Job-interview=======================
+
+Hello there.
+I am interested in your project.
+Enthusiastic software engineer with 6+ years of experience participating in the complete product development lifecycle of successfully launched applications.
+Owns strong debugging and troubleshooting skills that allow me to quickly analyze problems and come to a modern solution that extends the life of the application without rewriting everything from scratch.
+Specialized in web application development such as E-Commerce System, Enterprise App, Single Page Application, Health Care System, Learning Management System, staking/rewards, DEFI, DAO, NFT minting site, coin etc.
+I always respect clients and follow their demands.
+These are my powerful skills:
+
+✪ BlockChain
+- ERC-20 Token | ERC-721 NFT Token , Solidity
+- Web3.js | Ethers.js | JSON-RPC
+- Ethereum, Binance, Polygon, Cosmos, Avalanche, Algorand, Terra
+✪ Frontend:
+- TypeScript, JavaScript
+- React.js, Redux, React Hooks, Styled Components
+- HTML, HTML5, CSS, CSS3, Bootstrap 3/4/5
+- Vue, Vuex, Vuetify
+- WordPress/Shopify
+✪ Backend:
+- .NET C#, C++
+- ExpressJS | NodeJS | HTML5
+- Laravel | Codeigniter | AngularJS
+- MySQL | NoSQL
+✪ NFT Game Development
+- Unity3D, Cocos2dx (AR,VR,Photon Server,Kenematic,leafMotion. etc)
+- Bit coin, Block chain applying tech.
+✪ DevOps
+- Git, Github, Bitbucket, Gitlab
+- Firebase | FireStore, AWS, Heroku, Jira, Trello, Asana, Clubhouse
+
+These are my abilities:
+- 40+ hours work per week, Available to start work immediately
+- Daily update using Git
+- Clean and Efficient code
+- Positive attitude, Hard Working, Quick Learning
+- 14+ hours online
+
+Hoping good collaboration in your business.
+
+================ blockchain & fullstack =================
+
+I am a blockchain & fullstack developer.
+I am confident that I can support you technically.
+I will fulfill any kind of project at a high level (quality & speed & optimal budget).
+I have good experience working in the blockchain applications for a long time and have done many projects. I always work to keep my clients happy.
+
+Here is the detailed service I am offering :
+
+- With 6 years of experience on blockchain various network.
+• Smart contract creation with Solidity and Rust based ERC 20/ERC 721/ERC 1155 & Business model Integration
+• Generating Non-Fungible tokens and marketplace(ERC 721/ ERC 1155)
+• Experiences working with Solana network and Axie Marketplace
+• Blockchain API integration(Ethereum, Binance Smart Chain, Tron, Fantom, Polygon, ... etc)
+• ICO site development with analyzing Dashboard
+• Dapp, Truffle, Web3 experience
+• Developing and forking defi applications like uniswap and pancakeswap
+
+- Web Fullstack Developement
+• Front-end development: HTML, CSS, JS, React/Redux, Angular, Vue, Nuxt, Typescript
+• Back-end development: Node, Express, PHP, Laravel
+• Database: Mongo, MySQL, PostgreSQL, Oracle, SQL Server
+• Data Visualization: D3.js, AgGrid, ApexChart, Canvas
+• Data Science: machine learning using python, data mining, statistical analysis
+• Version Control System: Git (Github)… more
+
+- Video and Audio Streaming expert
+• Codecs such as H264, H265, G711, aac, webrtc..
+• Streaming service (RTP, RTSP, RTMP, Mpeg-dash, HLS)
+
+I can work 24/7.
+I hope we work together as soom as possible.
+Of course the period depends on the requirement of project.
+Regards
+
+
+================ full stack developer COOL Jon interview========================
+
+Hello Manager!!
+We checked for your project and interested in your project.
+I am skilled full stack software engineer with skills including Website Design, Cryptocurrency, Non-fungible Tokens (NFT) and Smart Contracts.
+I have done several complex projects and provide continuous maintenance support. My goal has always been to provide reliable and efficient to my clients and so far I have been quite successful. I won't delay your project and will keep you updated with constant feedback and status of the work.
+
+My Full Stack Development Skills
+1. Frontend: Front-End HTML5, CSS/CSS 3, JavaScript, jQuery, Tailwind CSS with figma, XD file.
+2. Server Administration: Amazon Web Services, Digital Ocean, LAMP, Cloud, Apache, Apache Tomcat, NGINX.
+3. Backend: PHP, GoLang, Ruby, Python, Laravel, CI, CakePHP.
+4. Databases: Mysql, Oracle, PostgreSQL, MS SQL, SQLite, MongoDB.
+5. Testing: Manual & Automation testing.
+6. Frameworks: Angular Js, React JS, Symfony2, Laravel, Silex, Spring MVC, Rails, Django, Pyramid, Protractor, Selenium, Vuejs
+7. UI/UX: Photoshop, Sketch, Zeplin, Invision, Moqups.
+
+Type of projects we have delivered to our global clients:
+a. Enterprise Software Development,
+b. CRM Development,
+c. SAAS Product Development
+c. Web/Mobile Based Application development.
+d. All CMS website: Wordpress, Magento, Joomla,
+e. HRMS Software
+f. Multi-level Marketing (MLM) with crypto payment gateway
+f. E-commerce installation and customization g. Crypto Exchange Development
+
+Please chat to discuss more regarding this project.
+
+===================== Summary Career =======================
+
+My Web technology summaries are as follows:
+
+✔ Front-end Skills: React.JS, Vue.JS , Javascript/jQuery, HTML5, CSS3, Bootstrap,
+✔ Back-end Skills: PHP (Laravel, Codeigniter, Wordpress), Node.JS/Express.JS, Python(Django)
+✔ Database Development, Utilization, Optimization and Administration (MySQL, MSSQL, MongoDB, PostgreSQL, Oracle ... )
+✔ Other skills: API Development (Social Networking, Payment Gateway, Marketing), OCR, Motion tracking, Logo detection, Vehicle counting and so on) Firebase, AWS, Heroku, Desktop Application Development using C, C++, C#, Java
+✔ Hybrid Mobile application: Ionic, React-native, Flutter, Cordova, PhoneGap, iOS development, Android development.
+============================= Ethereum 1 ==================================
+
+I am very interested in this job. 
+I touched blockchain technology from 2015 and self-learning related technologies until now, 
+including ERC20, ERC721, ERC1155 crypto launching, blockchain gambling games, DeFi technology, etc.
+In 2021, the explosion year of NFT. I also start an NFT project with my friend who loves the artwork. 
+I am responsible for all technical-related work, including smart contract, OpenSea connecting, wallet interacts, generative art, ipfs…etc.  
+And has been in the blockchain world for four years. Cooperate with me will make u have no problems with technology! 
+If you want to know more, please contact me, thx.
+
+This is a case I have done.
+plutohiphopdept.com/
+etherscan.io/address/0xf1fc4124729f01230b6a77d1bb603f6cd31be060#code
+etherscan.io/address/0x06bf1daaadb1b3a271c745c643ed30854e0df973#code
+
+Thanks.
+
+============================= Ethereum Token Creation ==================================
+
+Hi, How are you?
+I am a Blockchain developer, specialized in custom cryptocurrency and blockchain development, having extensive experience in ICO, POS – Proof of Stake, blockchain website, web portal, & smart contracts application development.
+I am very proficient with the solidity programming language, Ethereum, token generation, digital currency exchange, proof of work (POW), and building innovative, highly customized, robust, feature-packed, and modular blockchain development solutions.
+
+ERC20 Tokens:
+    (ERC20 Token) coinmarketcap.com/currencies/beyond-finance/
+    (Token Information Site) beyondfinance.io/
+    (DeFi) www.beyondtrade.io/
+
+    (ERC20 Token) coinmarketcap.com/currencies/dafi-protocol/
+    (Token Information Site) www.dafiprotocol.io/
+    (DeFi) simulate.dafiprotocol.io/
+
+Exchanges:
+    gwallet.tech/
+    play.google.com/store/apps/details?id=gwallet.tech
+    apps.apple.com/be/app/gwallet-app/id1552665993
+    www.thebullring.gg/
+    coinveer.com/
+    tea-swap.finance/
+    skyswap.netlify.app/
+
+NFT:
+    dunk.exchange/
+    nft.hogiwallet.com/
+
+Looking forward to connecting with you.
+================================== Elrond Bid ========================
+
+Hi Dear.
+I have carefully read your job posting and understand what you want in this project.
+I'm very interested in your project as an blockchain developer with experienced in smart contract development on Elrond blockchain.
+An internet-scale blockchain, Elrond is fast, cheap, and efficient, and built to provide utility across the spectrum of use cases. Elrond Network leverages Adaptive State Sharding and its unique Secure Proof-of-Stake (SPoS) consensus mechanism to offer industry-leading scalability.
+Also, I'm very familiar with creating ethereum blockchain, smart contract, Cryptocoin, wallet, whitepaper marketing, ICO promotion, the exchange, Initial coin offer, Smartoken system mining & fundraising of coin .
+
+My skills:
+- Chain : Ethereum, Solona, BSC, Polygon, Avalanche,T ron, Elrond, Cosmos, Algorand
+- Contract : Solidity, Rust + Hardhat, Truffle / Remix. (OpenZeppelin)
+- Token : ERC-20, ERC-721， ERC-721A, ERC-1155, BEP-2, BEP-20, BEP-721, TRC-20
+- Wallet Connect : MetaMask, TrustWallet, CoinbaseWallet, Maiar and more using Web3.js
+- Cryptocurrency Exchange Site
+- Cryptocurrency : Bitcoin, Ethereum, NXT, Vertcoin, NEO, Monero
+- Trading, Lending Bot, Front running bot, Snipper bot
+- Javascript, React, Vue.js, Node.js, typescript
+
+
+I want to have a long-term relationship with you from this project so I will do my best on your project, your project will be finished in high quality and as you expected.
+I am innovative and strategic thinking professional with a proven track record of consistently going above and beyond in meeting customer needs and providing more value to the product than what the customer is paying for.
+For this reason, they always get back to us again and again with promising ideas and projects.
+Thanks for your attention.
+Best regards
+================= smart contract review ==========================
+
+https://www.nanopass.io/
+
+The smart contract is located at:
+https://etherscan.io/address/0xf54cc94f1f2f5de012b6aa51f1e7ebdc43ef5afc#code
+
+
+Solidity version could be 0.8.10
+import “./Ownable.sol”; could be replaced with opezeppelinOwnable
+import “./@rarible/royalties/contracts/LibRoyaltiesV2.sol”; doesn’t work on opensea, a bit useless
+All this
+address public constant DEV_ADDRESS_1 = 0xc73ab340a7d523EC7b1b71fE3d3494F94283b4B1; // J
+address public constant DEV_ADDRESS_2 = 0x09b2741feD63B7Fcc5E577cDc9d0cf0D85127A32; // P
+address public constant DEV_ADDRESS_3 = 0xC929b6bD739a8564BcB35e978Afe4ffF5b6c3cEF; // R
+address public constant DEV_ADDRESS_4 = 0x5bF9BE0B32ba09B449eD5d1EaBB864Cf2317629F; // D
+address public constant DEV_ADDRESS_5 = 0x3e8f4639E926f36f7309836F6D018a9ea59B345e; // H
+address public constant DEV_ADDRESS_6 = 0x5bB1396E3EC5E31E12DC7846c4c94eea25083f35; // L
+address public constant DEV_FUND_ADDRESS = 0x7955cF321a420f7c245cEfB748E0F303756Ae2A6;
+are used here
+uint256 balance = address(this).balance;
+require(balance > 0, “Balance is 0”);
+payable(DEV_FUND_ADDRESS).transfer(balance * 5000 / 10000);
+payable(DEV_ADDRESS_1).transfer(balance * 1666 / 10000);
+payable(DEV_ADDRESS_2).transfer(balance * 1229 / 10000);
+payable(DEV_ADDRESS_3).transfer(balance * 805 / 10000);
+payable(DEV_ADDRESS_4).transfer(balance * 900 / 10000);
+payable(DEV_ADDRESS_5).transfer(balance * 200 / 10000);
+payable(DEV_ADDRESS_6).transfer(address(this).balance);
+could be replaced with PaymentSplitter for a MUCH clearer view of where the money flows
+5. require(numberOfMints * price <= msg.value, “Amount of ether is not enough”);
+I would replace ≤ with ==. so I don’t have to handle refunds after
+6. function airdrop(address[] calldata addresses) external onlyOwner {
+should include a check to not allow more than 50 addresses or risk going out of gas
+7. missing contractURI method
+8. They seem to limit from the dapp the gas limit to 102,543 (a usual mint is 80,653). I would let the wallet calculate so I don’t scare users with too much $$$ showed there.
+
+
+ =================  NFT generation =====================
+
+Awesome!!!
+This project is best match for my skills
+I have rich experience in NFT generation from the layers.
+At that time, I created NFT and metadata based on the layers
+How many NFTs do you want?
+I can create test 100 NFTs in 2~3 hours and finish this project in 10 hours.
+No problem.
+I will do my best on your project and want to have a long-term relationship with you from this project. Your project will be finished in high quality and as you expected.
+I am an innovative and strategic thinking professional with a proven track record of consistently going above and beyond in meeting customer needs and providing more value to the product than what the customer is paying for.
+For this reason, they always get back to us again and again with promising ideas and projects.
+Thanks for your attention.
+Best regards.
+
+======================================
+
+Hello, I believe I would be a good fit for this job,
+I’ve read your project post carefully and understand that you are looking for a full-service solution for your upcoming NFT project.
+
+I am very honest and patient, have good communication skills.
+My goal is time and quality, to best satisfy customer needs. Let's begin the glorious journey of working with you.
+
+I know this is the first time we talk but I would like to give you strategy session.
+Are you open to have a quick chat at your convenience?
+
+Greetings,
+Daniel William
+
+===========================================
+Hi
+From getting full points on your job description, I believe I would be a good fit for this job.
+
+I have rich experience on ...
+
+I can work on your timezone flexibly. Also ready to start immediately if you want.
+Due to my rich experience, I am sure that I can provide you the best thing as per your requirement.
+I am looking forward to hearing from you. Thank you for your consideration.
+
+Greetings,
+Daniel William
+
+
+---Blockchain game development--
+
+Dear Client !
+
+Your job really impressed on my mind.
+I'm posting this proposal after read your job description very carefully.
+It is my job. I can help you.
+
+In advance, please check my former projects.
+https://metawarriors.club/
+https://spacemisfits.com/
+https://virtue.poker/
+https://sendgb.com/m0B7t5KZJW9
+https://ares.icicb.com/
+https://www.sandbox.game/en/snoopdogg/(Frontend+Smart Contract+integration with game)
+https://www.medabots.io/ (Frontend+Smart Contract+integration with game)
+https://sollemurs.com (Frontend)
+http://cryptoracing.vip/#(Fronend)
+https://dogedash.com/ (Frontend+Smart Contract+integration with game)
+https://cryptodrop.gg/#/vipplay
+https://cryptocitizen.world/marketplace
+
+Main experience in Game development
+Games (Unity/Unreal/Blockchain):
+- Play-to-earn games
+- Metaverse Games
+- 2D/3D Games
+- VR/AR Games
+- Endless Games
+- Strategy Games
+- Application-based Games
+- PC Games
+- 3D Modeling and Animation
+
+Hope we can work together.
+Have a great day ahead
+
+Best Regards
+
+----NFT marketplace----
+
+Dear Client !
+
+**Proficient in NFT Marketplace Design for auction and Development**
+I'm posting this proposal after read your job description very carefully.
+
+I’ll create the full functional NFT marketplace which including UI Design, Frontend development, NFT token contract,
+Bidding contract, Aggregator contract, Instant Sale, Royalty, Auction contract, Make an offer, IPFS or VPS integration, 
+Admin Dashboard, token minting, Setting on sale, Web3 integration, Server integration.
+
+I have developed some marketplace project.
+Please kindly check my former projects.
+https://lofi-market.com/
+https://nefty-nft.vercel.app/#/(Solana)
+https://app.ebisusbay.com/marketplace
+https://cryptocitizen.world/marketplace
+https://carsandbids.com/
+
+https://nft-market1106.herokuapp.com/ (NFT market place, truffle, Solidity, Ether.js, React.js, Rinkeby Test net)
+https://nft-generator1106.herokuapp.com/ (NFT generator, hardhat, Solidity, Web3.js, Next.js, Rinkeby Test Net)
+https://kitties1106.herokuapp.com/ (NFT generator, hardhat, Solidity, Web3.js, Next.js, BSC Test Net)
+
+Including Features:
+- Design of blockchain protocols
+- Design of consensus protocols and security patterns for the network
+- nft minting website development
+- Mintable token(ERC-721, ERC-20, ERC1155)
+- Smart contract development, testing, and deployment, integration
+- Familiarity with and experience working with OpenZeppelin
+- Creating web-based front ends to interact with smart contracts (React/Typescript, Web3.js, ether.js)
+- Backend development pertaining to Blockchain(Node.js)
+- NFT wallet development
+- Design of the network architecture
+- Supervision of the entire network
+
+
+
+Due to my rich experience in the marketplace, I am sure that I can provide you the best thing as per your requirement.
+I am looking forward to hearing from you. Thank you for your consideration.
+
+Many Thanks & Regards
+
+---backend-blockchain--
+
+Dear Client !
+
+Your job really impressed on my mind.
+I'm posting this proposal after read your job description very carefully.
+I think it's interesting and matching with my skills.
+
+I've been working on Blockchain-related projects since 2015.
+Besides that, I've been doing back-end / embedded / system software development since 2011.
+I designed and develop many back-end applications for Windows and Linux Platform.
+Major programming languages I've used are C++/GoLang/NodeJS, plus few popular scripting languages.
+I've also experienced Design patterns, STL, Boost, multithreading, IPC, Socket Programming, etc
+Projects Developed in GoLang:
+- MultiWallet Blockchain Development
+- Added features in open source Go RockDB
+- Binance Triangle Arbitrage
+My areas of expertise in Blockchain based open sources:
+- Bitcoin - Dash - Bitshares - PeerPlays - Monero - EOS - EOS Smart Contract - Steem - PIVX - Blockbook - Trustwallet Contributor
+Databases I have experience with MySQL, Oracle, Hadoop ecosystems.
+Version Control Systems I have used: Git, SVN, CVS, IBM ClearCase.
+
+Due to my rich experience in the Blockchain I am sure that I can provide you the best thing as per your requirement.
+I am looking forward to hearing from you. Thank you for your consideration.
+
+Many Thanks & Regards
+
+---Smart contract Audit---
+Dear client!
+
+I have rich experience with smart contract audit on ETH, BSC and Avalanche Erolnd, etc.
+There are my regular processes to audit smart contract.
+
+1. Source Code Lock-down
+2. Project Familiarization Phase
+3. Preliminary Code Review
+4. Static Code Analysis
+5. Code Quality Analysis
+6. Known Vulnerability Analysis
+7. Functionality Analysis
+8. Live Testing
+9. Gas Usage
+10. First Round Audit Report
+11. Review of Round One Fixes
+12. Final Audit Report
+
+I want to discuss more detail. As a smart contract audit expert, i will guarantee your smart contract to the end. And I will also take responsibility for your smart contract!
+
+Warm Regards
+
+---P2Egame development
+
+Dear client
+
+I've been developing software for 7+ years, and have a wide range of experience in the area. I'm available for blockchain as well as web development.
+
+High Quality, High Security, and Fast Delivery are my first rules during development.
+
+I have good experience in Blockchain P2E games with unity3D and 2D.
+- Super Mario, Meta man, Racing, Poker, Pong, Roulette, Shooting, Casino, Chess, Checker, Scrabble, Ludo...
+
+Please kindly check my recent project
+https://racewayx.com/
+https://poker-nft.geeksolutions.consulting/
+https://cryptoholdemnft.com/
+https://game-hounds.geeksolutions.consulting/
+
+Specialize in:
+- Smart contract development, testing, and deployment
+- Developing De-Fi apps like pancakeswap and uniswap
+- Developing NFT marketplace
+- Tokenization of real assets, media, and social management
+- Creating web-based front ends to interact with smart contracts
+- React, Nextjs, Nodejs, Shopify, Laravel, Django, Golang, Rust, Solidity
+- Typescript, Scss, Aws, CI/CD, Mysql, Postgresql, MongoDB
+
+I can work full time and I am looking for a good client who can work with me long term.
+If you are interested in my proposal, please contact me.
+
+Warm regards
+

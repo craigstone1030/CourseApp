@@ -1,0 +1,339 @@
+
+ ========================================== Senior blockchain developer =====================
+
+For over 7 years I have been working as a full stack developer and have solid and extensive experience in the design and development of enterprise and fintech systems.
+I've developed a frontend/backend for exchanges, auction platforms, gambling systems, marketplaces, and a couple of arbitrage and market maker bots.
+
+The Blockchain space has become very interesting for me, and for the last 3 years, I've worked mainly on Blockchain-related projects.
+I've made many integrations for such blockchains as Bitcoin, Ethereum, Near, Polkadot, Onflow, Solana, and many others, including a fully custom blockchain.
+On top of my experience, I've worked on NFTs, NFT staking, DeFi paltforms, Dex,  and crypto wallets, oracles, crypto casinos.
+
+- Blockchain integration development:
+Bitcoin, Ethereum, Polkadot, Binance Coin, Onflow, Tron, Near, Uniswap and others,
+Crypto vaults, Liquidity providers, Trading bots
+
+- Smart-contract integration development:
+Oracle APIs, DeFi platforms, Gambling dApps, Crypto wallets, Marketplaces
+
+- Smart contracts development:
+Solidity on Ethereum (ETH) and Binance Smart Chain (BSC), Solana(Rust), Near Protocol(Rust), onFlow(Cadence) Tokens, smart-contract dApps.
+
+These are my abilities:
+- 40+ hours work per week, Available to start work immediately
+- Daily update using Git
+- Clean and Efficient code
+- Positive attitude, Hard Working, Quick Learning
+- 14+ hours online
+
+Hoping good collaboration in your business.
+
+============================================= Full Stack develoment ==========================
+
+Hello there.
+It is the best option to hire me if you'd like:
+
+Enthusiastic software engineer with 6+ years of experience participating in the complete product development lifecycle of successfully launched applications.
+Owns strong debugging and troubleshooting skills that allow me to quickly analyze problems and come to a modern solution that extends the life of the application without rewriting everything from scratch.
+Specialized in web application development such as E-Commerce System, Enterprise App, Single Page Application, Health Care System, Learning Management System.
+I always respect clients and follow their demands.
+These are my powerful skills:
+
+✪ BlockChain
+- ERC-20 | ERC-721 | ERC721A NFT Token , Solidity
+- Web3.js | Ethers.js | JSON-RPC
+- Ethereum, Binance, PancakeSwap, Solana Ecosystem
+✪ Frontend:
+- TypeScript, JavaScript, Angular
+- React.js, Redux, React Hooks, Styled Components
+- HTML, HTML5, CSS, CSS3, Bootstrap 3/4/5
+- Vue, Vuex, Vuetify
+- WordPress/Shopify
+✪ Backend:
+- ASP.NET, C#, C++
+- ExpressJS | NodeJS | HTML5
+- Laravel | AngularJS
+- MySQL | NoSQL
+✪ NFT Game Development
+- Unity3D, Cocos2dx (AR,VR,Photon Server,Kenematic,leafMotion. etc)
+- Bit coin, Block chain applying tech.
+✪ DevOps
+- Git, Github, Bitbucket, Gitlab
+- Firebase | FireStore, AWS, Heroku, Jira, Trello, Asana, Clubhouse
+
+These are my abilities:
+- 40+ hours work per week, Available to start work immediately
+- Daily update using Git
+- Clean and Efficient code
+- Positive attitude, Hard Working, Quick Learning
+- 14+ hours online
+
+Hoping good collaboration in your business.
+
+
+=========================== Blockchain overview 2 ===========
+
+I am a Blockchain Expert. I can build Decentralized Applications, smart contracts and ERC tokens on Ethereum, Binance, Solana, Cardano, PolkaDot, cosmos, algorand, 
+Tron Blockchain and EOS using solidity, Haskell and rust programming languages.
+I am Expert in writting Smart Contracts in Solidity language. 
+And I am familiar with the Polygon, Immutable X, the first layer2 for NFTs on the Ethereum.
+As a blockchain architect, developer, and consultant, I have have in-depth knowledge of many areas and possesses the ability to code quickly and efficiently.
+My Skills in nutshell are:
+Experience developing on top of Ethereum(Solana, BSC, Fantom, Algorand, Elrond)
+Experience developing Solidity/Rust smart contracts
+Experience in a DevOps environment (blockchain is a plus)
+Working with clients and team of software engineers
+Good understanding of continuous integration tools and blockchain management tools
+Good understanding of blockchain test tools (e.g.Truffle/Embark)
+Good understating of testing, troubleshooting and distributed computing
+Excellent written and spoken communication in English.
+
+I will work to your satisfaction by providing the best quality and communicate throughout the project. 
+Please send me a message.
+
+
+============================= Three.js =================================
+
+Blockchain | Web | 3D Professional
+
+My experiences range from creating both front-end blockchain applications to backend architecture design and implementation, smart contract development, testing, and development of dApps for Fintech and other industries that need the power of decentralization, tokenization, and smart contracts.
+Striving to be at the forefront of new modern cryptographic technologies surrounding NFTs, Blockchain, Games, Cryotocurrencies, and Collectibles.
+
+At last but not least, I engage in next-generation 3D Web development, WebGL(three.js) as well.
+
+Technology I work with:
+
+- Blockchain
+* ERC20, ERC777, ERC223, ERC721, ERC721A, ERC1155 Token development
+* Sophisticated smart contracts or NFTs on leading blockchains such as Ethereum, Bitcoin, Binance, Stella, and Cardano.
+* NFT minting site, NFT marketplace with fashionable UI and IPFS in Ethereum, Cardano, Binance, Solana, etc.
+* Pancake/Uni Swap, Bots(Snipping, Front running, Arbitrage, Trading, etc).
+* Web3 and digital wallet integration like MetaMask, Phantom
+* Building DeFi & Dex
+
+- WebGL & 3D
+* 3D visualization and engaging 3D animation using WebGL/Three.js/Babylon.js.
+* 3d product configurator in eCommerce shop, interactive 3d simulator for education, medical, etc.
+* Fantastic and unreal animation using Fragment Shader and shader integration to the web environment.
+
+- Frontend skills
+* Frontend frameworks: React.js/React Native, Angular/Ionic, Vue.js
+* Data visualization and Graphic : D3.js, Pixi.js, P5.js, Chart.js, Highcharts, Canvas, SVG
+
+- Backend skills
+* Backend frameworks: PHP, Java, Spring, Laravel, Python/Django, Node.js, Express, Go, GoLang
+* DB: Oracle, MongoDB, PostgreSQL, MySQL
+
+======================================== Blockchain overview ===============================
+
+
+For over 6 years I have been working as a blockchain developer and have solid and extensive experience in 
+blockchain space.
+My experiences range from creating both front-end blockchain applications to backend architecture design and implementation, smart contract development, testing, auditing, and development for Fintech and other industries that need the power of decentralization, tokenization, and smart contracts.
+I've developed a backend for exchanges, auction platforms, gambling systems, marketplaces.
+
+The Blockchain space has become very interesting for me, and for the last 3 years, I've worked mainly on Blockchain-related projects.
+
+I've made many integrations for such blockchains as Bitcoin, Ethereum, Tron, Polkadot, Solana, and many others, including a fully custom blockchain.
+
+Especially I am familiar with Solana network so I mastered Rust language.
+
+On top of my experience, I've worked on NFTs, DeFi paltforms, cross-chain and token exchanges, wallets, oracles, crypto casinos, crypto bots(Snipping, Front running, Arbitrage, Trading).
+
+
+- Blockchain integration development:
+Bitcoin, Ethereum, Polkadot, Binance Coin, Tron, Uniswap and others,
+Crypto vaults, Liquidity providers, Trading bots
+
+- Smart-contract integration development:
+Oracle APIs, DeFi platforms, Gambling dApps, Crypto wallets, Marketplaces
+
+- Smart contracts development:
+Solidity on Ethereum (ETH) and Binance Smart Chain (BSC),
+Tokens, smart-contract dApps
+
+If you need my help, please feel free to send the message.
+Thanks for your time.
+
+
+=================================== Blockchain overview 5 ==================================
+
+I'm developing blockchain solutions since 2015. Including the crypto exchanges (P2P and CEX), blockchain forks, tokens creation (ERC-20, ERC-721, ERC721A NFT), smart contracts, DeFi and Ethereum mass payment tools with low gas consumption.
+
+The other chains experience includes: Bitcoin, Polymesh, Chainlink, and Hyperledger.
+
+In the past I've been managing software development projects for the world-class companies like Opera Software and Status.im. I help my client to bring their ideas to production by creating a highly performing IT teams that deliver.
+
+I have hands-on experience with Python, Django, AWS, R, Hadoop, SQL, Bash, PostgreSQL, MySQL, MS SQL. I'm in IT since the 2014. 
+I'm well versed in Blockchain technologies and particularly Ethereum.
+
+If you need my help, please feel free to send message
+Thanks
+
+======================================= Blockchain 6 ============================
+
+Professional Full Stack developer with 6+ years great experience in development teams.
+Familiar with both frontend and backend developments using various kinds of frameworks and libraries, especially for blockchain based applications(dApps, DeFis, NFT projects).
+Have contributed to building decentralized ecosystems with writing bug free smart contracts for building tokens and implementation of different features like staking, deflationary, farming and many more.
+Built a great communication skills and had a deep knowledge about CI/CD and DevOps theory.
+Be passionate, self motivated and customer oriented individual developer.
+
+Blockchain development:
+- Bitcoin/PIVX fork(C++, QT)
+- Smart Contract for erc/bep20, erc/bep721(Solidity for Ethereum&BSC, javascript for iost)
+- Solana/Rust
+- Frontend Development for dApps, DeFis, NFTs
+- Ethereum/ERC20/ERC721/ERC721A, Iost/IRC20/IRC21 and Web3.js
+
+Web development skills:
+- Python / Django / Flask
+- PHP / Laravel / WordPress/ Joomla
+- C# / ASP.NET
+- React.js / Vue.js
+- Google Cloud Platform / AWS
+- API development and integration
+- Git / Jira / Trello
+
+Always deliver the best products and eager to learn new skills!
+
+====================================== Blockchain 7 ===================
+
+Starting from 2017 began proactively working on blockchain related projects as a Blockchain Developer.
+My experiences range from creating both front-end blockchain applications to backend architecture design and implementation, 
+smart contract development, testing, auditing, and development for Fintech and other industries that need the power of decentralization, 
+tokenization, and smart contracts.
+
+Expertise in Public Blockchain Platforms:
+
+Ethereum | Solana | Binance Smart Chain
+✓ Developing smart contracts by Solidity and Rust programming languages.
+✓ Developing RPC using client libraries such as Web3js.
+✓ Static analysis of smart contracts for gas consumption and optimization using Remix IDE.
+✓ Securing smart contracts using libraries like OpenZeppelin.
+✓ Developing Ethereum dApps using Truffle framework.
+✓ Integration with crypto wallets such as Metamask & Phantom.
+✓ Deploying smart contracts on test networks such as ropsten/rinkeby as well as ethereum/solana mainnet.
+
+Expertise in Private & Consortium Blockchain Platforms
+
+Hyperledger Fabric
+✓ Developing proof of concepts using Hyperledger Composer.
+✓ Integration with Fabric Java SDK.
+✓ Creating RESTful APIs for client applications to communicate with the blockchain network.
+✓ Creating channels, orderers, and peers.
+✓ Deployment and instantiation of Chaincode on channels on cloud services like IBM Bluemix and Amazon AWS.
+
+
+I hold expertise with:
+
+- Solidity / Rust / Golang
+- React.js / Express.js / Vue.js / Next.js / Angular.js / Redux /Node.js
+- Laravel
+- MySQL / MongoDB / PostgreSQL / MSSQL
+- Heroku / VPS / Amazon Web Services (AWS) / Digital Ocean
+- Github, Gitlab, Bitbucket, Trello, Backlog, etc.
+
+
+Here are the applications that I've built so far.
+
+- Dapp, DeFi development
+- NFT game/marketplace development on Ethereum & Solana blockchains in Solidity & Rust
+- Ethereum & Binance Smart Chain token development on ERC20, ERC721, ERC721A, ERC1155, BEP20, BEP721 & BEP1155 protocols
+- ICO / ITO / IDO / STO, Cryptocurrency exchange & Cryptocurrency wallet Development
+
+Further Expertise & Work Deliverables in Blockchain:
+
+✓ DApp for Supply Chain Management for Food Industry
+✓ DApp implementation in Philanthropy
+✓ DApp for Anti-Counterfeiting in the Pharmaceutical Industry
+✓ Worked on Protocols like Ethereum, IBM Hyperledger, Stellar
+✓ SetUp of a Permission-based Consortium Network
+✓ Implementation of Private, Public and Permission-based network
+
+
+If you are looking for a skilled and punctual developer, then hire me. I can assure you that your job will be done perfectly at the right time without making any mistakes. So if you feel interested, have faith in me and give me a chance to make your project successful.
+
+======================== Blockchain | Defi/Dex | NFT Marketplace | Dapp ==========================
+
+Blockchain | Defi/Dex | NFT Marketplace | DappAs a senior web and Blockchain developer, 6 years of development and project management experience, with the last 6 years of expertise in Blockchain architecture, Dapp and game development, Cryptocurrency Wallet Development, Smart Contract.
+
+✔️NFT (Non Fungible Token) Marketplace Development
+
+✔️Dex Development
+
+✔️ Cryptocurrency Wallet Development for Linux, windows, Mac, Web.
+
+✔️ICO & IDO
+
+✔️ Smart-Contracts (Solidity, Truffle or hardhat framework)
+
+✔️Token development based on Ethereum and Binance (ERC20, ERC721, ERC721A, ERC 1155, BEP20, BEP721, BEP1155)
+
+✔️ Private or public Blockchain Development with Go and rust
+
+✔️ Dapp building with react.js
+
+Thanks for review my profile.
+
+
+=============================  Enthusiastic Blockchain Developer ======================
+
+Thanks for visiting my profile page!!!
+
+Being a full-stack blockchain developer, I have decent expertise in Blockchain development and custom smart contract application development technologies:
+
+✔️ Building Defi & Dex by forking Pancakeswap, Pantherswap, Goosedefi, and so on
+✔️ Upgrading Pancakeswap Dex from V1 to V2
+✔️ Forking and customizing Safemoon token
+✔️ ICO presale landing page and smart contract for selling token
+✔️ Trading Bot (Frontrunning, Sniping)
+✔️ Developing smart contracts using a Solidity programming language.
+✔️ Developing RPC using client libraries such as Web3.
+✔️ Static analysis of smart contracts for gas consumption and optimization using Remix IDE.
+✔️ Securing smart contracts using libraries like OpenZeppelin.
+✔️ Developing Ethereum dApps using the Truffle framework.
+✔️ Integration with crypto wallets such as Metamask.
+✔️ Work on Ethereum, Solana, Polygon, BSC, Avalanche, Algorand, Cosmos, Elrond etc
+
+A senior Blockchain Developer/enthusiast providing Blockchain solutions to Startups and Enterprises. I review business models and help them adjust their businesses within the growing blockchain ecosystem.
+
+Please message and don't hesitate to discuss your project with me!
+
+Thanks. Best regards.
+
+
+============================== Pro Full Stack and Blockchain developer =====================
+
+I am a professional fullstack (Frontend and Backend) Developer and Blockchain Developer who is passionate in creating fast, consistent, error-free solutions that impress and aid clients in their online needs.
+I have worked with a diverse range of people from all around the world on many different software projects.
+Owns strong debugging and troubleshooting skills that allow me to quickly analyze problems and come to a modern solution that extends the life of the application without rewriting everything from scratch.
+I love the challenge and I love to program in many different languages.
+One of my key objectives as a developer is to make sure that all work is done in a high quality timely manner.
+I am confident that you will be satisfied with the quality, timelines of my work and my responsibility.
+I never give up to reach the goal!
+
+⭐ Special Secret Skills ⭐
+✔️ Bitcoin, Ethereum, Smart contract, PancakeSwap, Uniswap, GooseDefi
+✔️ Trading platform, bot (binance trading bot, pancakeswap/uniswap sniper bot)
+✔️ Solidity, Web3.js, Truffle , NFT game, NFT market, Vyper, Rust, Solana, Defi, BSC
+✔️ ERC20 Tokens, ERC721 Tokens, ERC1155 Tokens
+
+⭐ Main Skills ⭐
+✔️ Language: PHP, Python, Ruby, Golang, Ojbect-c, Swift, Javascript
+✔️ Frontend: ReactJS, AngularJS, VueJS
+✔️ Backend: Laravel, Django, Ruby on Rails, NodeJs
+✔️ CMS: Wordpress, shopify, Drupal, Joomla, Joho, Webflow
+✔️ Database: MySQL, SQLite, PostgreSQL, MongoDB, FluxDB, Excel, GoogleSheet
+
+⭐ My Services ⭐
+✔️ I can complete your project with a minimum budget and a short deadline.
+✔️ I can work full time in your time zone.
+✔️ I can reply anytime when you contact me.
+✔️ I can update and show results every day.
+✔️ I can start to work immediately.
+✔️ I am not associated with any company and work individually with no outsourcing of your work.
+
+As you can see, I have a wide variety of abilities that allow me to offer my clients the most complete freelance experience.
+So please, give me a good chance.
+Finally, Hope your top success and happy times.
+Thanks you very much for your time and seeing my proposal.
+Hope to hear from you soon!

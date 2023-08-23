@@ -1,0 +1,453 @@
+======================================== Senior full stack developer ====================
+
+I am always on the lookout for the training of new trends and technologies, it helps me keep myself updated with the latest trends.
+Known for creating robust, high-speed web and mobile apps, my web development work has helped grow revenues, accelerate customer acquisition, increase web traffic and deliver an industry-leading competitive advantage.
+Here, I would like to highlight my competencies:
+
+
+Methodologies and Other
+* Agile/Scrum
+* TDD/BDD
+* Providing and working with code reviews
+* Git/Github for repo management, CI tools, and workflows for server deployment, issue tracking
+* Able to pick up new skills quickly, happy to help in a wide range of roles
+
+My Credentials:
+- Excellent grasp of Vanilla JavaScript
+- Experience with other JavaScript Frameworks such as React, Vue.js, Next.js, Nuxt.js, Svelte
+- Experience with PHP, Laravel, Symfony, Drupal, Magento, Codeigniter
+- Understanding of Component-based architecture
+- Developed integrated web application systems
+- Developed e-commerce systems for various companies
+- Comprehensive knowledge of HTML, CSS, Bootstrap, JavaScript, and jQuery
+- designing knowledge of CSS, LESS, SAAS and used Material-UI, Antd. sementic-UI,
+Bootstrap and ReactStrap
+- a high level experience at Testcase (Jest, Enzyme, Snapshot)
+- expert-level command on Node.js(express and other frameworks) and python(Django)
+- Sound knowledge of ReactNative
+- Experience with RESTful APIs
+- Familiar with MySQL, Rabbit MQ, AWS and Linux
+
+In view of my work experience, I think I can swiftly surpass your expectations. I look forward to discussing the project in further detail.
+
+Thank you in anticipation.
+
+============================================== php1 =========================================
+
+Hi! I am a full stack web developer with 10+ years of extensive experience in global software industry.
+
+I have delivered scalable applications, large & complex websites that fulfill project objectives of my clients.
+
+These applications/websites have been developed using Agile/SCRUM and other iterative methodologies, using JIRA as a primary tool for project management, GIT repository for code maintenance and Slack/Skype to communicate with the clients.
+
+I like to work in a fast paced, deadline driven environment, using effective communication and prioritization between multiple tasks.
+
+The areas of my technological expertise include:
+
+PHP and its various frameworks:
+• Laravel
+• CodeIgniter
+• Symfony
+• Drupal
+
+Content Management Systems:
+• WordPress
+
+E-commerce solutions:
+• WooCommerce
+• Shopify
+• BigCommerce
+• OpenCart
+
+Front-end & design technologies:
+• JavaScript (jQuery, AngularJS, VueJS and ReactJS)
+• Adobe Photoshop, Illustrator & CorelDraw
+• CSS/CSS3
+• HTML/HTML5
+• Bootstrap & Twitter Bootstrap
+• Java, Spring boot
+
+Thank you for stopping by my profile. Looking forward to hear from you soon :)
+
+============================================== php 2 =========================================
+
+I am a full stack developer, with over 10+ years of experience in enterprise-level database and software development. I am able to quickly create a new system custom-tailored to your needs or fix any existing websites, systems, user interfaces, as well as automated processes.
+
+In the past, I have created enterprise-wide incoming request management systems that can handle several 10s of thousands of requests/day. I have created dozens of custom websites. I maintain existing websites and ETL systems. I have also worked in optimizing critical data flow throughout the enterprise as well as optimizing individual database queries.
+
+Much of my work in automation eliminates redundant, tedious work and allows employees to focus on more meaningful and productive endeavors.
+
+The technology stack that I have steep expertise in is PHP, WordPress, Joomla, Magento, MVC, Mysql, Jquery,, React, V HTML, CSS, Photoshop.
+
+Experienced in WordPress/ Twilio API / MVC (Yii2, CakePHP, Laravel, Codeigniter,) sites, development, configuration, optimization, migration, custom theme development. Working with various plugins and widgets, customization according to client requirements.
+
+I can help you out with anything from a WordPress Website to developing a custom platform. The main things I specialize in Ecommerce, Testing, Plugin Development, and Web Development.
+
+Thanks for your time
+
+
+=========================================== full stack  =================================
+
+
+Hi, I am a qualified professional with 7+ years of experience as a Full-Stack Developer.
+My specialized services include the following; however, not limited to these!
+
+* Websites Design and Development (WordPress / PHP / HTML5/CSS3 /Cake PHP / Magneto)
+* Node js and react js.
+* Codeigniter, Zend framework, laravel, Shopify, and Yii )
+* WordPress Themes Customization
+* Shopify / SquareSpace Websites
+* Responsive Website Design / Bootstrap4
+* Ecommerce / Woocommerce Websites
+* UI/UX Designs
+* Graphic Designs(Logo, Banner, Flyer, Brochures, Illustrator)
+* Mobile App Development with flutter technology.
+
+Why Choose me?
+* Quality Support even after project completion
+* I will understand your requirements precisely to deliver a quality product.
+* 100% work satisfaction guaranteed.
+* Reliable for long term relationship
+* Fast turn around and delivery On Time
+
+Thanks for visiting my profile, and hoping to work with you soon!
+
+============================================= Frontend overview ===============================
+
+I can make juicy and catchy web pages, that will be responsive and adaptive for any device.
+I am an expert Frontend developer with over 5 years of experience. I specialize in PSD to HTML conversion.
+PSD to HTML\Figma to HTML\Sketch to HTML conversions is my main specialization at the moment.
+I have a passion for providing my clients with modern, clean, and fully validated sites.
+My goal is to provide pixel perfect, responsive, semantic, valid, fast, and clean code.
+In 5 years, I have worked for a variety of clients, from individuals to corporations. I pride myself on providing frequent and professional communication to all of my clients.
+I look forward to working with you! 
+My skills:
+✅ pixel perfect
+✅ PSD to HTML / Sketch to HTML / Figma to HTML
+✅ PSD to Wordpress / Sketch to Wordpress / Figma to Wordpress
+✅ HTML 5 / CSS 3
+✅ Javascript / jQuery
+✅ Wordpress
+✅ Git / SVN
+
+Have a question? Invite me and ask!
+Best Regards
+
+
+================================ frontend  =========================
+
+
+Dear client, Hope are you doing fabulous there, we have proven experience on HTML5 Css3, Ionic 1-4, AngularJs 1-12, ReactJS, flutter, Firebase, ngcordova, Django, JQuery Mobile, Sencha Touch, Sencha Architect, Cordova/Phonegap, Angularjs & Bootstrap. 
+
+WordPress :
+https://news.sap.com/ 
+https://platformlondon.org/ 
+http://www.deusperformance.com/ 
+https://ceremonycoffee.com/
+
+ My Django/ Python work:
+https://wintersport.com/ (Django, Python)
+ https://www.attitudehindishayari.in/ 
+
+(Python) 
+https://www.max7p.com/ 
+https://www.soleotogether.com/
+
+Laravel:
+http://timetation.ch/ 
+http://turn2me.org 
+https://www.homecuts.ch/
+https://www.todaytourism.com/ 
+
+Angular:
+https://aukro.cz (angular 5) 
+https://www.mdhearingaid.com (angular 5) 
+https://www.classicspecs.com/ (angular4) 
+https://voovit.com/home (angular 4) NodeJS:
+https://www.learnboost.com/ 
+https://storify.com/ 
+https://www.proassetz.com/
+
+Reactjs:
+https://fitly.co/
+https://bedbrowse.com/ 
+https://www.youthpastordiet.com/
+http://www.primento.com/
+
+Finalrentals:
+https://play.google.com/store/apps/details?id=com.finalrentals.app&hl=en https://itunes.apple.com/us/app/finalrentals-rent-a-car-in-dubai-and-abu-dhabi/id1273716113?mt=8 
+
+Fitness app:
+https://primalthenics.com/home 
+https://play.google.com/store/apps/details?id=com.primalthenics&hl=en_IN https://apps.apple.com/vn/app/primalthenics/id1468446506 
+
+Hope you like these works and provide me a chance for more discussion with you, Awaiting your response Regards
+Reviews
+
+
+
+================================= React =================================
+
+React overview
+I am a talented Full Stack Developer with REACT, VUE, NEXT, PHP, REACT NAVITE.
+Skill Highlights are below:
+* 6+ years of experience in Web Application development.
+* Expert in Backend with PHP, PYTHON and NodeJS with Frontend
+
+As a PHP Developer, my primary skills are:
+ - Fast development && High-quality Code writing.
+ - Frameworks (Laravel, Codeigniter, WordPress(Woo-commerce), and Symfony) 
+ - API Development
+ - Full-fledged web app
+ - Package Development
+ - Third-Party service integration
+ - Optimizes database queries
+ - Multiple Database Handling database queries
+
+As a Frontend Developer, my primary skills are:
+-  Html
+ - CSS,Saas and Tailwind CSS
+ - Bootstrap
+ - Core Javascript
+ - Jquery
+ - ReactJS
+ - Vue JS
+ - PHP
+
+I am passionate about development and coding.
+As the ideal candidate, I am highly motivated and focused on writing concise, replicable, readable and reusable code that is well structured and secure.
+Best regards!
+
+====================================== shopify ====================================
+
+🙋 I am a Certified Shopify Expert/Partner, My main strengths are theme designing, making responsive, custom programming and helping to improve online presence of the store to improve visitors and sells. I also develop SHOPIFY APPS.
+
+My core skills in Shopify are:
+
+✅ Shopify store design from scratch (PSD to .Liquid)
+✅ Theme customization
+✅ Liquid coding
+✅ 100% responsive design
+✅ Apps integration and developemt
+✅ Inventory uploading
+✅ Admin/Back-end work
+✅ Custom programming
+✅ Shopify Apps development
+
+Here are the SHOPIFY THEMES that I have used:
+
+✡ Parallax theme
+✡ Retina theme
+✡ Debut theme
+✡ Testament theme
+✡ Brooklyn theme
+✡ Minimal theme
+✡ Atlantic theme
+✡ Fresh theme
+✡ Pop theme
+✡ Supply theme etc.
+
+Here are the SHOPIFY APPS that I have used:
+
+☢ Recharge app
+☢ MailChimp
+☢ Coupon Carrier
+☢ Plug in SEO
+☢ Product bundles
+☢ Quantity Break
+☢ Aftership
+☢ Currency Switcher
+☢ YotPo
+☢ Metafields2
+☢ Livechat 24*7
+☢ Zopim Live Chat
+☢ Magic Zoom Plus
+☢ Product Reviews
+☢ Better Coupon Box
+☢ Bulk Discounts
+☢ Instagram
+☢ aWeber
+☢ Langify etc.
+
+I am also expert to work with following supporting technical skills also:
+
+➳ Design: PhotoShop
+➳ Web Script: HTML5, CSS3, Responsive design
+➳ Web Tools: jQuery, AJAX
+➳ Framework: Bootstrap
+➳ Front-end Programming: PHP
+➳ Back-end: MySQL
+
+⚒ You can hire me for design and development of your Online store and its ongoing maintenance. I take pride in my work and always respect the time, efforts that I put in my work! ⚒
+
+Thanks!
+
+============================================ Shopify ===================================
+
+PODCAST PRODUCER & EXPERT, PODCAST EDITOR, PODCAST & IT CONSULTANT, WORDPRESS DEVELOPER, and DESIGNER having 5 years of Proven-experience in these fields.
+
+I have 5+ years of podcast launch experience working with some of the top brands and entrepreneurs around the world.
+
+Collectively, the people that I have worked with have generated over million downloads in the past 4-5 years and we helped several of them reach the top 10 & 100 in their Apple Podcasts category.
+
+WORKS
+I already work with more than 150 podcasts, produce and edited more than 20,000 episodes, and websites giving my best to every project and every client with a WOW experience by delivering the best out of me. My motto is "Client satisfaction is my success".
+
+MY PODCAST SERVICES:
+
+✅ -● Editing, Mixing and Mastering for your Podcast, Podcast setup, and distribution
+✅ -● Creative Consulting &amp; Coaching
+✅ -● Release Scheduling &amp; Management
+✅ -● Custom Audiogram Creation, Wavves videos
+✅ -● Episode Structure Creation (Music &amp; Intro/Outro)
+✅ -● Equipment Advice and Optimization
+✅ -● Intro YouTube with music
+✅ -● Adding Intro, Outro, Music, and Adds (Applying Fades and Crossfades)
+✅ -● Creating Intro, Outro
+✅ -● Adding ID3 Tags
+✅ -● Uploading to Hosting Platforms (Anchor, Podomatic, Podbean, Simplecast, Libsyn, Blubrry, SoundCloud, etc)
+✅ -● Podcast RSS Feed Submission to iTunes, Spotify, Stitcher, Google Play, iHeart Radio, etc.
+✅ -● Podcast consulting
+✅ -● Stitcher Setup
+✅ -● Podcast feed Error/Bug Fixing
+✅ -● Libsyn Account Setup
+✅ -● WordPress Podcast Websites
+✅ -● Podcast setup on WordPress, Squarespace, Joomla websites.
+
+
+Thanks!
+
+========================================= Wordpress, Shopify ==================================
+
+I am a Professional Freelance Developer. I have developed a wide range of websites using WordPress, Shopify, PHP/MySQL, HTML5/SCSS, Javascript, jQuery, Bootstrap, Front-End Web Development, and other Web Development Modern Technologies.
+
+My skill-set includes:
+
+★ Web : WordPress, Woocommerce, PHP, HTML, CSS, React, jQuery, Angularjs, Typescript, Bootstrap, Twitter Bootstrap
+★ E-commerce platform: Duda, Shopify
+★ Website Builder: Clickfunnels, DIVI Builder, Visual Composer
+★ Database: MS SQL Server, Oracle, MySql, SQLite, SSIS, SSRS, SSAS
+★ SVN, GitHub, TFS, FTP
+
+I have a thorough understanding of WordPress and advanced knowledge of the following:
+
+★ Front-end Development for Web App
+★ WordPress Custom/Child Theme Development
+★ WooCommerce Integration & Customization
+★ Genesis Framework & Child Theme Development
+★ PSD to HTML5, HTML5 / CSS3, CSS preprocessors (LESS/SASS)
+★ Bootstrap 3+,4+ (Bootstrap / Materializecss front-end kit), jQuery, AngularJS
+★ Responsive web design for mobile or any display resolution (media queries): Multi-Device Web Layout Pattern (Off-Canvas) and Mobile-First styles;
+
+Why should you HIRE ME?
+
+★ I'm always open to learn and try something new in front-end development.
+★ I always strive for originality and creativity in my work.
+★ I can provide you with an excellent service from good communication, production till the delivery.
+★ I never lose sight of deadlines or budgets.
+
+I have proven ability to develop multiple projects with medium to high complexity with quality work and on-time delivery.
+
+Our motive is to help customers to achieve their business objectives by providing innovative, best-in-class IT solutions and services, which correspond to client's requirements for 100% orbit more...
+
+Thanks for visiting my profile!
+
+
+======================= Shopify Skills =======================
+
+Shopify, Shopify apps, Shopify plus, web application, php, wordpress, ux/ui, javascript, shopify templates, 
+web design, web development
+
+======================= Frontend development =================
+
+For the last 6 years I have been working on creating modern high-tech web interfaces and web apps of varying complexity for worldwide big companies and small business using the newest technology stack such as VueJS, Angular/AngularJS, React, SASS, LESS, CSS3, Gulp, Git, Sketch, Figma, Adobe XD.
+
+I always stay focused and motivated, as I’m really interested in everything related to web development.
+During the work process I guarantee fast qualified and friendly communication, deep understanding of the requirements, meeting the timeline and using the best solutions for a particular project. My main rule is not only to get the job done but bring the value to the product or company, so it will be one step closer to be successful.
+
+I have a higher degree in software engineering, a bunch of frontend certifications, strong math background and lots of experience in this area, but I still keep the big learner inside myself, so I can always be on top of the latest trends and technologies.
+
+Besides all the experience in frontend development one of my main passion and expertise is web animation. It’s a pleasure to see an end user of a webpage impressed by smooth transitions on page load and scrolling. Mostly I use GSAP, ScrollMagic and CSS3, sometimes in combination with SVG to achieve that effect.
+
+My skill set: HTML5/CSS3, CSS3/JS animations, VueJS, AngularJS, React, Sass, SVG, JavaScript / jQuery, GSAP, ScrollMagic, Canvas, WordPress, Bootstrap, Gulp, Responsive web design, Page load optimization, PHP, MySql, NodeJS, MongoDB, Git.
+
+ =========================== Machine learning ===================================
+
+ Highly Accurate and experienced DL/ML engineer, with 3 years of experience as a DL/ML engineer and 7 years of experience as a technical advisor. Currently, I focus to explore various types of data for the various industries to solve certain issues or build a guideline, through stating the right questions and the most applicable methodologies by using:
+- Python.
+- Pandas
+- Numby.
+- Sklearn.
+- Skimage.
+- Tensorflow.
+- PyTorch
+- Keras.
+-OpenCV.
+-Microsoft Azure.
+-AWS Services.
+
+***********************************************************
+
+Adept to do:
+- Data Cleaning, Data Wrangling, Data visualization.
+- Numerical models and algorithms.
+-Statistical models.
+- Quantitative/Qualitative Analysis.
+- A/B testing.
+- Deep Learning Models.
+- Machine Learning Models.
+- Image processing.
+-Neuro Computing
+-Computer Vision
+
+************************************************************
+
+Eventually, I have a master's in civil engineering and a master's in Automotive Software Engineering. Also, I have published many academic paper in highly impact factor journals and participated in a book. Hence, my background and experience are the foundation to perform according to the client’s expectations.
+
+I am very much confident that I can highlight the business insights you are looking for, so if there is something I can help please do not hesitate to contact me. I look forward to hearing from you soon.
+
+Thank you.
+
+======================= Machine learning =======================================
+
+Machine Learning Engineer. Talented in building models from SCRATCH for supervised learning (Linear Regression , Logistic Regression , Support Vector Machine , Decision Tree , etc) and for unsupervised learning such as (Clustering) , and also Neural Network.
+I am also talented at Java or C++ tasks.
+
+I will make you have the best and optimal algorithms , and have the highest accuracy
+Here is my thoughts in building the models:
+1)Data preparation (Handle missing values , Deal with categorical variables , etc)
+2)Visualize the dataset to use the best algorithm to build the model
+3)Splitting the data into training , testing and validation set
+4)Prediction
+5)Evaluate the model
+6)Handle overfitting and underfitting
+
+For Java and C++ tasks , make sure that you will have a clean code
+You can check my client's feedback in my profile , to make sure that I am qualified to your job
+
+DON'T worry about deadlines, I guarantee that you will receive your work before the specific deadline.
+
+NOTE: Feel free to schedule a meeting or ask to call me😊
+
+====================== React Native| React | Redux ===========================
+
+Specializes in Full Stack Development
+
+I am a full-stack professional developer who is comfortable with architecting and implementing scalable and maintainable web apps.
+
+I can develop all kinds of server-side logic, definition, and maintenance of the central database, ensuring high performance and responsiveness to requests from the front-end.
+
+I have strong knowledge and experience in the following:
+o Fluent in Javascript with 5+ years of experience coding in this language
+o Familiarity with DOM, JQuery, JSP, HTML5/CSS3/LESS, Bootstrap
+o 100% mastery in React/Redux/Angular/Vue.JS
+o Strong Knowledge of Designing and Implementing Restful APIs and GraphQL
+o Fluency using Git and GitHub in the team environment
+o Strong Database Management Skills (PostgreSQL, MongoDB)
+o Deploying up the application on various clouds/web servers like AWS/Digital Ocean
+
+My work ethic:
+o Writing reusable, testable and efficient code all the time
+o Hard-working, fast-learning and highly competent
+
+Additionally, I have strong analytical skills, problem-solving aptitude, and attention to details. I am always up for learning new technologies, so feel free to contact me about stuff not mentioned on my profile. Most importantly though, I value my clients and work towards building long-lasting relationships by understanding your needs, keeping an open channel of communication and delivering your products on time.
